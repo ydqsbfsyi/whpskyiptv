@@ -86,7 +86,7 @@ CCTV17,http://111.13.42.238/TVOD/88888888/224/3221226459/1.m3u8
 港澳台,#genre#
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+无线新闻,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
 有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8#
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 华视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
