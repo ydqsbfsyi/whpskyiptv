@@ -13,6 +13,7 @@
 五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000#
 五星体育,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://121.51.74.85/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 上海ICS外语,http://219.151.139.35/keonline.shanghai.liveplay.qq.com/live/program/live/wypdhd/4000000/mnf.m3u8#
 上海ICS外语,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8#
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
