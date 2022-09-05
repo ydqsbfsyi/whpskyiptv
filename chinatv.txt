@@ -29,7 +29,7 @@
 纪实人文,http://39.135.32.235:6610/PLTV/77777777/224/3221226037/index.m3u8?servicetype=1
 全纪实,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
 生活时尚,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8#
+新视觉,http://219.151.139.35/keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8#
 新视觉,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 劲爆体育,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 魅力足球,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
