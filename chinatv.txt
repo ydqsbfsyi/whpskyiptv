@@ -5,7 +5,7 @@
 东方卫视,http://39.134.65.208/PLTV/88888888/224/3221225672/index.m3u8
 东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 上海新闻,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
-上海新闻,http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海新闻,http://121.51.74.85/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海新闻,http://223.111.195.52/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海新闻,http://219.151.139.35/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海都市,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
@@ -105,6 +105,7 @@ CCTV17,http://111.13.42.238/TVOD/88888888/224/3221226459/1.m3u8
 无线新闻,http://23.237.10.66:16110
 无线新闻,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
 有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8#
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 华视新闻,https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv052&hd=720
 民视新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=P8DRJChuQQQ&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
