@@ -97,10 +97,8 @@ CCTV17,http://111.13.42.238/TVOD/88888888/224/3221226459/1.m3u8
 深圳卫视,http://111.13.42.230/TVOD/88888888/224/3221226495/1.m3u8
 
 港澳台,#genre#
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://120.84.96.53:808/hls/28/index.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://39.135.138.58:18890/ysten-businessmobile/live/fhzixun/1.m3u8#http://120.84.96.53:808/hls/28/index.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://120.84.96.53:808/hls/29/index.m3u8
 凤凰香港,http://120.84.96.53:808/hls/81/index.m3u8
 无线新闻,http://23.237.10.66:16110
 无线新闻,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
@@ -127,7 +125,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 TVBS,https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv073&hd=720
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-东森新闻,https://4g.52sf.ga/channel.m3u8?fid=4gtv-live114&hd=720
 東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EB4g7wecgTI&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
@@ -135,15 +132,13 @@ TVBS,https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv073&hd=720
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
 壹新闻,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新闻,http://stream.nexttv.com.tw/n001/playlist.m3u8
-镜新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268#https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv075&hd=720
+镜新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 镜新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=5n0y6b0Q25o&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 靖天日本台,https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv047&hd=720
 日本24新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=coYw-eVU0Ks&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
-新唐人亚太台,https://4g.52sf.ga/channel.m3u8?fid=4gtv-live050&hd=720
 日本24新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-CNN头条新闻台,https://4g.52sf.ga/channel.m3u8?fid=4gtv-live203&hd=720
-CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8#https://4g.52sf.ga/channel.m3u8?fid=4gtv-live204&hd=720
+CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 FOX_News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 半島國際新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
 德国之声,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
