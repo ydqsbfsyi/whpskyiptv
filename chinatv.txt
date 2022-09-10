@@ -1,5 +1,4 @@
 ﻿上海,#genre#
-东方卫视,http://58.58.111.222:808/hls/20/index.m3u8
 东方卫视,http://112.25.48.70/live/program/live/hddfws/4000000/mnf.m3u8
 东方卫视,http://111.13.42.232/TVOD/88888888/224/3221226505/1.m3u8
 东方卫视,http://39.134.65.208/PLTV/88888888/224/3221225672/index.m3u8
@@ -97,7 +96,7 @@ CCTV17,http://111.13.42.238/TVOD/88888888/224/3221226459/1.m3u8
 深圳卫视,http://111.13.42.230/TVOD/88888888/224/3221226495/1.m3u8
 
 港澳台,#genre#
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://39.135.138.58:18890/ysten-businessmobile/live/fhzixun/1.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰香港,http://120.84.96.53:808/hls/81/index.m3u8
 无线新闻,http://23.237.10.66:16110
