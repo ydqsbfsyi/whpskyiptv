@@ -112,7 +112,6 @@ CHC家庭影院,http://117.148.129.5/PLTV/88888888/224/3221231799/index.m3u8
 有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8#http://98.142.138.122:1630/zhiboyuandakaTV/cable553607.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
-华视新闻,https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv052&hd=720
 民视新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=P8DRJChuQQQ&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 民视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://98.142.138.122:1634/zhiboyuandakaTV/mingshi9852740.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -129,12 +128,10 @@ RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 中天新闻,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian6382498.m3u8
-三立新闻,http://98.142.138.122:1636/zhiboyuandakaTV/sanli743729.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 TVBS,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5636099579.m3u8
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EB4g7wecgTI&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
@@ -143,7 +140,6 @@ TVBS,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5636099579.m3u8
 壹新闻,http://stream.nexttv.com.tw/n001/playlist.m3u8
 镜新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 镜新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=5n0y6b0Q25o&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
-緯來日本,rtmp://59.124.75.138/sat/tv771
 日本24新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=coYw-eVU0Ks&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 日本24新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
