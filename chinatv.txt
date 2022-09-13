@@ -109,7 +109,7 @@ CHC家庭影院,http://117.148.129.5/PLTV/88888888/224/3221231799/index.m3u8
 凤凰香港,http://120.84.96.53:808/hls/81/index.m3u8
 无线新闻,http://23.237.10.66:16110
 无线新闻,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
-有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8#http://98.142.138.122:1630/zhiboyuandakaTV/cable553607.m3u8
+有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 民视新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=P8DRJChuQQQ&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
@@ -125,7 +125,6 @@ RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 中天新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=_QbRXRnHMVY&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
-中天新闻,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian6382498.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 TVBS,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5636099579.m3u8
