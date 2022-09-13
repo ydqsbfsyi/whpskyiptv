@@ -120,7 +120,6 @@ RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 寰宇新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 寰宇新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=qFhAXrviP5g&P=1080
 寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-寰宇新闻,https://git.io/JgkpO#
 中视新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=TCnaIE_SAtM&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 中视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 中视新闻,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
