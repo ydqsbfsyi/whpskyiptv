@@ -108,8 +108,8 @@ CHC家庭影院,http://117.148.129.5/PLTV/88888888/224/3221231799/index.m3u8
 深圳卫视,http://111.13.42.230/TVOD/88888888/224/3221226495/1.m3u8
 
 港澳台,#genre#
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://222.76.119.198:9901/tsfile/live/1012_1.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://222.76.119.198:9901/tsfile/live/1013_1.m3u8
 凤凰香港,http://120.84.96.53:808/hls/81/index.m3u8
 无线新闻,http://23.237.10.66:16110
 无线新闻,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
@@ -130,9 +130,11 @@ RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 中天新闻,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian6382498.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5636099579.m3u8
-东森新闻,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews36993243.m3u8
-中天新闻台,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian6382498.m3u8
+TVBS,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5636099579.m3u8#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19
+东森新闻,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews36993243.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+中天新闻,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian6382498.m3u8
 三立新闻,http://98.142.138.122:1636/zhiboyuandakaTV/sanli743729.m3u8
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EB4g7wecgTI&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
@@ -150,7 +152,6 @@ ABCNews,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=vOTiJkg1voo&list
 FRANCE24,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=h3MuIUNCCzI&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 
 斗鱼,#genre#
-斗鱼云旅行,http://tc-tct.douyucdn2.cn/dyliveflv3a/11079565rJCPBoLs.flv?wsAuth=cd39378b3ed61b7b332f5246fac54a45&token=cpn-androidmpro-0-11079565-2024648dbdff000e5e74f5582673ab749fc48d71097eff1e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 斗鱼电影1,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=615bfc3b52513d483ba6876b2917e01e&token=cpn-androidmpro-0-3637778-8c089871434b934423133b85b75d8ec8e9960f31fd6420a6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=39995224770bfe4a6bc9ff9eec068ca2&token=cpn-androidmpro-0-3637726-a97a3241d76138340158698d1893a48e5ac84d2ff682e88c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 斗鱼电影3,http://tc-tct.douyucdn2.cn/dyliveflv3/10240539reLuSlOg.flv?wsAuth=d2c07ad43766b5b99389622a64283929&token=cpn-androidmpro-0-10240539-634f8de57f44783d1984d2759063bb790e6f288a7d02db0a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
