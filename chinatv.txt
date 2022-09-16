@@ -114,8 +114,7 @@ CHC家庭影院,http://117.148.129.5/PLTV/88888888/224/3221231799/index.m3u8
 无线新闻,http://23.237.10.66:16110
 无线新闻,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
 有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8
-有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8#http://98.142.138.122:1630/zhiboyuandakaTV/cable553607.m3u8
-有线直播新闻台,http://98.142.138.122:1639/zhiboyuandakaTV/icablenewslive332296.m3u8
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 民视新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=P8DRJChuQQQ&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 民视新闻,http://98.142.138.122:1634/zhiboyuandakaTV/mingshi9852740.m3u8
@@ -128,14 +127,9 @@ RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 中视新闻,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 中天新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=_QbRXRnHMVY&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
-中天新闻,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian6382498.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5636099579.m3u8#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19
-东森新闻,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews36993243.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+东森新闻,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews36993243.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-中天新闻,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian6382498.m3u8
-三立新闻,http://98.142.138.122:1636/zhiboyuandakaTV/sanli743729.m3u8
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EB4g7wecgTI&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 壹新闻,http://stream.nexttv.com.tw/n001/hd/live.m3u8
