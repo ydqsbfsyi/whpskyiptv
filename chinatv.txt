@@ -115,12 +115,9 @@ CHC家庭影院,http://117.148.129.5/PLTV/88888888/224/3221231799/index.m3u8
 无线新闻,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
 有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻,http://98.142.138.122:1630/zhiboyuandakaTV/cable559854398.m3u8
-有线财经新聞台,http://98.142.138.122:1631/zhiboyuandakaTV/icable53832845.m3u8
-有线直播新聞台,http://98.142.138.122:1639/zhiboyuandakaTV/icablenewslive838725.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
+华视新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1663509897/ei/KNEmY7mMOIjm4gLty4bYBQ/ip/20.205.10.150/id/wM0g8EoUZ_E.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-i3belney.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/hk/vprv/1/playlist_type/DVR/initcwndbps/8016250/mh/93/mm/44/mn/sn-i3belney/ms/lva/mv/m/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1663487799/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAPoEBzz0mw-U_EtIJn4cpD6AbfwopgjW9dSVarnZ2p2sAiEAkFkHtBwYoRD0RwGoJsJShqh9fEcMIu3BGvJgthxc4Rc%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgJvbm185QWMuZXgY6p1aKD3R9K-Zr52SoK5D5yhPDELUCIQC5zNlsjWeXM9yMK-zziuM7Mm6UkW_J6X85MzvHwEQh3g%3D%3D/playlist/index.m3u8
 民视新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=P8DRJChuQQQ&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
-民视新闻,http://98.142.138.122:1634/zhiboyuandakaTV/mingshi9852740.m3u8
 台视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 寰宇新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
@@ -132,7 +129,8 @@ RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-东森新闻,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews36993243.m3u8
+TVBS,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1663510122/ei/CtImY6PcBPGPvcAPs_SM8A4/ip/20.205.10.150/id/YvdcZ_jpLXE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-i3b7kn6s.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/hk/vprv/1/playlist_type/DVR/initcwndbps/5293750/mh/6C/mm/44/mn/sn-i3b7kn6s/ms/lva/mv/m/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1663488032/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAKv2lTz_poHhmdtn45yZ5TEvbCydMjxc8Y3OXqAK2Hx6AiEA2D3ttRU3Kto6yqEZBxMDH2vgWnRFizeermHcrrxnfmg%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgT561JWTaRtklRATDPQsDbySKgB4zrvi9Bfk7rZYbyqsCIBSVyeEpHcAwtXwwLio16xnAESEWpC7kDJ7asKvRFYzB/playlist/index.m3u8
+东森新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1663509401/ei/Oc8mY9uCKLS12roPgauTiAc/ip/20.205.10.150/id/R2iMq5LKXco.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-i3belnl6.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/hk/vprv/1/playlist_type/DVR/initcwndbps/10542500/mh/Ij/mm/44/mn/sn-i3belnl6/ms/lva/mv/m/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1663487315/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIhAPqG3gqdQ4bBcUhuo81pGGUFdepJZh8PYRjOrcYHzE-hAiBzixHBaxWLZsXly62iQ7FbTiZl1Jl8pyuqoDoqpbjzOA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgXI6fXoFm2X48e1TR2o0lYwijm6cbmiu_CC3c8SOwFooCIDiUhTlCpwl7CojV34yKxkHMSBr6I-MNQRpdV271ibRX/playlist/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EB4g7wecgTI&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
