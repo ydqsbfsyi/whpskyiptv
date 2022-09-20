@@ -146,15 +146,13 @@ FRANCE24,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=h3MuIUNCCzI&lis
 斗鱼4K,https://live.52sf.ga/douyu/9970646
 斗鱼云旅行,https://live.52sf.ga/douyu/9257160
 斗鱼云旅行2,https://live.52sf.ga/douyu/9452399
-斗鱼云旅行3,https://live.52sf.ga/douyu/6563725
-斗鱼云旅行4,https://live.52sf.ga/douyu/9358196
+斗鱼云旅行3,https://live.52sf.ga/douyu/9358196
 斗鱼电影1,https://live.52sf.ga/douyu/3637778
 斗鱼电影2,https://live.52sf.ga/douyu/3637726
 斗鱼电影3,https://live.52sf.ga/douyu/6027991
 斗鱼电影4,https://live.52sf.ga/douyu/8985415
 斗鱼电影5,https://live.52sf.ga/douyu/9650887
 斗鱼电影6,https://live.52sf.ga/douyu/1226741
-斗鱼电影7,https://live.52sf.ga/douyu/3413573
 斗鱼电影8,https://live.52sf.ga/douyu/36337
 斗鱼电影9,https://live.52sf.ga/douyu/2436390
 斗鱼电影10,https://live.52sf.ga/douyu/6537888
@@ -171,7 +169,6 @@ FRANCE24,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=h3MuIUNCCzI&lis
 斗鱼电影21,https://live.52sf.ga/douyu/2516864
 斗鱼电影22,https://live.52sf.ga/douyu/4332
 斗鱼电影23,https://live.52sf.ga/douyu/9651304
-斗鱼电影24,https://live.52sf.ga/douyu/9650887
 斗鱼电影25,https://live.52sf.ga/douyu/8814650
 斗鱼电影26,https://live.52sf.ga/douyu/8945323
 斗鱼电影27,https://live.52sf.ga/douyu/315131
