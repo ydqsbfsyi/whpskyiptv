@@ -151,7 +151,6 @@ FRANCE24,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=h3MuIUNCCzI&lis
 斗鱼云旅游7,https://live.52sf.ga/douyu/9527954
 斗鱼云旅游8,https://live.52sf.ga/douyu/5820284
 斗鱼云旅游9,https://live.52sf.ga/douyu/1668562
-斗鱼云旅游10,https://live.52sf.ga/douyu/9970646
 斗鱼云旅游广州,https://live.52sf.ga/douyu/4893713
 罗翔说法1,https://live.52sf.ga/douyu/8805
 罗翔说法2,https://live.52sf.ga/douyu/633201
