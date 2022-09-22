@@ -160,6 +160,7 @@ FRANCE24,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=h3MuIUNCCzI&lis
 罗翔说法2,https://live.52sf.ga/douyu/633201
 养猫吧,https://live.52sf.ga/douyu/648814
 两支猫咪,https://live.52sf.ga/douyu/4603670
+开心麻花,https://live.52sf.ga/douyu/9374862
 斗鱼电影1,https://live.52sf.ga/douyu/3637778
 斗鱼电影2,https://live.52sf.ga/douyu/3637726
 斗鱼电影3,https://live.52sf.ga/douyu/8985415
