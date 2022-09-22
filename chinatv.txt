@@ -157,6 +157,10 @@ FRANCE24,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=h3MuIUNCCzI&lis
 养猫吧,https://live.52sf.ga/douyu/648814
 两支猫咪,https://live.52sf.ga/douyu/4603670
 开心麻花,https://live.52sf.ga/douyu/9374862
+小品1,https://live.52sf.ga/douyu/9067836
+小品2,https://live.52sf.ga/douyu/1486165
+宋小宝,https://live.52sf.ga/douyu/9817729
+赵本山,https://live.52sf.ga/douyu/9817716
 斗鱼电影1,https://live.52sf.ga/douyu/3637778
 斗鱼电影2,https://live.52sf.ga/douyu/3637726
 斗鱼电影3,https://live.52sf.ga/douyu/8985415
@@ -191,8 +195,6 @@ FRANCE24,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=h3MuIUNCCzI&lis
 斗鱼电视剧HD5,https://live.52sf.ga/douyu/6566658
 斗鱼电视剧HD6,https://live.52sf.ga/douyu/6027991
 野生动物世界,https://live.52sf.ga/douyu/4360438
-宋小宝,https://live.52sf.ga/douyu/9817729
-赵本山,https://live.52sf.ga/douyu/9817716
 尖上的火锅,https://live.52sf.ga/douyu/9650849
 看看世界,https://live.52sf.ga/douyu/442280
 宇宙探索飞船,https://live.52sf.ga/douyu/9456028
