@@ -137,6 +137,7 @@ ELTA體育2台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=47
 ELTA體育3台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=48
 ELEVEN1,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=50
 ELEVEN2,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=51
+緯來體育,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=83
 日本24新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=coYw-eVU0Ks&P=1080
 日本24新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
