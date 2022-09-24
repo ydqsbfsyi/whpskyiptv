@@ -18,8 +18,6 @@ http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/m
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
 http://live.cooltv.top/tv/bestv.php?id=20
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
-https://epg.pm/stream/83739cbc3f7087d7b34662a68ee2a702b23479d2c61edafe56a853b980b29346.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
 http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
 http://121.51.74.85/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
@@ -208,7 +206,7 @@ https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=qFhAXrviP5g&P=1080
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="港澳台",寰宇新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="港澳台",寰宇新闻
-https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&P=1080
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=TCnaIE_SAtM&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="港澳台",中天新闻
@@ -216,13 +214,15 @@ https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=_QbRXRnHMVY&P=1080
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
 http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="港澳台",中天新闻
-https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=_QbRXRnHMVY&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=_QbRXRnHMVY&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="港澳台",中天新闻
 http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=FNurujpWqLQ&P=1080
+#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="港澳台",三立新闻
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=L9cD7ndPGsM&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="港澳台",三立iNEWS
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="港澳台",三立iNEWS
@@ -236,7 +236,7 @@ http://stream.nexttv.com.tw/n001/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="港澳台",镜新闻
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=5n0y6b0Q25o&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png" group-title="国际",日本24新闻
-https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=coYw-eVU0Ks&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=coYw-eVU0Ks&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png" group-title="国际",日本24新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="国际",日本NHK华语
@@ -246,6 +246,18 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="国际",FOX_News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="国际",FRANCE24
-https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=h3MuIUNCCzI&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=1080
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=h3MuIUNCCzI&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际",ABCNews
-https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=vOTiJkg1voo&list=PLU2nBuLe1NVh03BeZr00nrXOWXEaQfFZE&P=720
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=vOTiJkg1voo&P=720
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/NEWS12.png" group-title="国际",News12
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=2siPsB-DDzc&P=1080
+#EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="国际",Euronews
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=6gs9xyXAki4&P=1080
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/GB_NEWS.png" group-title="国际",GB_News
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=5SOmL-522CA&P=1080
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/ANEW.png" group-title="国际",ANew
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=9-KuWZ_R6uY&P=1080
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/NEWSMAX.png" group-title="国际",Newsmax
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=GdsLCQepOtw&P=720
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/AFRICANEWS.png" group-title="国际",Africanews
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=NQjabLGdP5g&P=720
