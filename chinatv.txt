@@ -128,6 +128,7 @@ RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+三立新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=L9cD7ndPGsM&P=1080
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&P=1080
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EB4g7wecgTI&P=1080
 壹新闻,http://stream.nexttv.com.tw/n001/hd/live.m3u8
@@ -146,6 +147,12 @@ CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 FOX_News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 ABCNews,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=vOTiJkg1voo&P=720
 FRANCE24,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=h3MuIUNCCzI&P=1080
+News12,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=2siPsB-DDzc&P=1080
+Euronews,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=6gs9xyXAki4&P=1080
+GB_News,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=5SOmL-522CA&P=1080
+ANew,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=9-KuWZ_R6uY&P=1080
+Newsmax,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=GdsLCQepOtw&P=720
+Africanews,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=NQjabLGdP5g&P=720
 
 斗鱼,#genre#
 斗鱼4K,https://live.52sf.ga/douyu/9970646
