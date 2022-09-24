@@ -7,7 +7,7 @@
 东方卫视,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
 东方卫视,http://219.151.139.35/keonline.shanghai.liveplay.qq.com/live/program/live/hddfws/4000000/mnf.m3u8
 东方卫视,http://39.134.116.30/PLTV/88888888/224/3221225658/index.m3u8
-上海新闻,http://live.cooltv.top/tv/bestv.php?id=20#https://epg.pm/stream/83739cbc3f7087d7b34662a68ee2a702b23479d2c61edafe56a853b980b29346.m3u8
+上海新闻,http://live.cooltv.top/tv/bestv.php?id=20
 上海新闻,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海新闻,http://121.51.74.85/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海新闻,http://223.111.195.52/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
@@ -220,11 +220,11 @@ Africanews,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=NQjabLGdP5g&P
 虎牙电影3,https://live.52sf.ga/huya/11342412
 虎牙电影4,https://live.52sf.ga/huya/11342386
 虎牙电影5,https://live.52sf.ga/huya/11601986
-虎牙电影6https://live.52sf.ga/huya/11601971
+虎牙电影6,https://live.52sf.ga/huya/11601971
 虎牙电影7,https://live.52sf.ga/huya/11336592
 虎牙电影8,https://live.52sf.ga/huya/11342390
 虎牙电影9,https://live.52sf.ga/huya/11352941
-虎牙电影10，https://live.52sf.ga/huya/11279251
+虎牙电影10,https://live.52sf.ga/huya/11279251
 虎牙电影11,https://live.52sf.ga/huya/11602041
 虎牙电影12,https://live.52sf.ga/huya/11352963
 虎牙电影13,https://live.52sf.ga/huya/11342414
