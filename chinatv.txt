@@ -200,7 +200,6 @@ Newsmax,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=GdsLCQepOtw&P=72
 Africanews,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=NQjabLGdP5g&P=720
 
 斗鱼,#genre#
-斗鱼4K,https://live.52sf.ga/douyu/9970646
 斗鱼云旅行,https://live.52sf.ga/douyu/9257160
 斗鱼云旅行2,https://live.52sf.ga/douyu/9452399
 斗鱼云旅行3,https://live.52sf.ga/douyu/9358196
