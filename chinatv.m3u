@@ -275,6 +275,8 @@ http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=53
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台湾",东森新闻台
 https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=43
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东森美洲.png" group-title="台湾",东森美洲
+http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ylYJSBUgaMA&P=1080
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
@@ -313,8 +315,6 @@ https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=78#
 http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲
 http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东森美洲.png" group-title="台湾",东森美洲
-http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="台湾",三立新闻台
 https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=75
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立iNEWS
@@ -395,8 +395,6 @@ https://live.52sf.ga/douyu/8805
 https://live.52sf.ga/douyu/633201
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/养猫吧.png" group-title="斗鱼",养猫吧
 https://live.52sf.ga/douyu/648814
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/两支猫咪.png" group-title="斗鱼",两支猫咪
-https://live.52sf.ga/douyu/4603670
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/开心麻花.png" group-title="斗鱼",开心麻花
 https://live.52sf.ga/douyu/9374862
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/小品1.png" group-title="斗鱼",小品1
