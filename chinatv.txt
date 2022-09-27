@@ -129,7 +129,6 @@ CHC动作,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 凤凰中文,http://feidao1983.f3322.net:4022/udp/239.93.0.162:2192
 凤凰中文http://feidao1983.f3322.net:4022/udp/239.93.1.55:8302
 凤凰中文,http://feidao1983.f3322.net:4022/udp/239.93.1.9:2192
-凤凰香港,http://120.84.96.53:808/hls/81/index.m3u8
 翡翠台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=1
 J2,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=6
 明珠台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=7
@@ -141,15 +140,14 @@ RTHK31,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=13
 RTHK32,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=14
 ViuTV,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=17
 无线财经,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=19
-无线新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=20
+无线新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=20#http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8
 香港开电视,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=23
 有线18,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=25
 有线财经资讯台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=26
 有线603,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=27
 有线体育,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=28
-有线新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=29
+有线新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=29#http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8
 无线新闻,http://23.237.10.66:16110
-无线新闻,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
 有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
@@ -167,7 +165,7 @@ RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=81
-TVBS,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=78
+TVBS,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=78#http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 三立新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=75
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&P=1080
