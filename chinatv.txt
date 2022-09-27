@@ -154,7 +154,9 @@ RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 华视,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=53
 东森新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=43
 民视新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ylYJSBUgaMA&P=1080
-台视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#
+民视新闻,http://98.142.138.122:1634/zhiboyuandakaTV/mingshi838552450.m3u8 
+台视新闻,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews92755.m3u8
+台视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 寰宇新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&P=1080
 寰宇新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=qFhAXrviP5g&P=1080
@@ -163,9 +165,13 @@ RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 中视新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=90
 中天新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=_QbRXRnHMVY&P=1080
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
+中天新闻,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian98432987.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=81
-TVBS,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=78#http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
+TVBS新闻,http://98.142.138.122:1633/zhiboyuandakaTV/tvbs562517350.m3u8
+TVBS,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=78
+TVBS,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
+TVBS亚洲,http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 三立新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=75
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&P=1080
