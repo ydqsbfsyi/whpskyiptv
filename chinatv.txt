@@ -32,7 +32,7 @@
 上海东方影视,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
 上海东方影视,http://219.151.139.35/keonline.shanghai.liveplay.qq.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
 都市剧场,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
-纪实人文http://117.148.129.68/PLTV/88888888/224/3221231612/index.m3u8
+纪实人文,http://117.148.129.68/PLTV/88888888/224/3221231612/index.m3u8
 全纪实,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
 生活时尚,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
 新视觉,http://219.151.139.35/keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8#
