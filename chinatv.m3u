@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz,https://epg.112114.xyz/pp.xml,https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml,https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/guide.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-rtsp://221.203.83.35:554/PLTV/88888888/224/3221226512/10000100000000060000000000356890_0.smil
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://live.cooltv.top/tv/bestv.php?id=22#
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://live.cooltv.top/tv/aishang.php?id=dfwshd
