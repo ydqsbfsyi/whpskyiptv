@@ -170,7 +170,6 @@ Africanews,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=NQjabLGdP5g&P
 斗鱼云旅游7,https://live.52sf.ga/douyu/9527954
 斗鱼云旅游8,https://live.52sf.ga/douyu/5820284
 斗鱼云旅游9,https://live.52sf.ga/douyu/1668562
-斗鱼云旅游广州,https://live.52sf.ga/douyu/4893713
 罗翔说法1,https://live.52sf.ga/douyu/8805
 罗翔说法2,https://live.52sf.ga/douyu/633201
 养猫吧,https://live.52sf.ga/douyu/648814
@@ -234,7 +233,6 @@ Africanews,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=NQjabLGdP5g&P
 奶瓶科幻片,http://epg.112114.xyz/douyu/6655271
 避风港影院,http://epg.112114.xyz/douyu/9826611
 林林影院,http://epg.112114.xyz/douyu/9652323
-漫威电影,http://epg.112114.xyz/douyu/4282654
 恐怖经典,http://epg.112114.xyz/douyu/1165374
 变种人电影,http://epg.112114.xyz/douyu/9651304
 华语电影,http://epg.112114.xyz/douyu/3928
