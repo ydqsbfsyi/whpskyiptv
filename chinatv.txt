@@ -137,6 +137,8 @@ TVBS新闻,https://epg.pm/stream/215ede58359c29ec190657d813abcc47baf7316e7ed87c9
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://98.142.138.122:1633/zhiboyuandakaTV/tvbs562517350.m3u8
 TVBS,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
+TVBS,https://epg.pm/stream/2e8390f877cf860e7f3375a6b7c46b7ea5ce122a19189a2b160d4a75c88f7b08.m3u8
+TVBS,https://epg.pm/stream/6d6f23c9d21c689447c3cc159c0d2a5f2b866b45243460c294263c8dabe6c4c5.m3u8
 TVBS亚洲,http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&P=1080
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EB4g7wecgTI&P=1080
