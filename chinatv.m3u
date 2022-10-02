@@ -216,58 +216,18 @@ http://feidao1983.f3322.net:4022/udp/239.93.0.162:2192
 http://feidao1983.f3322.net:4022/udp/239.93.1.55:8302
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
 http://feidao1983.f3322.net:4022/udp/239.93.1.9:2192
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=1
-#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="香港",J2
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=6
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=7
-#EXTINF:-1,tvg-id="NOW财经台" tvg-name="NOW财经台" tvg-logo="https://epg.112114.xyz/logo/NOW财经台.png" group-title="香港",NOW财经
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTSPRIME.png" group-title="香港",NOW SPORTS PRIME
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=9
-#EXTINF:-1,tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOW新闻台.png" group-title="香港",NOW新闻
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=10
-#EXTINF:-1,tvg-id="NOW直播台" tvg-name="NOW直播台" tvg-logo="https://epg.112114.xyz/logo/NOW直播台.png" group-title="香港",NOW直播
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=11
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="香港",RTHK31
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=13
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="香港",RTHK32
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=14
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="香港",RTHK32
 http://livetv.dnsfor.me:80/channel.2.m3u8
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港",ViuTV
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=17
-#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="香港",无线财经
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=19
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=20#
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
 http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
 http://23.237.10.66:16110
-#EXTINF:-1,tvg-id="香港开电视" tvg-name="香港开电视" tvg-logo="https://epg.112114.xyz/logo/香港开电视.png" group-title="香港",香港开电视
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=23
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/有线18.png" group-title="香港",有线18
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=25
-#EXTINF:-1,tvg-id="有线财经资讯台" tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="香港",有线财经资讯台
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=26
-#EXTINF:-1,tvg-id="有线体育台" tvg-name="有线体育台" tvg-logo="https://epg.112114.xyz/logo/有线体育台.png" group-title="香港",有线603
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=27
-#EXTINF:-1,tvg-id="有线体育台" tvg-name="有线体育台" tvg-logo="https://epg.112114.xyz/logo/有线体育台.png" group-title="香港",有线体育
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=28
-#EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=29#
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
 http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
 http://livetv.dnsfor.me:80/channel.5.m3u8
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="台湾",华视
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=53
-#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台湾",东森新闻台
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=43
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东森美洲.png" group-title="台湾",东森美洲
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
@@ -322,22 +282,6 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 http://stream.nexttv.com.tw/n001/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾",镜新闻
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=5n0y6b0Q25o&P=1080
-#EXTINF:-1,tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://epg.112114.xyz/logo/纬来日本台.png" group-title="台湾",纬来日本
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=82
-#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="台湾",纬来体育台
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=83
-#EXTINF:-1,tvg-id="纬来育乐台" tvg-name="纬来育乐台" tvg-logo="https://epg.112114.xyz/logo/纬来育乐台.png" group-title="台湾",纬来育乐台
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=84
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/ELTA體育1台.png" group-title="台湾",ELTA體育1台
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=46
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/ELTA體育2台.png" group-title="台湾",ELTA體育2台
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=47
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/ELTA體育3台.png" group-title="台湾",ELTA體育3台
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=48
-#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="台湾",ELEVEN1
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=50
-#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="台湾",ELEVEN2
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=51
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png" group-title="国际",日本24新闻
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=coYw-eVU0Ks&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png" group-title="国际",日本24新闻
@@ -353,7 +297,7 @@ https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=h3MuIUNCCzI&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际",ABCNews
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=vOTiJkg1voo&P=720
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/NEWS12.png" group-title="国际",News12
-https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=2siPsB-DDzc&P=1080
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=20tJlHmPfus&P=1080
 #EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="国际",Euronews
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=6gs9xyXAki4&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/GB_NEWS.png" group-title="国际",GB_News
