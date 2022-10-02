@@ -151,8 +151,6 @@ http://58.58.111.222:808/hls/17/index.m3u8
 http://111.13.42.238/TVOD/88888888/224/3221226887/1.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://111.13.42.238/TVOD/88888888/224/3221226459/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="央视",4k电影
-http://111.20.33.70/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CHC影院.png" group-title="央视",CHC影院
 http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CHC电影.png" group-title="央视",CHC电影
@@ -342,8 +340,6 @@ https://live.52sf.ga/douyu/9527954
 https://live.52sf.ga/douyu/5820284
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游8.png" group-title="斗鱼",斗鱼云旅游8
 https://live.52sf.ga/douyu/1668562
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游广州.png" group-title="斗鱼",斗鱼云旅游广州
-https://live.52sf.ga/douyu/4893713
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/罗翔说法1.png" group-title="斗鱼",罗翔说法1
 https://live.52sf.ga/douyu/8805
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/罗翔说法2.png" group-title="斗鱼",罗翔说法2
@@ -470,8 +466,6 @@ http://epg.112114.xyz/douyu/6655271
 http://epg.112114.xyz/douyu/9826611
 #EXTINF:-1 logo="" group-title="斗鱼" ,林林影院
 http://epg.112114.xyz/douyu/9652323
-#EXTINF:-1 logo="" group-title="斗鱼" ,漫威电影
-http://epg.112114.xyz/douyu/4282654
 #EXTINF:-1 logo="" group-title="斗鱼" ,恐怖经典
 http://epg.112114.xyz/douyu/1165374
 #EXTINF:-1 logo="" group-title="斗鱼" ,变种人电影
