@@ -244,8 +244,6 @@ https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=qFhAXrviP5g&P=1080
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="台湾",中视新闻
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=TCnaIE_SAtM&P=1080
-#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="台湾",中视新闻
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=90
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾",中天新闻
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=_QbRXRnHMVY&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾",中天新闻
@@ -268,14 +266,10 @@ https://epg.pm/stream/2e8390f877cf860e7f3375a6b7c46b7ea5ce122a19189a2b160d4a75c8
 https://epg.pm/stream/6d6f23c9d21c689447c3cc159c0d2a5f2b866b45243460c294263c8dabe6c4c5.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲
 http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
-#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="台湾",三立新闻台
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=75
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立iNEWS
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立iNEWS
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EB4g7wecgTI&P=1080
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/壹新闻.png" group-title="台湾",壹新闻
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=86
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/壹新闻.png" group-title="台湾",壹新闻
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/壹新闻.png" group-title="台湾",壹新闻
