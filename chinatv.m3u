@@ -252,6 +252,8 @@ https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=_QbRXRnHMVY&P=1080
 http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾",中天新闻
 http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian98432987.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻2.png" group-title="台湾",中天新闻2
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=WPfPjbOLNfE&P=1080
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
 https://epg.pm/stream/215ede58359c29ec190657d813abcc47baf7316e7ed87c97638c7bb733df304a.m3u8
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
