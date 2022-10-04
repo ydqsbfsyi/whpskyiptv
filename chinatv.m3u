@@ -326,7 +326,7 @@ https://epg.pm/stream/215ede58359c29ec190657d813abcc47baf7316e7ed87c97638c7bb733
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
 http://www.penis18.org/stream/595878a8b9f62a6d45b75289801df328
-#EXTINF:-1,tvg-name="TVBS" tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="国际",TVBS
+#EXTINF:-1,tvg-name="TVBS" tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾",TVBS
 http://www.penis18.org/stream/7c3808add90d5876fb7070222bcd0fc3
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲
 http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
@@ -384,10 +384,6 @@ http://www.penis18.org/stream/c440b09aa6c62c6376982598d796b079
 http://www.penis18.org/stream/745d4ac4b51ca87c8b3b1c50f7410ff1
 #EXTINF:-1,tvg-name="ELEVEN 1" tvg-id="" tvg-logo="" group-title="体育",ELEVEN 1
 http://www.penis18.org/stream/7ccf8b87a368f75b24cb31d6186135ff
-#EXTINF:-1, tvg-name="ELEVEN 1" tvg-id="" tvg-logo="" group-title="体育",ELEVEN 1
-http://www.penis18.org/stream/1392a6f3a42ef804c202555c9e5117b9
-#EXTINF:-1,tvg-name="ELEVEN 1" tvg-id="1354" tvg-logo="" group-title="体育",ELEVEN 1
-http://www.penis18.org/stream/7d032ef4079ef3acb71c17d14d6d44d2
 #EXTINF:-1, tvg-name="ELEVEN 2" tvg-id="1355" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育",ELEVEN 2
 http://www.penis18.org/stream/377cdd4fac3e191c1d0ac22dd8d7d60c
 #EXTINF:-1, tvg-name="博斯网球" tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title=体育",博斯网球
@@ -404,7 +400,7 @@ http://www.penis18.org/stream/f43851e1230d1ccd4df2db5a1ec807cd
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=coYw-eVU0Ks&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png" group-title="国际",日本24新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="港澳台",NHK_world
+#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="国际",NHK_world
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=f0lYkdA-Gtw&P=1080
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
