@@ -258,6 +258,10 @@ http://feidao1983.f3322.net:4022/udp/239.93.1.9:2192
 http://98.142.138.122:1636/zhiboyuandakaTV/tvbhuali88887.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
 http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade7367895023.m3u8
+#EXTINF:0 channelID="x-ID.295" tvg-chno="1295" tvg-name="明珠台" tvg-id="1295" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港",明珠台
+http://www.penis18.org/stream/5c5ad77e753cbb8316ba8e169852e43a
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
+http://www.penis18.org/stream/e63eb1fc4537dbe20054353418377a63
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
 http://98.142.138.122:1632/zhiboyuandakaTV/tvbnews92=56778.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
@@ -284,18 +288,22 @@ http://98.142.138.122:1632/zhiboyuandakaTV/hkopentv205634.m3u8
 https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/面包台.png" group-title="香港",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1,tvg-name="东森新闻" tvg-id="1318" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾",东森新闻
+http://www.penis18.org/stream/8754b876b693f938e79f13b5e26a3467
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东森美洲.png" group-title="台湾",东森美洲
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ylYJSBUgaMA&P=1080
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
-http://98.142.138.122:1634/zhiboyuandakaTV/mingshi838552450.m3u8 
+http://www.penis18.org/stream/94bd7d2f6eac15935c38fe6283a9aae4
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾",台视新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾",台视新闻
 http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews92755.m3u8
+#EXTINF:-1, tvg-name="年代新闻" tvg-id="1328" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台湾",年代新闻
+http://www.penis18.org/stream/df31aa03a1c9c271c8ba2398664d18c2
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾",寰宇新闻
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&P=1080
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾",寰宇新闻
@@ -317,13 +325,9 @@ https://epg.pm/stream/215ede58359c29ec190657d813abcc47baf7316e7ed87c97638c7bb733
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
-http://98.142.138.122:1633/zhiboyuandakaTV/tvbs562517350.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
-http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
-https://epg.pm/stream/2e8390f877cf860e7f3375a6b7c46b7ea5ce122a19189a2b160d4a75c88f7b08.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
-https://epg.pm/stream/6d6f23c9d21c689447c3cc159c0d2a5f2b866b45243460c294263c8dabe6c4c5.m3u8
+http://www.penis18.org/stream/595878a8b9f62a6d45b75289801df328
+#EXTINF:-1,tvg-name="TVBS" tvg-id="1308" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="国际",TVBS
+http://www.penis18.org/stream/7c3808add90d5876fb7070222bcd0fc3
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲
 http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立iNEWS
@@ -336,6 +340,74 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 http://stream.nexttv.com.tw/n001/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾",镜新闻
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=5n0y6b0Q25o&P=1080
+#EXTINF:-1,tvg-name="亚洲旅游台" tvg-id="1317" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="台湾",亚洲旅游台
+http://www.penis18.org/stream/c3908752236c4ab354e55fb17fe6dee2
+#EXTINF:-1,tvg-name="EYE TV旅游" tvg-id="1345" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="台湾",EYE TV旅游
+http://www.penis18.org/stream/1133ab57a6356005815a5df850d810e3
+#EXTINF:-1,tvg-name="龙华戏剧" tvg-id="1377" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="影视",龙华戏剧
+http://www.penis18.org/stream/261521baa0f244ec6473d82bc40de609
+#EXTINF:-1,tvg-name="龙华洋片" tvg-id="1378" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华洋片.png" group-title="影视",龙华洋片
+http://www.penis18.org/stream/385f6cba05aaae8a3560a399fc2c289c
+#EXTINF:-1,tvg-name="龙华经典" tvg-id="1379" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华经典.png" group-title="影视",龙华经典
+http://www.penis18.org/stream/a2d0445ce6ade3dfc0dcf901ffeaeaca
+#EXTINF:-1,tvg-name="LS Time龙祥時代电影台" tvg-id="1380" tvg-logo="" group-title="影视",LS Time龙祥時代电影台
+http://www.penis18.org/stream/fe1cc105eddc0a90706f5803869155fa
+#EXTINF:-1,tvg-name="LS Time龙祥時代电影台" tvg-id="1381" tvg-logo="" group-title="影视",LS Time龙祥時代电影台
+http://www.penis18.org/stream/6d5c146249f57ece014e8396bd866024
+#EXTINF:-1,tvg-name="天映频道" tvg-id="1262" tvg-logo="" group-title="影视",天映频道
+http://www.penis18.org/stream/dc5a17120329738b1ac93e2059891fd9
+#EXTINF:-1,tvg-name="美亚电影台" tvg-id="1339" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="影视",美亚电影台
+http://www.penis18.org/stream/5987745a2c89e417d7dd2bcd84662b5a
+#EXTINF:-1,tvg-name="美亚电影台" tvg-id="1340" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="影视",美亚电影台
+http://www.penis18.org/stream/5987745a2c89e417d7dd2bcd84662b5a
+#EXTINF:-1,tvg-name="好莱坞电影" tvg-id="1337" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="影视",好莱坞电影
+http://www.penis18.org/stream/0666ad53760ee1c6a5c48c075b35d73e
+#EXTINF:-1,tvg-name="东森洋片台" tvg-id="1321" tvg-logo="" group-title="影视",东森洋片台
+http://www.penis18.org/stream/6967bbea95b89836fd4d241465ac31c5
+#EXTINF:-1,tvg-name="东森洋片台" tvg-id="1322" tvg-logo="" group-title="影视",东森洋片台
+http://www.penis18.org/stream/1092162a0c64bac4e39d45f6697ba675
+#EXTINF:-1,tvg-name="东森电影" tvg-id="1323" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="影视",东森电影
+http://www.penis18.org/stream/0cb58e1c4f619ea0ae97a74a1ce11a9b
+#EXTINF:-1,tvg-name="东森戏剧" tvg-id="1324" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="影视",东森戏剧
+http://www.penis18.org/stream/ceb63c3e5944d2325f5a5193599f7b41
+#EXTINF:-1,tvg-name="星卫HD电影" tvg-id="1266" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="影视",星卫HD电影
+http://www.penis18.org/stream/aaf8cff222af8445c2b2ef3446ab2c96
+#EXTINF:-1,tvg-name="ANIMAX" tvg-id="1267" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="影视",ANIMAX
+http://www.penis18.org/stream/aee01b839879ba228442eed374ca8555
+#EXTINF:-1,tvg-name="爱尔达体育1台" tvg-id="1346" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育",爱尔达体育1台
+http://www.penis18.org/stream/1183c58efc131f2746113821efff2e7f
+#EXTINF:-1,tvg-name="爱尔达体育1台" tvg-id="1347" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育",爱尔达体育1台
+http://www.penis18.org/stream/1183c58efc131f2746113821efff2e7f
+#EXTINF:-1,tvg-name="爱尔达体育2台" tvg-id="1348" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="体育",爱尔达体育2台
+http://www.penis18.org/stream/a5f5f4d973f44df3c3b3a2a0041732dd
+#EXTINF:-1,tvg-name="爱尔达影剧台" tvg-id="1349" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="体育",爱尔达影剧台
+http://www.penis18.org/stream/c440b09aa6c62c6376982598d796b079
+#EXTINF:-1,tvg-name="爱尔达影剧台" tvg-id="1350" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="影视",爱尔达影剧台
+http://www.penis18.org/stream/c440b09aa6c62c6376982598d796b079
+#EXTINF:-1,tvg-name="纬来体育" tvg-id="1351" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育",纬来体育
+http://www.penis18.org/stream/745d4ac4b51ca87c8b3b1c50f7410ff1
+#EXTINF:-1,tvg-chno="1352" tvg-name="ELEVEN 1" tvg-id="1352" tvg-logo="" group-title="体育",ELEVEN 1
+http://www.penis18.org/stream/7ccf8b87a368f75b24cb31d6186135ff
+#EXTINF:-1,tvg-chno="1353" tvg-name="ELEVEN 1" tvg-id="1353" tvg-logo="" group-title="体育",ELEVEN 1
+http://www.penis18.org/stream/1392a6f3a42ef804c202555c9e5117b9
+#EXTINF:-1,tvg-chno="1354" tvg-name="ELEVEN 1" tvg-id="1354" tvg-logo="" group-title="体育",ELEVEN 1
+http://www.penis18.org/stream/7d032ef4079ef3acb71c17d14d6d44d2
+#EXTINF:-1, tvg-chno="1355" tvg-name="ELEVEN 2" tvg-id="1355" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育",ELEVEN 2
+http://www.penis18.org/stream/377cdd4fac3e191c1d0ac22dd8d7d60c
+#EXTINF:-1,tvg-chno="1356" tvg-name="博斯网球" tvg-id="1356" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title=体育",博斯网球
+http://www.penis18.org/stream/9d4248682f64941075d5179e33ef8c39
+#EXTINF:-1,tvg-chno="1357" tvg-name="博斯网球" tvg-id="1357" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title="体育",博斯网球
+http://www.penis18.org/stream/9d4248682f64941075d5179e33ef8c39
+#EXTINF:-1,tvg-chno="1358" tvg-name="博斯高球一台" tvg-id="1358" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" group-titl体育",博斯高球一台
+http://www.penis18.org/stream/e7cc986e04b23a921e88268e0ad9a1cc
+#EXTINF:-1,tvg-chno="1359" tvg-name="博斯运动二台" tvg-id="1359" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="体育",博斯运动二台
+http://www.penis18.org/stream/405f350748e6780b03b3a9d2592c34d7
+#EXTINF:-1,tvg-chno="1360" tvg-name="博斯运动二台" tvg-id="1360" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="体育",博斯运动二台
+http://www.penis18.org/stream/405f350748e6780b03b3a9d2592c34d7
+#EXTINF:-1,tvg-chno="1361" tvg-name="博斯高球二台" tvg-id="1361" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="体育",博斯高球二台
+http://www.penis18.org/stream/d0a2b50f35bdd2225d45c6188c41b8df
+#EXTINF:-1,tvg-chno="1362" tvg-name="博斯魅力" tvg-id="1362" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="体育",博斯魅力
+http://www.penis18.org/stream/f43851e1230d1ccd4df2db5a1ec807cd
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png" group-title="国际",日本24新闻
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=coYw-eVU0Ks&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png" group-title="国际",日本24新闻
@@ -344,6 +416,8 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=f0lYkdA-Gtw&P=1080
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,tvg-name="BBC WORLD NEWS" tvg-id="1275" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="国际",BBC WORLD NEWS
+http://www.penis18.org/stream/c19e3eb80bb0fdc7b159b09efa76478b
 #EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="国际",FOX_News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="国际",FRANCE24
@@ -362,6 +436,16 @@ https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=9-KuWZ_R6uY&P=1080
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=GdsLCQepOtw&P=720
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/AFRICANEWS.png" group-title="国际",Africanews
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=NQjabLGdP5g&P=720
+#EXTINF:-1,tvg-chno="1390" tvg-name="CNBC" tvg-id="1390" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="国际",CNBC
+http://www.penis18.org/stream/b223fc7ddaf4e795cf65dd18b407d955
+#EXTINF:-1,tvg-chno="1391" tvg-name="CNN" tvg-id="1391" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="国际",CNN
+http://www.penis18.org/stream/09676f9d707f364ec51146b635d00acb
+#EXTINF:-1,tvg-name="HBO原创巨献" tvg-id="1397" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="国际",HBO原创巨献
+http://www.penis18.org/stream/413662c93c3c89e3ad3b7f44020e5ffe
+#EXTINF:-1,tvg-name="HBO原创巨献" tvg-id="1398" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="国际",HBO原创巨献
+http://www.penis18.org/stream/413662c93c3c89e3ad3b7f44020e5ffe
+#EXTINF:-1,tvg-name="HBO温馨家庭" tvg-id="1399" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="国际",HBO温馨家庭
+http://www.penis18.org/stream/2c0b1d65eac12503f1b2e314685303cd
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅行1.png" group-title="斗鱼",斗鱼云旅行1
 https://live.52sf.ga/douyu/9257160
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅行2.png" group-title="斗鱼",斗鱼云旅行2
