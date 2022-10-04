@@ -34,10 +34,6 @@
 陶瓷,http://218.81.151.119:4000/udp/239.45.3.50:5140
 极速汽车,http://218.81.151.119:4000/rtp/239.45.3.49:5140
 金鹰纪实,http://218.81.151.119:4000/rtp/239.45.1.45:5140
-百事通4K电影,http://218.81.151.119:4000/rtp/239.45.3.107:5140
-百事通4K纪实,http://218.81.151.119:4000/rtp/239.45.1.10:5140
-欢笑剧场4K,http://218.81.151.119:4000/rtp/239.45.1.4:5140
-爱上4K,http://60.168.53.192:8888/udp/238.1.78.23:6112
 东方购物-1,http://218.81.151.119:4000/udp/239.45.3.74:5140
 东方购物-2,http://218.81.151.119:4000/udp/239.45.3.75:5140
 东方购物-3,http://218.81.151.119:4000/udp/239.45.3.207:5140
@@ -48,6 +44,15 @@
 上海实时路况:卢浦大桥,https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng1.m3u8
 上海实时路况:南北高架延安路高架交汇处,https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng3.m3u8
 上海实时路况:延东立交,https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng2.m3u8
+
+4k,#genre#
+百事通4K电影,http://218.81.151.119:4000/rtp/239.45.3.107:5140
+百事通4K纪实,http://218.81.151.119:4000/rtp/239.45.1.10:5140
+欢笑剧场4K,http://218.81.151.119:4000/rtp/239.45.1.4:5140
+爱上4K,http://60.168.53.192:8888/udp/238.1.78.23:6112
+爱上4k,http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
+苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+影院4k,http://epg.112114.xyz/douyu/9249162
 
 央视卫视,#genre#
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#https://p.ggiptv.com/v/4k.m3u8#http://fangsong.live/hls/cctv4k.php
