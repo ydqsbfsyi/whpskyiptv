@@ -43,7 +43,7 @@ http://218.81.151.119:4000/rtp/239.45.0.13:5140
 http://218.81.151.119:4000/rtp/239.45.3.237:5140
 #EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="上海",上海东方影视
 http://117.148.129.3/PLTV/88888888/224/3221231639/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百事通4K.png" group-title="上海",百事通4K
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百事通4K.png" group-title="上海",百事通4K测试
 http://218.81.151.119:4000/udp/239.45.1.106:5140
 #EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="上海",都市剧场
 http://218.81.151.119:4000/udp/239.45.3.136:5140
@@ -99,6 +99,8 @@ https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzh
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百事通4K电影.png" group-title="4K",百事通4K电影
 http://218.81.151.119:4000/rtp/239.45.3.107:5140
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百视通4K.png" group-title="4K",百视通4k
+http://218.81.151.119:4000/rtp/239.45.0.33:5140
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百事通4K纪实.png" group-title="4K",百事通4K纪实
 http://218.81.151.119:4000/rtp/239.45.1.10:5140
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K",欢笑剧场4K
