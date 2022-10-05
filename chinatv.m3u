@@ -341,20 +341,6 @@ https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=f0lYkdA-Gtw&P=1080
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ATX.jp" tvg-name="AT-X" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="日本",AT-X
 https://sub2.neetball.net/live/neet.m3u8
-#EXTINF:-1 tvg-id="BS12.jp" tvg-name="BS 12" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",BS 12
-http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8
-#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",BS Asahi
-http://redlabmcdn.s.llnwi.net/nv02/bs04hd/playlist.m3u8
-#EXTINF:-1 tvg-id="BSFujiTV.jp" tvg-name="BS Fuji TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",BS Fuji TV
-http://redlabmcdn.s.llnwi.net/nv02/bs07hd/playlist.m3u8
-#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-name="BS Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",BS Nippon TV
-http://redlabmcdn.s.llnwi.net/nv02/bs03hd/playlist.m3u8
-#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-name="BS TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",BS TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/bs06hd/playlist.m3u8
-#EXTINF:-1 tvg-id="BSTBS.jp" tvg-name="BS-TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",BS-TBS
-http://redlabmcdn.s.llnwi.net/nv02/bs05hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-name="CGNTV Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" group-title="日本",CGNTV Japan (720p)
-http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
 #EXTINF:-1 tvg-id="FujiTV.jp" tvg-name="Fuji TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",Fuji TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
 #EXTINF:-1 tvg-id="GunmaTV.jp" tvg-name="Gunma TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="日本",Gunma TV
@@ -385,8 +371,6 @@ http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TBS.jp" tvg-name="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",TBS
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
-#EXTINF:-1 tvg-id="TokyoMX.jp" tvg-name="Tokyo MX (Webcam Stream)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="日本",Tokyo MX (Webcam Stream)
-https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 #EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="日本",Tokyo MX1
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="日本",TV Tokyo
