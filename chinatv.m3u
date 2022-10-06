@@ -1,8 +1,12 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz,https://epg.112114.xyz/pp.xml,https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml,https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/guide.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="上海",咪咕体育
+http://lsitv.f3322.net:4000/udp/239.11.0.122:5140
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://39.134.67.108/PLTV/88888888/224/3221225942/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://live.cooltv.top/tv/bestv.php?id=22
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://lsitv.f3322.net:4000/udp/239.11.0.68:5140
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://111.12.110.95:6610/PLTV/77777777/224/3221226040/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
@@ -251,10 +255,6 @@ http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
 http://222.76.119.198:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
-http://vl15191373.imwork.net:8880/udp/239.93.0.118:2191
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
-http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
 http://feidao1983.f3322.net:4022/udp/239.93.0.118:2191
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
 http://feidao1983.f3322.net:4022/udp/239.93.1.4:2191
@@ -262,10 +262,6 @@ http://feidao1983.f3322.net:4022/udp/239.93.1.4:2191
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
 http://222.76.119.198:9901/tsfile/live/1013_1.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
-http://vl15191373.imwork.net:8880/udp/239.93.0.162:2192
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
-http://vl15191373.imwork.net:8880/udp/239.93.1.9:2192
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
 http://feidao1983.f3322.net:4022/udp/239.93.0.162:2192
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
