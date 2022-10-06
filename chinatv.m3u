@@ -32,13 +32,9 @@ http://218.81.151.119:4000/rtp/239.45.3.236:5140
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 http://live.cooltv.top/tv/bestv.php?id=18
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海",第一财经
-http://114.92.204.127:3366/rtp/239.45.3.211:5140
-#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海",第一财经
 http://218.81.151.119:4000/rtp/239.45.3.211:5140
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海",第一财经
 http://live.cooltv.top/tv/bestv.php?id=21
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
-http://114.92.204.127:3366/rtp/239.45.3.210:5140
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
 http://218.81.151.119:4000/rtp/239.45.3.210:5140
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
