@@ -23,10 +23,6 @@ https://epg.pm/stream/ad1e8b358efd2be4d3f0da7dc727904df3f19ba99ba82d1b07297a7df6
 http://live.cooltv.top/tv/bestv.php?id=20
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
 http://218.81.151.119:4000/rtp/239.45.3.209:5140
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
-http://114.92.204.127:3366/rtp/239.45.3.209:5140
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
-https://epg.pm/stream/cb527932672f6488275bfb5d2b82eb9384a8ed5ba1369c4d7e86fae954bc3953.m3u8
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 http://218.81.151.119:4000/rtp/239.45.3.236:5140
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
