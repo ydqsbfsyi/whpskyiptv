@@ -286,8 +286,6 @@ http://98.142.138.122:1636/zhiboyuandakaTV/tvbhuali88887.m3u8
 http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade7367895023.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
 http://98.142.138.122:1632/zhiboyuandakaTV/tvbnews92=56778.m3u8
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
-http://23.237.10.66:16110
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
@@ -379,12 +377,8 @@ http://redlabmcdn.s.llnwi.net/nv02/bs02hd/playlist.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKG.jp" tvg-name="NHK G" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",NHK G
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
-#EXTINF:-1 tvg-id="NHK日本TV.jp" tvg-name="NHK General TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",NHK 日本 TV
-https://nhk.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",Nippon TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
-#EXTINF:-1 tvg-id="NipponTVNews24.jp" tvg-name="Nippon TV News 24" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",Nippon TV News 24
-https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-id="Star1.jp" tvg-name="Star 1" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",Star 1
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Star2.jp" tvg-name="Star 2" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",Star 2
