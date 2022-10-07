@@ -734,18 +734,8 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69016
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69015
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="BenficaTV.pt" tvg-name="Benfica TV",Benfica TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68985
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69019
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
-http://top.streancdn.fun:80/0987654321/1234567890/2163195
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-name="PFC",PFC
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69020
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
-http://top.streancdn.fun:80/0987654321/1234567890/2163190
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",SporTV Premiere
-http://top.streancdn.fun:80/0987654321/1234567890/2163129
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
 http://red.ipfox.org:8080/osama2022/osama2023/47372?checkedby:iptvcat.comv
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Gol.es" tvg-name="Gol",Gol
@@ -758,20 +748,6 @@ http://93.152.174.144:4000/play/barcatv/index.m3u8?checkedby:iptvcat.com
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48659
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-name="Betis TV",Betis TV
 http://topstb.com:8000/50656250782258/27115840859269/236670?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/A6jB3Q7.png" group-title="Sport" tvg-id="movistardeportes1.es" tvg-name="Movistar Deportes",M+ Deportes 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48795
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/A6jB3Q7.png" group-title="Sport" tvg-id="movistardeportes1.es" tvg-name="Movistar Deportes",M+ Deportes 1
-http://red.ipfox.org:8080/osama2022/osama2023/47327?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/GsHKpfr.png" group-title="Sport" tvg-id="movistardeportes2.es" tvg-name="Movistar Deportes 1",M+ Deportes 2
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48796
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/GsHKpfr.png" group-title="Sport" tvg-id="movistardeportes2.es" tvg-name="Movistar Deportes 1",M+ Deportes 2
-http://red.ipfox.org:8080/osama2022/osama2023/47323?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/rg7lHMF.png" group-title="Sport" tvg-id="movistardeportes3.es" tvg-name="Movistar Deportes 2",M+ Deportes 3
-http://red.ipfox.org:8080/osama2022/osama2023/47321?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/dAexwR0.png" group-title="Sport" tvg-id="movistardeportes4.es" tvg-name="Movistar Deportes 3",M+ Deportes 4
-http://red.ipfox.org:8080/osama2022/osama2023/47319?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/YgxYpU2.png" group-title="Sport" tvg-id="movistardeportes5.es" tvg-name="Movistar Deportes 4",M+ Deportes 5
-http://red.ipfox.org:8080/osama2022/osama2023/47317?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rai_Sport_%2B_HD_-_Logo_2017.svg/512px-Rai_Sport_%2B_HD_-_Logo_2017.svg.png" group-title="Sport" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport +
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159562
 #EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rai_Sport_%2B_HD_-_Logo_2017.svg/512px-Rai_Sport_%2B_HD_-_Logo_2017.svg.png" group-title="Sport" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport +
