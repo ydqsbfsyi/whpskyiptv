@@ -397,7 +397,11 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-name="Weather News" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="日本",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际",CNN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8248
+#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CNBC_.png" group-title="国际",CNBC_ HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8263
 #EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="国际",FOX_News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="国际",SKY_News
@@ -692,6 +696,18 @@ http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702
 http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙",NewTV超级电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 tvg-id="ESPN News HD" tvg-name="ESPN News HD US" tvg-logo="https://vignette.wikia.nocookie.net/espn/images/0/0b/2000px-ESPNEWS_logo.svg.png/revision/latest?cb=20150304212612" group-title="Sport",ESPN_News
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11583
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN+ HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="Sport",ESPN+
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/32482
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN HD US" tvg-logo="http://mikesandroid.info/UsaLogos/ESPN.png" group-title="Sport",ESPN_HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9660
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="SuperSport LaLiga HD ZA" tvg-logo="" group-title="Sport",SuperSport LaLiga HD ZA
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/39406
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="SuperSport PSL FHD ZA" tvg-logo="" group-title="Sport",SuperSport PSL FHD ZA
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/39407
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SuperSport Premier League FHD ZA" tvg-logo="" group-title="Sport",SuperSport Premier League FHD ZA
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/39408
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 1",Sport TV 1
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68988?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 2",Sport TV 2
