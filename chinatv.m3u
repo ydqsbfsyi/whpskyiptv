@@ -306,8 +306,6 @@ http://98.142.138.122:1632/zhiboyuandakaTV/hkopentv205634.m3u8
 https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/面包台.png" group-title="香港",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾",东森新闻
-http://tv.redrainl.site:9500/live.m3u8?c=5
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东森美洲.png" group-title="台湾",东森美洲
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
@@ -334,14 +332,8 @@ http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian98432987.m3u8
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=WPfPjbOLNfE&P=1080
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
-http://tv.redrainl.site:9500/live.m3u8?c=25
-#EXTINF:-1 tvg-id="" tvg-name="TVBS亚洲台" tvg-logo="" group-title="台湾",TVBS亚洲台
-http://tv.redrainl.site:9500/live.m3u8?c=25
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲
 http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾",三立新闻
-http://tv.redrainl.site:9500/live.m3u8?c=6
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立iNEWS
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&P=1080
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立iNEWS
@@ -407,7 +399,7 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8263
 #EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="国际",FOX_News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="国际",SKY_News
-http://tv.redrainl.site:9500/live.m3u8?c=8
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69094
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TOP_NEWS.png" group-title="国际",TOP_News
 http://tv.redrainl.site:9500/live.m3u8?c=14
 #EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="国际",FRANCE24
@@ -698,6 +690,8 @@ http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702
 http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙",NewTV超级电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="Sky Sport Top Event HD DE" tvg-logo="" group-title="Sport",Sky Sport Top Event HD DE
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/347476
 #EXTINF:-1 tvg-id="ESPN News HD" tvg-name="ESPN News HD US" tvg-logo="https://vignette.wikia.nocookie.net/espn/images/0/0b/2000px-ESPNEWS_logo.svg.png/revision/latest?cb=20150304212612" group-title="Sport",ESPN_News
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11583
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN+ HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="Sport",ESPN+
