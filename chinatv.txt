@@ -10,14 +10,14 @@
 上海新闻,http://mmitv.top/test/bestv.php?id=20
 上海新闻,http://218.81.151.119:4000/rtp/239.45.3.209:5140
 上海都市,http://218.81.151.119:4000/rtp/239.45.3.236:5140
-上海都市,http://live.cooltv.top/tv/bestv.php?id=18
+上海都市,http://mmitv.top/test/bestv.php?id=18
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 第一财经,http://218.81.151.119:4000/rtp/239.45.3.211:5140
-第一财经,http://live.cooltv.top/tv/bestv.php?id=21
+第一财经,http://mmitv.top/test/bestv.php?id=21
 五星体育,http://218.81.151.119:4000/rtp/239.45.3.210:5140
 五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000#
 上海ICS外语,http://218.81.151.119:4000/rtp/239.45.1.127:5140
-上海ICS外语,http://live.cooltv.top/tv/bestv.php?id=17
+上海ICS外语,http://mmitv.top/test/bestv.php?id=17
 上海ICS外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 上海教育,http://218.81.151.119:4000/rtp/239.45.0.13:5140
@@ -27,7 +27,6 @@
 都市剧场,http://218.81.151.119:4000/udp/239.45.3.136:5140
 纪实人文,http://218.81.151.119:4000/rtp/239.45.3.212:5140
 纪实人文,http://117.148.129.13/PLTV/88888888/224/3221231612/index.m3u8
-纪实人文,http://live.cooltv.top/tv/bestv.php?id=28
 生活时尚,http://218.81.151.119:4000/udp/239.45.3.132:5140
 新视觉,https://epg.pm/stream/66656cb6a3d1a271b3be81da3f56c7f2a739a0b525a66039ae85a4ca491db310.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8#
