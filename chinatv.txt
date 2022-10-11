@@ -202,10 +202,6 @@ RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 香港开电视,http://98.142.138.122:1632/zhiboyuandakaTV/hkopentv205634.m3u8
 TVBJ2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-年代新闻,mitv://ns1.hellotvvod.com:9906/25ee7224f52140c6995afd407f37d7af
-纬来日本,mitv://ns1.hellotvvod.com:9906/4570bb8150214b6d8a0e5b146ea59606
-靖天日本台,mitv://ns1.hellotvvod.com:9906/7c6ced8d69f54f9fbadeab933e6cbdba
-国兴卫视,mitv://ns1.hellotvvod.com:9906/09e8b4274b0b401291993df97fd8a6e8
 TAIWAN+,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=dZp87qnWelE&P=1080
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 民视新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ylYJSBUgaMA&P=1080
@@ -220,8 +216,6 @@ TAIWAN+,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=dZp87qnWelE&P=10
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 中天新闻2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=WPfPjbOLNfE&P=1080
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS,mitv://ns1.hellotvvod.com:9906/6f1ede1d1a864d25af99ee89f3ec6c01
-三立新闻台,mitv://ns1.hellotvvod.com:9906/c3ed2ce5f1754e5d9c106555d03d0a45
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&P=1080
 三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EB4g7wecgTI&P=1080
 壹新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=86
