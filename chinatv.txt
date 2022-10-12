@@ -37,6 +37,8 @@
 七彩戏剧,http://218.81.151.119:4000/udp/239.45.0.16:5140
 金色学堂,http://218.81.151.119:4000/rtp/239.45.0.9:5140
 法治天地,http://218.81.151.119:4000/rtp/239.45.1.46:5140
+法制天地,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
+法制天地,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226209/1/index.m3u8?fmt=ts2hls
 乐游,http://218.81.151.119:4000/udp/239.45.3.135:5140
 全纪实 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
 都市剧场 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
