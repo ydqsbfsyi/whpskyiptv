@@ -187,15 +187,8 @@ CHC动作,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
-有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线财经新聞台,http://98.142.138.122:1631/zhiboyuandakaTV/icable9376745.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
-耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
-耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-香港开电视,http://98.142.138.122:1632/zhiboyuandakaTV/hkopentv205634.m3u8
-TVBJ2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 TAIWAN+,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=dZp87qnWelE&P=1080
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 民视新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ylYJSBUgaMA&P=1080
