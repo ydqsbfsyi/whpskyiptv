@@ -435,10 +435,6 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=51
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲
 http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/壹新闻.png" group-title="台湾",壹新闻
-http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/壹新闻.png" group-title="台湾",壹新闻
-http://stream.nexttv.com.tw/n001/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾",镜新闻
 http://tv.redrainl.site:9500/live.m3u8?c=28
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png" group-title="日本",日本24新闻
@@ -506,19 +502,15 @@ http://epg.112114.xyz/douyu/9358196
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游3.png" group-title="斗鱼",斗鱼云旅游3
 http://epg.112114.xyz/douyu/6563725
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游4.png" group-title="斗鱼",斗鱼云旅游4
-http://epg.112114.xyz/douyu/4004697
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游5.png" group-title="斗鱼",斗鱼云旅游5
 http://epg.112114.xyz/douyu/615814
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游6.png" group-title="斗鱼",斗鱼云旅游6
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游5.png" group-title="斗鱼",斗鱼云旅游5
 http://epg.112114.xyz/douyu/9527954
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游7.png" group-title="斗鱼",斗鱼云旅游7
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游6.png" group-title="斗鱼",斗鱼云旅游6
 http://epg.112114.xyz/douyu/5820284
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游8.png" group-title="斗鱼",斗鱼云旅游8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游7.png" group-title="斗鱼",斗鱼云旅游7
 http://epg.112114.xyz/douyu/1668562
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/罗翔说法1.png" group-title="斗鱼",罗翔说法1
 http://epg.112114.xyz/douyu/8805
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/罗翔说法2.png" group-title="斗鱼",罗翔说法2
-http://epg.112114.xyz/douyu/633201
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/养猫吧.png" group-title="斗鱼",养猫吧
 http://epg.112114.xyz/douyu/648814
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/开心麻花.png" group-title="斗鱼",开心麻花
