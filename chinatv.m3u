@@ -143,12 +143,18 @@ http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000045/m
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000154081/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/长沙影视.png" group-title="湖南",长沙影视高清
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000030/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/芒果热剧.png" group-title="湖南",芒果热剧
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099232/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/芒果互娱.png" group-title="湖南",芒果互娱高清
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="湖南",金鹰纪实
-http://218.81.151.119:4000/rtp/239.45.1.45:5140
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/IPTV高清院线.png" group-title="湖南",IPTV高清院线
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/IPTV古装剧场.png" group-title="湖南",IPTV古装剧场
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000010/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/IPTV家庭剧场.png" group-title="湖南",IPTV家庭剧场
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/IPTV经典剧场.png" group-title="湖南",IPTV经典剧场
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/IPTV抗战剧场.png" group-title="湖南",IPTV抗战剧场
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/IPTV芒果互娱.png" group-title="湖南",IPTV芒果互娱
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CNC新华社.png" group-title="央视",CNC新华社
 http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
