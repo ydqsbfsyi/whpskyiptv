@@ -210,29 +210,15 @@ CHC动作,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
-TAIWAN+,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=dZp87qnWelE&P=1080
-东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-民视新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ylYJSBUgaMA&P=1080
 台视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-寰宇新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&P=1080
-寰宇新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=qFhAXrviP5g&P=1080
 寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-中视新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=TCnaIE_SAtM&P=1080
-中天新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=_QbRXRnHMVY&P=1080
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
-中天新闻2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=WPfPjbOLNfE&P=1080
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS國際+,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=xZ1AXCsClHo&P=1080
-三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&P=1080
-三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EB4g7wecgTI&P=1080
-壹新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=86
 壹新闻,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新闻,http://stream.nexttv.com.tw/n001/playlist.m3u8
-镜新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=5n0y6b0Q25o&P=1080
-日本24新闻,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=coYw-eVU0Ks&P=1080
+镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
 日本24新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
-NHK_world,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=f0lYkdA-Gtw&P=1080
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 ANN_News,http://tv.redrainl.site:9500/live.m3u8?c=29
 Animax,http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
@@ -254,19 +240,8 @@ Tokyo MX1,http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
 TV Tokyo,http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-CNN,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8248
-CNBC_ HD,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8263
-SKY_News,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69094
 TOP_News,http://tv.redrainl.site:9500/live.m3u8?c=14
 FOX_News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-ABCNews,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=vOTiJkg1voo&P=720
-FRANCE24,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=h3MuIUNCCzI&P=1080
-News12,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=20tJlHmPfus&P=1080
-Euronews,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=6gs9xyXAki4&P=1080
-GB_News,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=5SOmL-522CA&P=1080
-ANew,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=9-KuWZ_R6uY&P=1080
-Newsmax,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=GdsLCQepOtw&P=720
-Africanews,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=NQjabLGdP5g&P=720
 DW,http://tv.redrainl.site:9500/live.m3u8?c=30
 半岛新闻,http://tv.redrainl.site:9500/live.m3u8?c=34
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
