@@ -1,4 +1,5 @@
 上海,#genre#
+东方卫视,http://[2409:8c62:e10:48:8000::53]/live.gq.miguvideo.com:8088/migu/kailu/dongfanghd265/57/20191230/index.m3u8?ProgramID=&encrypt=
 东方卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225489/2/index.m3u8
 东方卫视,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000064/main.m3u8?IASHttpSessionId=OTT
 东方卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
@@ -7,10 +8,14 @@
 东方卫视,http://111.13.42.232/TVOD/88888888/224/3221226505/1.m3u8
 东方卫视,http://39.134.116.30/PLTV/88888888/224/3221225658/index.m3u8
 东方卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225659/2/index.m3u8
+上海新闻,http://[2409:8c62:e10:48:8000::53]/live.gq.miguvideo.com:8088/migu/kailu/xwzhhd265/55/20200407/index.m3u8?ProgramID=&encrypt=
+上海新闻,http://112.25.48.69/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海新闻,http://112.25.48.11/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海新闻,http://112.64.50.254:85/tsfile/live/1002_1.m3u8?key=txiptv
 上海新闻,http://live.cooltv.top/tv/bestv.php?id=20
 上海新闻,http://mmitv.top/test/bestv.php?id=20
 上海新闻,http://223.109.114.45/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海都市,http://[2409:8c62:e10:48:8000::53]/live.gq.miguvideo.com:8088/migu/kailu/shdshd265/55/20200407/index.m3u8?ProgramID=&encrypt=
 上海都市,http://mmitv.top/test/bestv.php?id=18
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 上海都市,http://223.109.114.45/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
