@@ -121,46 +121,18 @@ http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c9Gldpx2kfhVuKimv8pAJNU/m3u8
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c7TM-UrcsR601EuJwlOYkwQ/m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c4chEO5cwV4nnvl8tzvu40Y/m3u8
-#EXTINF:-1 xui-id="29" tvg-id="" tvg-name="astro sports5" tvg-logo="" group-title="体育",astro sports5
+#EXTINF:-1 xui-id="29" tvg-id="" tvg-name="astro sports5" tvg-logo="" group-title="Sport",astro sports5
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c2dQ245tXWxmxrDpMAUtC-4/m3u8
-#EXTINF:-1 xui-id="30" tvg-id="" tvg-name="astro spost3" tvg-logo="" group-title="体育",astro spost3
+#EXTINF:-1 xui-id="30" tvg-id="" tvg-name="astro spost3" tvg-logo="" group-title="Sport",astro spost3
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c-jg7o_J_XZ_9h_Sq_3_-ik/m3u8
-#EXTINF:-1 xui-id="31" tvg-id="" tvg-name="astro spost1" tvg-logo="" group-title="体育",astro spost1
+#EXTINF:-1 xui-id="31" tvg-id="" tvg-name="astro spost1" tvg-logo="" group-title="",astro spost1
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6czyssyDhw-_uLUqTjX7ze7w/m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/1場.png" group-title="体育",1場
-http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580964-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/2場.png" group-title="体育",2場
-http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580966-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/3場.png" group-title="体育",3場
-http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580968-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4場.png" group-title="体育",4場
-http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580970-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="体育",足球
+#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="Sport",咪咕足球
 http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/足球1.png" group-title="体育",足球1
-http://txtest-xp2p.p2p.huya.com/1099531739787-1099531739787-86380429501792256-2199063603030-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/足球2.png" group-title="体育",足球2
-http://txtest-xp2p.p2p.huya.com/1099531728837-1099531728837-86333399609901056-2199063581130-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/足球3.png" group-title="体育",足球3
-http://txtest-xp2p.p2p.huya.com/1099531728827-1099531728827-86333356660228096-2199063581110-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/足球5.png" group-title="体育",足球5
-http://txtest-xp2p.p2p.huya.com/1099531728828-1099531728828-86333360955195392-2199063581112-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/足球7.png" group-title="体育",足球7
-http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/歐足2.png" group-title="体育",歐足2
-http://txtest-xp2p.p2p.huya.com/1099531740188-1099531740188-86382151783677952-2199063603832-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育1.png" group-title="体育",咪咕体育1
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="Sport",咪咕体育
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8#
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育1.png" group-title="体育",咪咕体育1
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="Sport",咪咕体育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕视频2.png" group-title="体育",咪咕视频2
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226235/2/index.m3u8#
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕视频2.png" group-title="体育",咪咕视频2
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226238/2/index.m3u8#
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕视频2.png" group-title="体育",咪咕视频2
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226241/2/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕视频3.png" group-title="体育",咪咕视频3
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226243/2/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226998/index.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K",CCTV16_4K
@@ -933,7 +905,7 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69007
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69010
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 4",Eleven Sports 4
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69011
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 5",Eleven Sports 5
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="" tvg-name="Eleven Sports 5",Eleven Sports 5
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69012
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 6",Eleven Sports 6
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69013
