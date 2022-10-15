@@ -217,10 +217,8 @@ TVB明珠台,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c6SJn1iEG2iVfDvqu6Q
 无线新闻,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c2WwNM5v5-A9zOna1xUewwI/m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c-fmeQzGAEXtFCxpGUBiW2g/m3u8
-viuTV,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c6xFGL_xNCeBoeUjcpq5hjQ/m3u8
-viusixTV,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c7mG0STA7HLNapJVk0deB8Q/m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
-民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
+民视新闻,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c0Q810eglROtdStrCwWbqUc/m3u8
 台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
 寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
@@ -306,6 +304,13 @@ Tokyo Walk,http://192.168.3.254:9000/jmsytb.m3u8?c=54
 New York Live,http://192.168.3.254:9000/jmsytb.m3u8?c=76
 
 体育,#genre#
+艾尔达体育1,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c8paZu1ktw4Vkpam0KvAL3A/m3u8
+艾尔达体育2,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c9Gldpx2kfhVuKimv8pAJNU/m3u8
+艾尔达体育3,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c7TM-UrcsR601EuJwlOYkwQ/m3u8
+纬来体育.http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c4chEO5cwV4nnvl8tzvu40Y/m3u8
+astro sports5,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c2dQ245tXWxmxrDpMAUtC-4/m3u8
+astro spost3.http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c-jg7o_J_XZ_9h_Sq_3_-ik/m3u8
+astro spost1.http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6czyssyDhw-_uLUqTjX7ze7w/m3u8
 1場,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580964-10057-A-0-1.xs
 2場,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580966-10057-A-0-1.xs
 3場,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580968-10057-A-0-1.xs
