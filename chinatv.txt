@@ -214,7 +214,6 @@ IPTV芒果互娱,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
 寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
