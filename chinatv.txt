@@ -287,7 +287,6 @@ NBC News ,http://192.168.3.254:9000/jmsytb.m3u8?c=58
 渋谷スクランブル交差点,http://192.168.3.254:9000/jmsytb.m3u8?c=67
 北海道ニュース24,http://192.168.3.254:9000/jmsytb.m3u8?c=68
 大阪道頓堀,http://192.168.3.254:9000/jmsytb.m3u8?c=69
-TaiwanPlus,http://192.168.3.254:9000/jmsytb.m3u8?c=71
 The Most Beautiful Places On Earth,http://192.168.3.254:9000/jmsytb.m3u8?c=73
 Tokyo Walk,http://192.168.3.254:9000/jmsytb.m3u8?c=54
 New York Live,http://192.168.3.254:9000/jmsytb.m3u8?c=76
