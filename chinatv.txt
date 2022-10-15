@@ -251,6 +251,47 @@ DW,http://tv.redrainl.site:9500/live.m3u8?c=30
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 TRTworld,http://tv.redrainl.site:9500/live.m3u8?c=35
 
+油管,#genre#
+東森新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=21
+東森財經,http://192.168.3.254:9000/jmsytb.m3u8?c=22
+TVBS新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=23
+TVBS HD,http://192.168.3.254:9000/jmsytb.m3u8?c=24
+TVBS國際+,http://192.168.3.254:9000/jmsytb.m3u8?c=75
+台視新聞 ,http://192.168.3.254:9000/jmsytb.m3u8?c=25
+民視新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=26
+華視新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=27
+寰宇新聞台,http://192.168.3.254:9000/jmsytb.m3u8?c=28
+中天新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=30
+中天新闻2,http://192.168.3.254:9000/jmsytb.m3u8?c=59
+中天亚洲,http://192.168.3.254:9000/jmsytb.m3u8?c=60
+中視新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=31
+三立iNEWS,http://192.168.3.254:9000/jmsytb.m3u8?c=50
+镜新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=32
+JapaNews24,http://192.168.3.254:9000/jmsytb.m3u8?c=33
+ABC News,http://192.168.3.254:9000/jmsytb.m3u8?c=34
+半岛新闻,http://192.168.3.254:9000/jmsytb.m3u8?c=37
+Astro AWANI,http://192.168.3.254:9000/jmsytb.m3u8?c=38
+France 24,http://192.168.3.254:9000/jmsytb.m3u8?c=39
+GB News,http://192.168.3.254:9000/jmsytb.m3u8?c=42
+Euronews ,http://192.168.3.254:9000/jmsytb.m3u8?c=43
+ANews,http://192.168.3.254:9000/jmsytb.m3u8?c=45
+Newsmax,http://192.168.3.254:9000/jmsytb.m3u8?c=46
+franceinfo,http://192.168.3.254:9000/jmsytb.m3u8?c=47
+News 12 New York,http://192.168.3.254:9000/jmsytb.m3u8?c=56
+NBC News ,http://192.168.3.254:9000/jmsytb.m3u8?c=58
+メ～テレ NEWS,http://192.168.3.254:9000/jmsytb.m3u8?c=62
+広島ニュース24,http://192.168.3.254:9000/jmsytb.m3u8?c=63
+東京都 新宿 歌舞伎町 24時間,http://192.168.3.254:9000/jmsytb.m3u8?c=64
+東京 新宿 歌舞伎町 ライブ ２,http://192.168.3.254:9000/jmsytb.m3u8?c=65
+渋谷センター街 メインアーチ前,http://192.168.3.254:9000/jmsytb.m3u8?c=66
+渋谷スクランブル交差点,http://192.168.3.254:9000/jmsytb.m3u8?c=67
+北海道ニュース24,http://192.168.3.254:9000/jmsytb.m3u8?c=68
+大阪道頓堀,http://192.168.3.254:9000/jmsytb.m3u8?c=69
+TaiwanPlus,http://192.168.3.254:9000/jmsytb.m3u8?c=71
+The Most Beautiful Places On Earth,http://192.168.3.254:9000/jmsytb.m3u8?c=73
+Tokyo Walk,http://192.168.3.254:9000/jmsytb.m3u8?c=54
+New York Live,http://192.168.3.254:9000/jmsytb.m3u8?c=76
+
 体育,#genre#
 1場,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580964-10057-A-0-1.xs
 2場,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580966-10057-A-0-1.xs
