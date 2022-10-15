@@ -119,7 +119,7 @@ http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c8paZu1ktw4Vkpam0KvAL3A/m3u8
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c9Gldpx2kfhVuKimv8pAJNU/m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/艾尔达体育3.png" group-title="Sport",艾尔达体育3
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c7TM-UrcsR601EuJwlOYkwQ/m3u8
-#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
+#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="Sport",纬来体育
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c4chEO5cwV4nnvl8tzvu40Y/m3u8
 #EXTINF:-1 xui-id="29" tvg-id="" tvg-name="astro sports5" tvg-logo="" group-title="Sport",astro sports5
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c2dQ245tXWxmxrDpMAUtC-4/m3u8
@@ -469,7 +469,7 @@ http://tv.redrainl.site:9500/live.m3u8?c=02
 https://epg.pm/stream/2174ed669076013ca3c592cafa142f03fbe493681c5d4494bc7546602e3acd9f.m3u8
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="其台湾",三立新闻
+#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="台湾",三立新闻
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c2tWM3Z8_7QB7wB02p5z7d4/m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立INEWS
 http://tv.redrainl.site:9500/live.m3u8?c=51
