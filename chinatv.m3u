@@ -486,9 +486,9 @@ http://livetv.dnsfor.me:80/channel.2.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东森美洲.png" group-title="台湾",东森美洲
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
-http://tv.redrainl.site:9500/live.m3u8?c=01
+http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c0Q810eglROtdStrCwWbqUc/m3u8
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾",台视新闻
-http://tv.redrainl.site:9500/live.m3u8?c=11
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾",寰宇新闻
 http://tv.redrainl.site:9500/live.m3u8?c=22
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="台湾",中视新闻
@@ -511,8 +511,6 @@ http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c299rs8ObQvmYQ6klqtHCIs/m3u8
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c8gZqDfvKgxf4SW3f8y8xUA/m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png" group-title="日本",日本24新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/ANN_NEWS.png" group-title="日本",ANN_News
-http://tv.redrainl.site:9500/live.m3u8?c=29
 #EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",Animax
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ATX.jp" tvg-name="AT-X" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="日本",AT-X
@@ -551,22 +549,22 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际",CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="国际",France24
 http://tv.redrainl.site:9500/live.m3u8?c=13
 #EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="国际",FOX_News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TOP_NEWS.png" group-title="国际",TOP_News
-http://tv.redrainl.site:9500/live.m3u8?c=14
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/BBCNEWS.png" group-title="国际",BBC News HD
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="国际",DW
-http://tv.redrainl.site:9500/live.m3u8?c=30
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/ABC_NEWS.png" group-title="国际",ABC_News
-http://tv.redrainl.site:9500/live.m3u8?c=10
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="国际",半岛新闻
 http://tv.redrainl.site:9500/live.m3u8?c=34
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="国际",半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TRTWORLD.png" group-title="国际",TRTworld
-http://tv.redrainl.site:9500/live.m3u8?c=35
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" group-title="油管",東森新聞
 http://192.168.3.254:9000/jmsytb.m3u8?c=21
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="油管",東森財經
