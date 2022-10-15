@@ -229,10 +229,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 年代新闻,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c299rs8ObQvmYQ6klqtHCIs/m3u8
 极限电影,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c8gZqDfvKgxf4SW3f8y8xUA/m3u8
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
-艾尔达体育1,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c8paZu1ktw4Vkpam0KvAL3A/m3u8
-艾尔达体育2,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c9Gldpx2kfhVuKimv8pAJNU/m3u8
-艾尔达体育3,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c7TM-UrcsR601EuJwlOYkwQ/m3u8
-纬来体育,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c4chEO5cwV4nnvl8tzvu40Y/m3u8
 日本24新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 Animax,http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
@@ -306,9 +302,9 @@ New York Live,http://192.168.3.254:9000/jmsytb.m3u8?c=76
 艾尔达体育2,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c9Gldpx2kfhVuKimv8pAJNU/m3u8
 艾尔达体育3,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c7TM-UrcsR601EuJwlOYkwQ/m3u8
 纬来体育.http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c4chEO5cwV4nnvl8tzvu40Y/m3u8
-astro sports5,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c2dQ245tXWxmxrDpMAUtC-4/m3u8
-astro spost3.http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c-jg7o_J_XZ_9h_Sq_3_-ik/m3u8
-astro spost1.http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6czyssyDhw-_uLUqTjX7ze7w/m3u8
+astro_sports5,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c2dQ245tXWxmxrDpMAUtC-4/m3u8
+astro_spost3.http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c-jg7o_J_XZ_9h_Sq_3_-ik/m3u8
+astro_spost1.http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6czyssyDhw-_uLUqTjX7ze7w/m3u8
 1場,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580964-10057-A-0-1.xs
 2場,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580966-10057-A-0-1.xs
 3場,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580968-10057-A-0-1.xs
