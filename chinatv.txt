@@ -212,6 +212,7 @@ IPTV芒果互娱,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
 TVB翡翠台,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c5vcgYJEgWvcfT7yndl021A/m3u8
+TVB翡翠台,https://pull-l3-cny.douyincdn.com/live/1f07e8269130a5322231173570ce0b64.flv
 TVB明珠台,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c6SJn1iEG2iVfDvqu6Q4n-g/m3u8
 香港开电视,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c4bZVzFY4a_yPpQVxhtKM8I/m3u8
 无线新闻,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c2WwNM5v5-A9zOna1xUewwI/m3u8
