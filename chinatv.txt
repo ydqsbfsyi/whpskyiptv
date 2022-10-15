@@ -9,6 +9,7 @@
 东方卫视,http://39.134.116.30/PLTV/88888888/224/3221225658/index.m3u8
 东方卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225659/2/index.m3u8
 上海新闻,http://[2409:8c62:e10:48:8000::53]/live.gq.miguvideo.com:8088/migu/kailu/xwzhhd265/55/20200407/index.m3u8?ProgramID=&encrypt=
+上海新闻,http://live.gq.miguvideo.com:8088/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
 上海新闻,http://112.25.48.69/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海新闻,http://112.25.48.11/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海新闻,http://112.64.50.254:85/tsfile/live/1002_1.m3u8?key=txiptv
