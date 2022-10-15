@@ -219,7 +219,7 @@ TVB明珠台,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c6SJn1iEG2iVfDvqu6Q
 有线新闻,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c-fmeQzGAEXtFCxpGUBiW2g/m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 民视新闻,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c0Q810eglROtdStrCwWbqUc/m3u8
-台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
@@ -235,8 +235,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 纬来体育,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c4chEO5cwV4nnvl8tzvu40Y/m3u8
 日本24新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK_world,http://tv.redrainl.site:9500/live.m3u8?c=09
-ANN_News,http://tv.redrainl.site:9500/live.m3u8?c=29
 Animax,http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
 AT-X,https://sub2.neetball.net/live/neet.m3u8
 Fuji TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
@@ -256,14 +254,14 @@ Tokyo MX1,http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
 TV Tokyo,http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 France24,http://tv.redrainl.site:9500/live.m3u8?c=13
-TOP_News,http://tv.redrainl.site:9500/live.m3u8?c=14
+BBC_News,https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 FOX_News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-ABC_News,http://tv.redrainl.site:9500/live.m3u8?c=10
-DW,http://tv.redrainl.site:9500/live.m3u8?c=30
+ABC_News,https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 半岛新闻,http://tv.redrainl.site:9500/live.m3u8?c=34
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-TRTworld,http://tv.redrainl.site:9500/live.m3u8?c=35
 
 油管,#genre#
 東森新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=21
