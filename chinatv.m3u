@@ -113,11 +113,11 @@ https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzh
 https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng3.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海实时路况:延东立交.png" group-title="上海",上海实时路况:延东立交
 https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng2.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/艾尔达体育1.png" group-title="体育",艾尔达体育1
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/艾尔达体育1.png" group-title="Sport",艾尔达体育1
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c8paZu1ktw4Vkpam0KvAL3A/m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/艾尔达体育2.png" group-title="体育",艾尔达体育2
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/艾尔达体育2.png" group-title="Sport",艾尔达体育2
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c9Gldpx2kfhVuKimv8pAJNU/m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/艾尔达体育3.png" group-title="体育",艾尔达体育3
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/艾尔达体育3.png" group-title="Sport",艾尔达体育3
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c7TM-UrcsR601EuJwlOYkwQ/m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c4chEO5cwV4nnvl8tzvu40Y/m3u8
@@ -865,53 +865,6 @@ http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702
 http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙",NewTV超级电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
-#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="Sky Sport Top Event HD DE" tvg-logo="" group-title="Sport",Sky Sport Top Event HD DE
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/347476
-#EXTINF:-1 tvg-id="ESPN News HD" tvg-name="ESPN News HD US" tvg-logo="https://vignette.wikia.nocookie.net/espn/images/0/0b/2000px-ESPNEWS_logo.svg.png/revision/latest?cb=20150304212612" group-title="Sport",ESPN_News
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11583
-#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN+ HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="Sport",ESPN+
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/32482
-#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN HD US" tvg-logo="http://mikesandroid.info/UsaLogos/ESPN.png" group-title="Sport",ESPN_HD
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9660
-#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="SuperSport LaLiga HD ZA" tvg-logo="" group-title="Sport",SuperSport LaLiga HD ZA
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/39406
-#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="SuperSport PSL FHD ZA" tvg-logo="" group-title="Sport",SuperSport PSL FHD ZA
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/39407
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SuperSport Premier League FHD ZA" tvg-logo="" group-title="Sport",SuperSport Premier League FHD ZA
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/39408
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 1",Sport TV 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68988?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 2",Sport TV 2
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68991?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 3",Sport TV 3
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68994?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 4",Sport TV 4
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68996?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 5",Sport TV 5
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68998?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 6",Sport TV 6
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/249069?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV +",Sport TV +
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69000
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69004
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69003
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69002
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 2",Eleven Sports 2
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69007
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 3",Eleven Sports 3
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69010
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 4",Eleven Sports 4
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69011
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="" tvg-name="Eleven Sports 5",Eleven Sports 5
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69012
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 6",Eleven Sports 6
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69013
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="Eurosport1.fr" tvg-name="Eurosport 1",Eurosport 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69017
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="Eurosport2.fr" tvg-name="Eurosport 2",Eurosport 2
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69018
+
 
 
