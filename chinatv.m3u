@@ -533,6 +533,84 @@ http://tv.redrainl.site:9500/live.m3u8?c=34
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TRTWORLD.png" group-title="国际",TRTworld
 http://tv.redrainl.site:9500/live.m3u8?c=35
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" group-title="油管",東森新聞
+http://192.168.3.254:9000/jmsytb.m3u8?c=21
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="油管",東森財經
+http://192.168.3.254:9000/jmsytb.m3u8?c=22
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS新聞
+http://192.168.3.254:9000/jmsytb.m3u8?c=23
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS HD
+http://192.168.3.254:9000/jmsytb.m3u8?c=24
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS國際+
+http://192.168.3.254:9000/jmsytb.m3u8?c=75
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="油管",台視新聞
+http://192.168.3.254:9000/jmsytb.m3u8?c=25
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="油管",民視新聞
+http://192.168.3.254:9000/jmsytb.m3u8?c=26
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" group-title="油管",華視新聞
+http://192.168.3.254:9000/jmsytb.m3u8?c=27
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞台.png" group-title="油管",寰宇新聞台
+http://192.168.3.254:9000/jmsytb.m3u8?c=28
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="油管",中天新聞
+http://192.168.3.254:9000/jmsytb.m3u8?c=30
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻2.png" group-title="油管",中天新闻2
+http://192.168.3.254:9000/jmsytb.m3u8?c=59
+#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="油管",中天亚洲
+http://192.168.3.254:9000/jmsytb.m3u8?c=60
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="油管",中視新聞
+http://192.168.3.254:9000/jmsytb.m3u8?c=31
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="油管",三立iNEWS
+http://192.168.3.254:9000/jmsytb.m3u8?c=50
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/镜新聞.png" group-title="油管",镜新聞
+http://192.168.3.254:9000/jmsytb.m3u8?c=32
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/JAPANEWS24.png" group-title="油管",JapaNews24
+http://192.168.3.254:9000/jmsytb.m3u8?c=33
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="油管",ABC News
+http://192.168.3.254:9000/jmsytb.m3u8?c=34
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="油管",半岛新闻
+http://192.168.3.254:9000/jmsytb.m3u8?c=37
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/ASTROAWANI.png" group-title="港澳台",Astro AWANI
+http://192.168.3.254:9000/jmsytb.m3u8?c=38
+#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="油管",France 24
+http://192.168.3.254:9000/jmsytb.m3u8?c=39
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/GBNEWS.png" group-title="油管",GB News
+http://192.168.3.254:9000/jmsytb.m3u8?c=42
+#EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="油管",Euronews
+http://192.168.3.254:9000/jmsytb.m3u8?c=43
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/ANEWS.png" group-title="油管",ANews
+http://192.168.3.254:9000/jmsytb.m3u8?c=45
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/NEWSMAX.png" group-title="油管",Newsmax
+http://192.168.3.254:9000/jmsytb.m3u8?c=46
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/FRANCEINFO.png" group-title="油管",franceinfo
+http://192.168.3.254:9000/jmsytb.m3u8?c=47
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/NEWS12NEWYORK.png" group-title="油管",News 12 New York
+http://192.168.3.254:9000/jmsytb.m3u8?c=56
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/NBCNEWS.png" group-title="油管",NBC News
+http://192.168.3.254:9000/jmsytb.m3u8?c=58
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/メ～テレNEWS.png" group-title="油管",メ～テレ NEWS
+http://192.168.3.254:9000/jmsytb.m3u8?c=62
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/広島ニュース24.png" group-title="油管",広島ニュース24
+http://192.168.3.254:9000/jmsytb.m3u8?c=63
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/東京都新宿歌舞伎町24時間.png" group-title="油管",東京都 新宿 歌舞伎町 24時間
+http://192.168.3.254:9000/jmsytb.m3u8?c=64
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/東京新宿歌舞伎町ライブ２.png" group-title="油管",東京 新宿 歌舞伎町 ライブ ２
+http://192.168.3.254:9000/jmsytb.m3u8?c=65
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/渋谷センター街メインアーチ前.png" group-title="油管",渋谷センター街 メインアーチ前
+http://192.168.3.254:9000/jmsytb.m3u8?c=66
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/渋谷スクランブル交差点.png" group-title="油管",渋谷スクランブル交差点
+http://192.168.3.254:9000/jmsytb.m3u8?c=67
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/北海道ニュース24.png" group-title="油管",北海道ニュース24
+http://192.168.3.254:9000/jmsytb.m3u8?c=68
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/大阪道頓堀.png" group-title="油管",大阪道頓堀
+http://192.168.3.254:9000/jmsytb.m3u8?c=69
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TAIWANPLUS.png" group-title="油管",TaiwanPlus
+http://192.168.3.254:9000/jmsytb.m3u8?c=71
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/THEMOSTBEAUTIFULPLACESONEARTH.png" group-title="油管",The Most Beautiful Places On Earth
+http://192.168.3.254:9000/jmsytb.m3u8?c=73
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TOKYOWALK.png" group-title="油管",Tokyo Walk
+http://192.168.3.254:9000/jmsytb.m3u8?c=54
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/NEWYORKLIVE.png" group-title="油管",New York Live
+http://192.168.3.254:9000/jmsytb.m3u8?c=76
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅行1.png" group-title="斗鱼",斗鱼云旅行1
 http://epg.112114.xyz/douyu/9257160
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅行2.png" group-title="斗鱼",斗鱼云旅行2
