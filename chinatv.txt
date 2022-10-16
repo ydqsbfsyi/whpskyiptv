@@ -236,6 +236,8 @@ TVBS,http://tv.redrainl.site:9500/live.m3u8?c=25
 三立新闻,http://tv.redrainl.site:9500/live.m3u8?c=06
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
+
+国际,#genre#
 日本24新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK_world,http://tv.redrainl.site:9500/live.m3u8?c=09
