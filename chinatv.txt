@@ -310,16 +310,6 @@ The Most Beautiful Places On Earth,http://192.168.3.254:9000/jmsytb.m3u8?c=73
 Tokyo Walk,http://192.168.3.254:9000/jmsytb.m3u8?c=54
 New York Live,http://192.168.3.254:9000/jmsytb.m3u8?c=76
 
-体育,#genre#
-艾尔达体育1,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c8paZu1ktw4Vkpam0KvAL3A/m3u8
-艾尔达体育2,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c9Gldpx2kfhVuKimv8pAJNU/m3u8
-艾尔达体育3,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c7TM-UrcsR601EuJwlOYkwQ/m3u8
-纬来体育,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c4chEO5cwV4nnvl8tzvu40Y/m3u8
-astro_sports5,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c2dQ245tXWxmxrDpMAUtC-4/m3u8
-astro_sposts3,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c-jg7o_J_XZ_9h_Sq_3_-ik/m3u8
-astro_sposts1,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6czyssyDhw-_uLUqTjX7ze7w/m3u8
-咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8#http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
-
 
 斗鱼,#genre#
 斗鱼云旅行1,http://epg.112114.xyz/douyu/9257160
@@ -371,35 +361,6 @@ astro_sposts1,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6czyssyDhw-_uLUqTjX
 斗鱼电视剧HD6,http://epg.112114.xyz/douyu/6027991
 慢直播精编,https://gccncc.v.wscdns.com/gc/wgw05_1/index.m3u8
 
-虎牙,#genre#
-虎牙电影1,http://epg.112114.xyz/huya/11602058
-虎牙电影2,http://epg.112114.xyz/huya/11601968
-虎牙电影3,http://epg.112114.xyz/huya/11342412
-虎牙电影4,http://epg.112114.xyz/huya/11342386
-虎牙电影5,http://epg.112114.xyz/huya/11601986
-虎牙电影6,http://epg.112114.xyz/huya/11601971
-虎牙电影7,http://epg.112114.xyz/huya/11336592
-虎牙电影8,http://epg.112114.xyz/huya/11342390
-虎牙电影9,http://epg.112114.xyz/huya/11352941
-虎牙电影10,http://epg.112114.xyz/huya/11279251
-虎牙电影11,http://epg.112114.xyz/huya/11602041
-虎牙电影12,http://epg.112114.xyz/huya/11352963
-虎牙电影13,http://epg.112114.xyz/huya/11342414
-虎牙电影14,http://epg.112114.xyz/huya/11602075
-虎牙电影15,http://epg.112114.xyz/huya/11352962
-虎牙电影16,http://epg.112114.xyz/huya/11336571
-虎牙电影17,http://epg.112114.xyz/huya/11342427
-虎牙电影18,http://epg.112114.xyz/huya/11336719
-虎牙电影19,http://epg.112114.xyz/huya/11352894
-虎牙电影20,http://epg.112114.xyz/huya/11352877
-虎牙电影21,http://epg.112114.xyz/huya/11602077
-虎牙电影22,http://epg.112114.xyz/huya/11601960
-虎牙电影23,http://epg.112114.xyz/huya/11352965
-虎牙电影24,http://epg.112114.xyz/huya/11342435
-虎牙电影25,http://epg.112114.xyz/huya/11342423
-虎牙电影26,http://epg.112114.xyz/huya/11352909
-虎牙电影27,http://epg.112114.xyz/huya/11352886
-虎牙电影28,http://epg.112114.xyz/huya/11602044
 
 埋堆堆,#genre#
 埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
