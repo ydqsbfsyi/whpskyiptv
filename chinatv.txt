@@ -219,13 +219,8 @@ IPTV芒果互娱,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
-TVB翡翠台,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c5vcgYJEgWvcfT7yndl021A/m3u8
 TVB翡翠台,https://pull-l3-cny.douyincdn.com/live/1f07e8269130a5322231173570ce0b64.flv
-TVB明珠台,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c6SJn1iEG2iVfDvqu6Q4n-g/m3u8
-香港开电视,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c4bZVzFY4a_yPpQVxhtKM8I/m3u8
-无线新闻,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c2WwNM5v5-A9zOna1xUewwI/m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c-fmeQzGAEXtFCxpGUBiW2g/m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 民视新闻,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c0Q810eglROtdStrCwWbqUc/m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -237,9 +232,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
-三立新闻,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c2tWM3Z8_7QB7wB02p5z7d4/m3u8
-年代新闻,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c299rs8ObQvmYQ6klqtHCIs/m3u8
-极限电影,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c8gZqDfvKgxf4SW3f8y8xUA/m3u8
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
 日本24新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
