@@ -223,6 +223,7 @@ TVB翡翠台,https://pull-l3-cny.douyincdn.com/live/1f07e8269130a5322231173570ce
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 东森新闻,http://tv.redrainl.site:9500/live.m3u8?c=05
+东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
 台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
@@ -232,7 +233,6 @@ RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 TVBS新闻,http://tv.redrainl.site:9500/live.m3u8?c=04
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS,http://tv.redrainl.site:9500/live.m3u8?c=25
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 三立新闻,http://tv.redrainl.site:9500/live.m3u8?c=06
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
