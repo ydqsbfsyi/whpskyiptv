@@ -260,6 +260,8 @@ TV Tokyo,http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN International,http://quality-restream.com:8080/asadmanzur/39e379b23d/753
+CNN USA,http://quality-restream.com:8080/asadmanzur/39e379b23d/480
 SKY_News，http://tv.redrainl.site:9500/live.m3u8?c=08
 France24,http://tv.redrainl.site:9500/live.m3u8?c=13
 BBC_News,https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
