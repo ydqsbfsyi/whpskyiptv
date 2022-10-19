@@ -74,9 +74,11 @@ CCTV16_4K,http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224
 欢笑剧场4K,http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8
 爱上4K,http://[2409:8087:1070:301:2026::12]:80/wh7f454c46tw4179594525_1038075197/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/10000100000000060000000000262129_0.smil/01.m3u8?fmt=ts2hls
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-HD看电影,http://182.150.115.26:8091/custom29.m3u8
-爱科幻电影,http://182.150.115.26:8091/custom30.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+VTC13_4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+Bloomberg TV+,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 央视卫视,#genre#
 CNC新华社,http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
@@ -226,6 +228,7 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 TVBS新闻,http://tv.redrainl.site:9500/live.m3u8?c=04
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS,http://tv.redrainl.site:9500/live.m3u8?c=25
+三立新闻,http://23.237.10.66:16342/
 三立新闻,http://tv.redrainl.site:9500/live.m3u8?c=06
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
@@ -267,6 +270,9 @@ DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DW,http://tv.redrainl.site:9500/live.m3u8?c=30
 半岛新闻,http://tv.redrainl.site:9500/live.m3u8?c=34
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+uronews,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+CBS_News,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+NBC_News,http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
 
 油管,#genre#
