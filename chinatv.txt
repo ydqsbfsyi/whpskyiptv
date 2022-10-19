@@ -76,7 +76,6 @@ CCTV16_4K,http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-VTC13_4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 Bloomberg TV+,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
