@@ -111,14 +111,6 @@ https://bililive.kksmg.com/hls/sdi70/playlist.m3u8
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海这一刻魔都眼.png" group-title="上海",上海这一刻魔都眼
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海实时路况:南北高架共和新路.png" group-title="上海",上海实时路况:南北高架共和新路
-https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng4.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海实时路况:卢浦大桥.png" group-title="上海",上海实时路况:卢浦大桥
-https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海实时路况:南北高架延安路高架交汇处.png" group-title="上海",上海实时路况:南北高架延安路高架交汇处
-https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng3.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海实时路况:延东立交.png" group-title="上海",上海实时路况:延东立交
-https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng2.m3u8
 #EXTINF:-1 tvg-id="NowSports4K.hk" tvg-name="Now Sports 4K" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="体育",Now Sports 4K
 http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/19
 #EXTINF:-1 tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="体育",Hub Premier 1
@@ -147,8 +139,12 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百视通4K.png" group-title="4K",百视通4K
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K测试.png" group-title="4K",4K测试
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K",爱上4k
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K",爱上4k
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/北京IPTV+.png" group-title="北京",北京IPTV+
+http://219.142.151.179:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K乐享高清.png" group-title="4K",4K乐享高清 
 http://182.150.115.26:8091/custom27.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K超高清电影.png" group-title="4K",4K超高清电影
