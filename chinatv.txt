@@ -214,10 +214,7 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
-凤凰香港,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=fhxg
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-东森新闻,http://tv.redrainl.site:9500/live.m3u8?c=05
-东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
 台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
