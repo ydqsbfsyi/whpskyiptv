@@ -115,8 +115,14 @@ http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/19
 #EXTINF:-1 tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="体育",Hub Premier 1
 http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/20
-#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="体育",咪咕足球
-http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2" tvg-logo="" group-title="体育",Hub Premier 2
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/99
+#EXTINF:-1 tvg-id="" tvg-name="NBA测试" tvg-logo="" group-title="体育",NBA测试
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/100
+#EXTINF:-1 tvg-id="" tvg-name="TR当地采集测试" tvg-logo="" group-title="体育",TR当地采集测试
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/101
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT" tvg-logo="" group-title="体育",TNT
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/94
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="体育",咪咕体育
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8#
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="体育",咪咕体育
