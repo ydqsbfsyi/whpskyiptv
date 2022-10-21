@@ -123,6 +123,18 @@ http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/100
 http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/101
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT" tvg-logo="" group-title="体育",TNT
 http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/94
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/緯來體育.png" group-title="体育",緯來體育
+rtmp://9wv7.mine.nu/sat/tv721
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="rtmps://epg.112114.xyz/logo/EVE.png" group-title="体育",ELEVEN1
+rtmp://9wv7.mine.nu/sat/tv731
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="rtmps://epg.112114.xyz/logo/EVE.png" group-title="体育",ELEVEN2
+rtmp://9wv7.mine.nu/sat/tv741
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/ELTA体育1.png" group-title="体育",ELTA体育1
+rtmp://9wv7.mine.nu/sat/md011
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/ELTA体育2.png" group-title="体育",ELTA体育2
+rtmp://9wv7.mine.nu/sat/md021
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/ELTA体育3.png" group-title="体育",ELTA体育3
+rtmp://9wv7.mine.nu/sat/md041
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="体育",咪咕体育
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8#
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="体育",咪咕体育
@@ -465,24 +477,42 @@ http://feidao1983.f3322.net:4022/udp/239.93.0.162:2192
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
 http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147
+#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="香港",无线财经
+http://120.84.96.74:808/hls/86/index.m3u8
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台湾",东森新闻
-http://tv.redrainl.site:9500/live.m3u8?c=05
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东森美洲.png" group-title="台湾",东森美洲
-http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="rtmps://epg.112114.xyz/logo/民视.png" group-title="台湾",民视
+rtmp://9wv7.mine.nu/sat/tv051
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="rtmps://epg.112114.xyz/logo/台视.png" group-title="台湾",台视
+rtmp://9wv7.mine.nu/sat/tv071
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="rtmps://epg.112114.xyz/logo/中视.png" group-title="台湾",中视
+rtmp://9wv7.mine.nu/sat/tv091
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="rtmps://epg.112114.xyz/logo/华视.png" group-title="台湾",华视
+rtmp://9wv7.mine.nu/sat/tv111
+#EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="rtmps://epg.112114.xyz/logo/东森财经新闻台.png" group-title="台湾",东森财经
+rtmp://9wv7.mine.nu/sat/tv571
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/緯來日本.png" group-title="台湾",緯來日本
+rtmp://9wv7.mine.nu/sat/tv771
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
 http://tv.redrainl.site:9500/live.m3u8?c=01
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾",台视新闻
 http://tv.redrainl.site:9500/live.m3u8?c=11
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾",台视新闻
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾",台视新闻
+https://epg.pm/stream/8e567c2ce6cc228618f425209e6868e137e86ac26e2d7f8ada32f040c1c99244.m3u8
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾",寰宇新闻
+https://epg.pm/stream/bb842a051c548e3b6ff18a2e689ac94bebfaf265b2b70e005bebaeab1f8443d0.m3u8
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾",寰宇新闻
 http://tv.redrainl.site:9500/live.m3u8?c=22
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="台湾",中视新闻
 http://tv.redrainl.site:9500/live.m3u8?c=02
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾",中天新闻
+https://epg.pm/stream/eed2da2074222063a94841b5c8348bf93384d9012e3142d25160862974c03109.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾",中天新闻
 http://tv.redrainl.site:9500/live.m3u8?c=03
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
+rtmp://9wv7.mine.nu/sat/tv551
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
 http://tv.redrainl.site:9500/live.m3u8?c=04
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
@@ -490,11 +520,21 @@ http://tv.redrainl.site:9500/live.m3u8?c=25
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="台湾",三立新闻
+https://epg.pm/stream/8d77f9dea0d27c9f4f1c408c99319c9eb07398491488ef6eb70b1d207bf61f22.m3u8
+#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="台湾",三立新闻
+http://23.237.10.66:16342/
+#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="台湾",三立新闻
 http://tv.redrainl.site:9500/live.m3u8?c=06
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立INEWS
+https://epg.pm/stream/8531f82afc3848b36fa9de967cb19339c1c59749512383036775efed038100fe.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立INEWS
 http://tv.redrainl.site:9500/live.m3u8?c=51
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾",镜新闻
+https://epg.pm/stream/864e90e186ec4c67f2853ac8f808e06a1bf1c43f91da88335ae93f76b7469828.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾",镜新闻
 http://tv.redrainl.site:9500/live.m3u8?c=28
+#EXTINF:-1 tvg-id="4555" tvg-country="Taiwan" tvg-language="Japanese" tvg-logo="https://epg.pm/media/img/logo/2013/10/30/6fd73c6237ba02c406360c042582f021.jpg" group-title="台湾",緯來日本
+rtmp://9wv7.mine.nu/sat/tv771
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png" group-title="日本",日本24新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="日本",NHK_world
