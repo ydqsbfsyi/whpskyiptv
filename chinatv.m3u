@@ -494,6 +494,10 @@ rtmp://9wv7.mine.nu/sat/tv571
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/緯來日本.png" group-title="台湾",緯來日本
 rtmp://9wv7.mine.nu/sat/tv771
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
+https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
+#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
+https://epg.pm/stream/c20e5c221e1b7f8834dbe4888d60d1ace08abf370e64ef7c643607422b2941dc.m3u8
+#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
 http://tv.redrainl.site:9500/live.m3u8?c=01
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾",台视新闻
 http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -508,11 +512,15 @@ http://tv.redrainl.site:9500/live.m3u8?c=02
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾",中天新闻
 https://epg.pm/stream/eed2da2074222063a94841b5c8348bf93384d9012e3142d25160862974c03109.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾",中天新闻
+https://epg.pm/stream/ccff76a79490968be8ec80b7bc7581ba00e565be68209b848136f77b19ffb2cc.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾",中天新闻
 http://tv.redrainl.site:9500/live.m3u8?c=03
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
 rtmp://9wv7.mine.nu/sat/tv551
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
 http://tv.redrainl.site:9500/live.m3u8?c=04
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
+https://epg.pm/stream/e09ef8c0c8457fbd5f027009135e7dac64129b88def86e47f517d74aa0a1bf75.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
 http://tv.redrainl.site:9500/live.m3u8?c=25
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲
