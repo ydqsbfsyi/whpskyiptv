@@ -221,7 +221,6 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 中视,rtmp://9wv7.mine.nu/sat/tv091
 华视,rtmp://9wv7.mine.nu/sat/tv111
 东森财经,rtmp://9wv7.mine.nu/sat/tv571
-民视新闻,https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
 民视新闻,https://epg.pm/stream/c20e5c221e1b7f8834dbe4888d60d1ace08abf370e64ef7c643607422b2941dc.m3u8
 民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
 台视新闻,https://epg.pm/stream/8e567c2ce6cc228618f425209e6868e137e86ac26e2d7f8ada32f040c1c99244.m3u8
