@@ -233,8 +233,6 @@ TVBS新闻,http://tv.redrainl.site:9500/live.m3u8?c=04
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS,http://tv.redrainl.site:9500/live.m3u8?c=25
 三立新闻,http://23.237.10.66:16342/
-三立新闻,https://epg.pm/stream/8d77f9dea0d27c9f4f1c408c99319c9eb07398491488ef6eb70b1d207bf61f22.m3u8
-三立新闻,http://tv.redrainl.site:9500/live.m3u8?c=06
 三立INEWS,https://epg.pm/stream/8531f82afc3848b36fa9de967cb19339c1c59749512383036775efed038100fe.m3u8
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 镜新闻,https://epg.pm/stream/864e90e186ec4c67f2853ac8f808e06a1bf1c43f91da88335ae93f76b7469828.m3u8
