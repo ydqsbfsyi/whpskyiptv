@@ -224,7 +224,6 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
 台视新闻,https://epg.pm/stream/8e567c2ce6cc228618f425209e6868e137e86ac26e2d7f8ada32f040c1c99244.m3u8
 台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
-台视新闻,https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
 寰宇新闻,https://epg.pm/stream/bb842a051c548e3b6ff18a2e689ac94bebfaf265b2b70e005bebaeab1f8443d0.m3u8
 寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
