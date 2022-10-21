@@ -14,7 +14,7 @@
 上海新闻,http://live.gq.miguvideo.com:8088/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
 上海新闻,http://112.25.48.69/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海新闻,http://112.64.50.254:85/tsfile/live/1002_1.m3u8?key=txiptv
-上海新闻,http://live.cooltv.top/tv/bestv.php?id=20
+上海新闻,http://live.cooltv.top/tv/bestv.php?id=20(
 上海新闻,http://mmitv.top/test/bestv.php?id=20
 上海新闻,http://223.109.114.45/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海都市,http://[2409:8c62:e10:48:8000::53]/live.gq.miguvideo.com:8088/migu/kailu/shdshd265/55/20200407/index.m3u8?ProgramID=&encrypt=
@@ -265,8 +265,7 @@ TV Tokyo,http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-CNN International,http://quality-restream.com:8080/asadmanzur/39e379b23d/753
-CNN USA,http://quality-restream.com:8080/asadmanzur/39e379b23d/480
+USA-CNN,http://destiny4k.com:2086/live/darkside/t2z7marsRY/2951.ts
 SKY_News，http://tv.redrainl.site:9500/live.m3u8?c=08
 France24,http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/26665
 France24,http://tv.redrainl.site:9500/live.m3u8?c=13
