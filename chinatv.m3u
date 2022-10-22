@@ -481,14 +481,22 @@ http://feidao1983.f3322.net:4022/udp/239.93.0.162:2192
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
 http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
+http://23.237.10.66:16106
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻台
+http://23.237.10.66:16110
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="香港",无线财经
 http://120.84.96.74:808/hls/86/index.m3u8
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="rtmps://epg.112114.xyz/logo/民视.png" group-title="台湾",民视
 rtmp://9wv7.mine.nu/sat/tv051
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="rtmps://epg.112114.xyz/logo/民视.png" group-title="台湾",民视
+http://23.237.10.66:16334
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="rtmps://epg.112114.xyz/logo/台视.png" group-title="台湾",台视
 rtmp://9wv7.mine.nu/sat/tv071
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="rtmps://epg.112114.xyz/logo/台视.png" group-title="台湾",台视
+http://23.237.10.66:16344
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="rtmps://epg.112114.xyz/logo/中视.png" group-title="台湾",中视
 rtmp://9wv7.mine.nu/sat/tv091
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="rtmps://epg.112114.xyz/logo/华视.png" group-title="台湾",华视
@@ -517,6 +525,8 @@ https://epg.pm/stream/eed2da2074222063a94841b5c8348bf93384d9012e3142d25160862974
 https://epg.pm/stream/ccff76a79490968be8ec80b7bc7581ba00e565be68209b848136f77b19ffb2cc.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾",中天新闻
 http://tv.redrainl.site:9500/live.m3u8?c=03
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天综合.png" group-title="台湾",中天综合
+http://23.237.10.66:16372
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
 rtmp://9wv7.mine.nu/sat/tv551
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
@@ -525,6 +535,8 @@ http://tv.redrainl.site:9500/live.m3u8?c=04
 https://epg.pm/stream/e09ef8c0c8457fbd5f027009135e7dac64129b88def86e47f517d74aa0a1bf75.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
 http://tv.redrainl.site:9500/live.m3u8?c=25
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="台湾",TVBS欢乐台
+rtmp://9wv7.mine.nu/sat/tv421
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="台湾",三立新闻
@@ -537,8 +549,10 @@ http://tv.redrainl.site:9500/live.m3u8?c=51
 https://epg.pm/stream/864e90e186ec4c67f2853ac8f808e06a1bf1c43f91da88335ae93f76b7469828.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾",镜新闻
 http://tv.redrainl.site:9500/live.m3u8?c=28
-#EXTINF:-1 tvg-id="4555" tvg-country="Taiwan" tvg-language="Japanese" tvg-logo="https://epg.pm/media/img/logo/2013/10/30/6fd73c6237ba02c406360c042582f021.jpg" group-title="台湾",緯來日本
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" group-title="台湾",緯來日本
 rtmp://9wv7.mine.nu/sat/tv771
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/緯來育樂.png" group-title="台湾",緯來育樂
+rtmp://9wv7.mine.nu/sat/tv701
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png" group-title="日本",日本24新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="日本",NHK_world
