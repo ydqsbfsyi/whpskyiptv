@@ -232,13 +232,9 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天新闻,https://epg.pm/stream/ccff76a79490968be8ec80b7bc7581ba00e565be68209b848136f77b19ffb2cc.m3u8
 中天综合,http://23.237.10.66:16372
-TVBS新闻,http://tv.redrainl.site:9500/live.m3u8?c=04
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS欢乐台,rtmp://9wv7.mine.nu/sat/tv421
-TVBS,https://epg.pm/stream/e09ef8c0c8457fbd5f027009135e7dac64129b88def86e47f517d74aa0a1bf75.m3u8
-TVBS,ttp://tv.redrainl.site:9500/live.m3u8?c=25
 三立新闻,http://23.237.10.66:16342/
 三立INEWS,https://epg.pm/stream/8531f82afc3848b36fa9de967cb19339c1c59749512383036775efed038100fe.m3u8
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
