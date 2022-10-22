@@ -245,7 +245,7 @@ TVBS欢乐台,rtmp://9wv7.mine.nu/sat/tv421
 
 
 日本,#genre#
-日本24新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
+日本24新闻,https://epg.pm/stream/63947b03900f194b7bdbf32a6bb4d7a568d9fe8327955b1d65df6fb9be32c2b8.m3u8
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK_world,http://tv.redrainl.site:9500/live.m3u8?c=09
 ANN_News,http://tv.redrainl.site:9500/live.m3u8?c=29
@@ -264,16 +264,13 @@ Nippon TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
 Star 1,http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
 Star 2,http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8
 TBS,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
-Tokyo MX1,http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
-TV Tokyo,http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
-Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+
 
 国际,#genre#
 CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 USA-CNN,http://destiny4k.com:2086/live/darkside/t2z7marsRY/2951.ts
 SKY_News，http://tv.redrainl.site:9500/live.m3u8?c=08
-France24,http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/26665
 France24,http://tv.redrainl.site:9500/live.m3u8?c=13
 BBC_News,https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 FOX_News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -282,9 +279,7 @@ DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DW,http://tv.redrainl.site:9500/live.m3u8?c=30
 半岛新闻,http://tv.redrainl.site:9500/live.m3u8?c=34
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-uronews,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-CBS_News,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-NBC_News,http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+
 
 
 油管,#genre#
