@@ -220,7 +220,6 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 民视,rtmp://9wv7.mine.nu/sat/tv051
 民视,http://23.237.10.66:16334
 台视,rtmp://9wv7.mine.nu/sat/tv071
-台视,http://23.237.10.66:16344
 中视,rtmp://9wv7.mine.nu/sat/tv091
 华视,rtmp://9wv7.mine.nu/sat/tv111
 东森财经,rtmp://9wv7.mine.nu/sat/tv571
