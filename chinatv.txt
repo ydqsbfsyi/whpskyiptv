@@ -213,10 +213,14 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
+翡翠台,http://23.237.10.66:16106
+无线新闻台,http://23.237.10.66:16110
 无线财经,http://120.84.96.74:808/hls/86/index.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 民视,rtmp://9wv7.mine.nu/sat/tv051
+民视,http://23.237.10.66:16334
 台视,rtmp://9wv7.mine.nu/sat/tv071
+台视,http://23.237.10.66:16344
 中视,rtmp://9wv7.mine.nu/sat/tv091
 华视,rtmp://9wv7.mine.nu/sat/tv111
 东森财经,rtmp://9wv7.mine.nu/sat/tv571
@@ -229,8 +233,10 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
 中天新闻,https://epg.pm/stream/ccff76a79490968be8ec80b7bc7581ba00e565be68209b848136f77b19ffb2cc.m3u8
+中天综合,http://23.237.10.66:16372
 TVBS新闻,http://tv.redrainl.site:9500/live.m3u8?c=04
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS欢乐台,rtmp://9wv7.mine.nu/sat/tv421
 TVBS,https://epg.pm/stream/e09ef8c0c8457fbd5f027009135e7dac64129b88def86e47f517d74aa0a1bf75.m3u8
 TVBS,ttp://tv.redrainl.site:9500/live.m3u8?c=25
 三立新闻,http://23.237.10.66:16342/
@@ -239,8 +245,10 @@ TVBS,ttp://tv.redrainl.site:9500/live.m3u8?c=25
 镜新闻,https://epg.pm/stream/864e90e186ec4c67f2853ac8f808e06a1bf1c43f91da88335ae93f76b7469828.m3u8
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
 緯來日本,rtmp://9wv7.mine.nu/sat/tv771
+緯來育樂,rtmp://9wv7.mine.nu/sat/tv701
 
-国际,#genre#
+
+日本,#genre#
 日本24新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK_world,http://tv.redrainl.site:9500/live.m3u8?c=09
@@ -263,6 +271,8 @@ TBS,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
 Tokyo MX1,http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
 TV Tokyo,http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+
+国际,#genre#
 CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 USA-CNN,http://destiny4k.com:2086/live/darkside/t2z7marsRY/2951.ts
