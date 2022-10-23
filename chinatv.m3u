@@ -133,6 +133,8 @@ http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/104
 http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/105
 #EXTINF:-1 tvg-id="" tvg-name="BT Sports" tvg-logo="" group-title="体育",BT Sports
 http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/106
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 FHD 50FPS" tvg-logo="" group-title="体育",BT Sport 1 FHD 50FPS
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/107
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/緯來體育.png" group-title="体育",緯來體育
 rtmp://9wv7.mine.nu/sat/tv721
 #EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="rtmps://epg.112114.xyz/logo/EVE.png" group-title="体育",ELEVEN1
