@@ -215,9 +215,11 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
 翡翠台,http://23.237.10.66:16106
+J2,http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 无线新闻台,http://23.237.10.66:16110
 无线财经,http://120.84.96.74:808/hls/86/index.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+RTHK32,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 民视,rtmp://9wv7.mine.nu/sat/tv051
 民视,http://23.237.10.66:16334
 台视,rtmp://9wv7.mine.nu/sat/tv071
@@ -267,6 +269,8 @@ TBS,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
 
 
 国际,#genre#
+CNBC,http://198.16.64.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
+CNN,http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 USA-CNN,http://destiny4k.com:2086/live/darkside/t2z7marsRY/2951.ts
@@ -274,7 +278,8 @@ SKY_News，http://tv.redrainl.site:9500/live.m3u8?c=08
 France24,http://tv.redrainl.site:9500/live.m3u8?c=13
 BBC_News,https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 FOX_News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-ABC_News,https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+CBS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_8.m3u8
+ABC_News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DW,http://tv.redrainl.site:9500/live.m3u8?c=30
 半岛新闻,http://tv.redrainl.site:9500/live.m3u8?c=34
@@ -436,11 +441,15 @@ TEST,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/103
 緯來體育,rtmp://9wv7.mine.nu/sat/tv721
 ELEVEN1,rtmp://9wv7.mine.nu/sat/tv731
 ELEVEN2,rtmp://9wv7.mine.nu/sat/tv741
-ELTA体育1,rtmp://9wv7.mine.nu/sat/md011
-ELTA体育2,rtmp://9wv7.mine.nu/sat/md021
-ELTA体育3,rtmp://9wv7.mine.nu/sat/md041
+ELEVEN+,rtmp://9wv7.mine.nu/sat/md041
+ELTA体育1,rtmp://9wv7.mine.nu/sat/md021
+ELTA体育1,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+ELTA体育2,rtmp://9wv7.mine.nu/sat/md031
+ELTA体育2,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+博斯运动二台,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8#
 咪咕体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
+精品体育,http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8?blog.ntnas.top
 
 
 
