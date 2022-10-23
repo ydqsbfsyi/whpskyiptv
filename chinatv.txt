@@ -427,6 +427,15 @@ New York Live,http://192.168.3.254:9000/jmsytb.m3u8?c=76
 埋堆堆74,http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 
 体育,#genre#
+Now_Sports_4K,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/19
+Hub_Premier1,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/20
+Hub_Premier2,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/99
+NBA测试,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/100
+TR当地采集测试,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/101
+TNT,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/94
+Sky_Sports,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/104
+【咪咕】英超联赛,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/105
+BT_sports,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/106
 緯來體育,rtmp://9wv7.mine.nu/sat/tv721
 ELEVEN1,rtmp://9wv7.mine.nu/sat/tv731
 ELEVEN2,rtmp://9wv7.mine.nu/sat/tv741
