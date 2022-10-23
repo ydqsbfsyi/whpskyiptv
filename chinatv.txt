@@ -428,7 +428,10 @@ Hub_Premier1,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/20
 Hub_Premier2,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/99
 NBA测试,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/100
 TR当地采集测试,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/101
-TNT,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/94
+Sky_Sports,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/104
+【咪咕】英超联赛,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/105
+BT_Sports,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/106
+TEST,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/103
 緯來體育,rtmp://9wv7.mine.nu/sat/tv721
 ELEVEN1,rtmp://9wv7.mine.nu/sat/tv731
 ELEVEN2,rtmp://9wv7.mine.nu/sat/tv741
