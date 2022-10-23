@@ -216,9 +216,12 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
 翡翠台,http://23.237.10.66:16106
 J2,http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+HOY_TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 无线新闻台,http://23.237.10.66:16110
 无线财经,http://120.84.96.74:808/hls/86/index.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+有线财经资讯台,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u
 RTHK32,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 民视,rtmp://9wv7.mine.nu/sat/tv051
 民视,http://23.237.10.66:16334
@@ -429,15 +432,6 @@ New York Live,http://192.168.3.254:9000/jmsytb.m3u8?c=76
 埋堆堆74,http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 
 体育,#genre#
-Now_Sports_4K,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/19
-Hub_Premier1,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/20
-Hub_Premier2,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/99
-NBA测试,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/100
-TR当地采集测试,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/101
-Sky_Sports,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/104
-【咪咕】英超联赛,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/105
-BT_Sports,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/106
-TEST,http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/103
 緯來體育,rtmp://9wv7.mine.nu/sat/tv721
 ELEVEN1,rtmp://9wv7.mine.nu/sat/tv731
 ELEVEN2,rtmp://9wv7.mine.nu/sat/tv741
