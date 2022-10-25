@@ -254,18 +254,18 @@ NHK_world,http://tv.redrainl.site:9500/live.m3u8?c=09
 ANN_News,http://tv.redrainl.site:9500/live.m3u8?c=29
 Animax,http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
 AT-X,https://sub2.neetball.net/live/neet.m3u8
-Fuji TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
-Gunma TV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
-J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
+Fuji_TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
+Gunma_TV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+JSports1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
+JSports2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
 MBS,http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/playlist.m3u8
-NHK BS1,http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
-NHK BSP,http://redlabmcdn.s.llnwi.net/nv02/bs02hd/playlist.m3u8
-NHK E,http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
-NHK G,http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
-Nippon TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
-Star 1,http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
-Star 2,http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8
+NHK_BS1,http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
+NHK_BSP,http://redlabmcdn.s.llnwi.net/nv02/bs02hd/playlist.m3u8
+NHK_E,http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
+NHK_G,http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
+Nippon_TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
+Star1,http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
+Star2,http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8
 TBS,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
 
 
