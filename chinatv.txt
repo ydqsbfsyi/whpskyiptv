@@ -284,42 +284,6 @@ DW,http://tv.redrainl.site:9500/live.m3u8?c=30
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
-
-油管,#genre#
-東森新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=77
-東森財經,http://192.168.3.254:9000/jmsytb.m3u8?c=78
-TVBS新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=79
-TVBS HD,http://192.168.3.254:9000/jmsytb.m3u8?c=80
-台視新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=81
-民視新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=82
-華視新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=83
-寰宇新聞台,http://192.168.3.254:9000/jmsytb.m3u8?c=84
-中天新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=85
-中天新闻2,http://192.168.3.254:9000/jmsytb.m3u8?c=86
-中視新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=87
-镜新聞,http://192.168.3.254:9000/jmsytb.m3u8?c=88
-JapaNews24,http://192.168.3.254:9000/jmsytb.m3u8?c=89
-ABC News,http://192.168.3.254:9000/jmsytb.m3u8?c=90
-半岛新闻,http://192.168.3.254:9000/jmsytb.m3u8?c=91
-France 24,http://192.168.3.254:9000/jmsytb.m3u8?c=92
-GB News,http://192.168.3.254:9000/jmsytb.m3u8?c=93
-Euronews,http://192.168.3.254:9000/jmsytb.m3u8?c=94
-ANews,http://192.168.3.254:9000/jmsytb.m3u8?c=95
-Newsmax,http://192.168.3.254:9000/jmsytb.m3u8?c=96
-News 12 New York,http://192.168.3.254:9000/jmsytb.m3u8?c=97
-Tokyo Walk,http://192.168.3.254:9000/jmsytb.m3u8?c=54
-メ～テレ NEWS,http://192.168.3.254:9000/jmsytb.m3u8?c=62
-広島ニュース24,http://192.168.3.254:9000/jmsytb.m3u8?c=63
-東京都 新宿 歌舞伎町 24時間,http://192.168.3.254:9000/jmsytb.m3u8?c=64
-東京 新宿 歌舞伎町 ライブ ２,http://192.168.3.254:9000/jmsytb.m3u8?c=65
-渋谷センター街 メインアーチ前,http://192.168.3.254:9000/jmsytb.m3u8?c=66
-渋谷スクランブル交差点,http://192.168.3.254:9000/jmsytb.m3u8?c=67
-北海道ニュース24,http://192.168.3.254:9000/jmsytb.m3u8?c=68
-大阪道頓堀,http://192.168.3.254:9000/jmsytb.m3u8?c=69
-The Most Beautiful Places On Earth,http://192.168.3.254:9000/jmsytb.m3u8?c=73
-New York Live,http://192.168.3.254:9000/jmsytb.m3u8?c=76
-
-
 斗鱼,#genre#
 斗鱼云旅行1,http://epg.112114.xyz/douyu/9257160
 斗鱼云旅行2,http://epg.112114.xyz/douyu/9358196
