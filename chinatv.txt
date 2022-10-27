@@ -280,6 +280,9 @@ CBS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562dee
 ABC_News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DW,http://tv.redrainl.site:9500/live.m3u8?c=30
+TROWORLD,http://tv.redrainl.site:9500/live.m3u8?c=35
+NEWS,http://tv.redrainl.site:9500/live.m3u8?c=41
+IOP_NEWS,http://tv.redrainl.site:9500/live.m3u8?c=14
 半岛新闻,http://tv.redrainl.site:9500/live.m3u8?c=34
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
