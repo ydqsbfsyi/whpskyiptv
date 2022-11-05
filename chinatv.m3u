@@ -497,20 +497,6 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3
 http://120.84.96.74:808/hls/86/index.m3u8
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="rtmps://epg.112114.xyz/logo/民视.png" group-title="台湾",民视
-rtmp://9wv7.mine.nu/sat/tv051
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="rtmps://epg.112114.xyz/logo/台视.png" group-title="台湾",台视
-rtmp://9wv7.mine.nu/sat/tv071
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="rtmps://epg.112114.xyz/logo/中视.png" group-title="台湾",中视
-rtmp://9wv7.mine.nu/sat/tv091
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="rtmps://epg.112114.xyz/logo/华视.png" group-title="台湾",华视
-rtmp://9wv7.mine.nu/sat/tv111
-#EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="rtmps://epg.112114.xyz/logo/东森财经新闻台.png" group-title="台湾",东森财经
-rtmp://9wv7.mine.nu/sat/tv571
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/緯來日本.png" group-title="台湾",緯來日本
-rtmp://9wv7.mine.nu/sat/tv771
-#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
-https://epg.pm/stream/c20e5c221e1b7f8834dbe4888d60d1ace08abf370e64ef7c643607422b2941dc.m3u8
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
 http://tv.redrainl.site:9500/live.m3u8?c=01
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾",台视新闻
@@ -543,10 +529,6 @@ http://tv.redrainl.site:9500/live.m3u8?c=51
 https://epg.pm/stream/864e90e186ec4c67f2853ac8f808e06a1bf1c43f91da88335ae93f76b7469828.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾",镜新闻
 http://tv.redrainl.site:9500/live.m3u8?c=28
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" group-title="台湾",緯來日本
-rtmp://9wv7.mine.nu/sat/tv771
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/緯來育樂.png" group-title="台湾",緯來育樂
-rtmp://9wv7.mine.nu/sat/tv701
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png" group-title="日本",日本24新闻
 https://epg.pm/stream/63947b03900f194b7bdbf32a6bb4d7a568d9fe8327955b1d65df6fb9be32c2b8.m3u8
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="日本",NHK_world
