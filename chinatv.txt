@@ -250,9 +250,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 
 日本,#genre#
-日本24新闻,https://epg.pm/stream/63947b03900f194b7bdbf32a6bb4d7a568d9fe8327955b1d65df6fb9be32c2b8.m3u8
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK_world,http://tv.redrainl.site:9500/live.m3u8?c=09
 ANN_News,http://tv.redrainl.site:9500/live.m3u8?c=29
 Animax,http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
 AT-X,https://sub2.neetball.net/live/neet.m3u8
