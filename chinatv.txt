@@ -253,9 +253,8 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 ANN_News,http://tv.redrainl.site:9500/live.m3u8?c=29
 Animax,http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
-AT-X,https://sub2.neetball.net/live/neet.m3u8
 Fuji_TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
-Gunma_TV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+
 JSports1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
 JSports2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
 MBS,http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/playlist.m3u8
@@ -395,13 +394,7 @@ IOP_NEWS,http://tv.redrainl.site:9500/live.m3u8?c=14
 埋堆堆74,http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 
 体育,#genre#
-緯來體育,rtmp://9wv7.mine.nu/sat/tv721
-ELEVEN1,rtmp://9wv7.mine.nu/sat/tv731
-ELEVEN2,rtmp://9wv7.mine.nu/sat/tv741
-ELEVEN+,rtmp://9wv7.mine.nu/sat/md041
-ELTA体育1,rtmp://9wv7.mine.nu/sat/md021
 ELTA体育1,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
-ELTA体育2,rtmp://9wv7.mine.nu/sat/md031
 ELTA体育2,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 博斯运动二台,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8#
