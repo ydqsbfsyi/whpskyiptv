@@ -131,22 +131,8 @@ https://bililive.kksmg.com/hls/sdi70/playlist.m3u8
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海这一刻魔都眼.png" group-title="上海",上海这一刻魔都眼
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/緯來體育.png" group-title="体育",緯來體育
-rtmp://9wv7.mine.nu/sat/tv721
-#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="rtmps://epg.112114.xyz/logo/EVE.png" group-title="体育",ELEVEN1
-rtmp://9wv7.mine.nu/sat/tv731
-#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="rtmps://epg.112114.xyz/logo/EVE.png" group-title="体育",ELEVEN2
-rtmp://9wv7.mine.nu/sat/tv741
-#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="rtmps://epg.112114.xyz/logo/EVE.png" group-title="体育",ELEVEN+
-rtmp://9wv7.mine.nu/sat/md041
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/ELTA体育1.png" group-title="体育",ELTA体育1
-http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/ELTA体育1.png" group-title="体育",ELTA体育1
-rtmp://9wv7.mine.nu/sat/md021
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/ELTA体育2.png" group-title="体育",ELTA体育2
 http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/ELTA体育2.png" group-title="体育",ELTA体育2
-rtmp://9wv7.mine.nu/sat/md031
 #EXTINF:-1,tvg-id="博斯运动二台" tvg-name="博斯运动二台" tvg-logo="https://epg.112114.xyz/logo/博斯运动二台.png" group-title="体育",博斯运动二台
 http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="体育",咪咕体育
@@ -175,12 +161,6 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕4K.png" group-title="4K",咪咕4K
 http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VR直播.png" group-title="4K",VR直播
-http://[2409:8087:5c00:10:5::147]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225941/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VR直播.png" group-title="4K",VR直播
-http://[2409:8087:5c00:10:5::147]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225944/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VR直播.png" group-title="4K",VR直播
-http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225953/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K",爱上4k
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K",爱上4k
@@ -513,12 +493,6 @@ http://tv.redrainl.site:9500/live.m3u8?c=02
 http://tv.redrainl.site:9500/live.m3u8?c=03
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天综合.png" group-title="台湾",中天综合
 http://23.237.10.66:16372
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
-rtmp://9wv7.mine.nu/sat/tv551
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="台湾",三立新闻
-http://23.237.10.66:16342/
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立INEWS
 https://epg.pm/stream/8531f82afc3848b36fa9de967cb19339c1c59749512383036775efed038100fe.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立INEWS
@@ -527,22 +501,14 @@ http://tv.redrainl.site:9500/live.m3u8?c=51
 https://epg.pm/stream/864e90e186ec4c67f2853ac8f808e06a1bf1c43f91da88335ae93f76b7469828.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾",镜新闻
 http://tv.redrainl.site:9500/live.m3u8?c=28
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png" group-title="日本",日本24新闻
-https://epg.pm/stream/63947b03900f194b7bdbf32a6bb4d7a568d9fe8327955b1d65df6fb9be32c2b8.m3u8
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="日本",NHK_world
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="日本",NHK_world
-http://tv.redrainl.site:9500/live.m3u8?c=09
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/ANN_NEWS.png" group-title="日本",ANN_News
 http://tv.redrainl.site:9500/live.m3u8?c=29
 #EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",Animax
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
-#EXTINF:-1 tvg-id="ATX.jp" tvg-name="AT-X" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="日本",AT-X
-https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="FujiTV.jp" tvg-name="Fuji TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",Fuji TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
-#EXTINF:-1 tvg-id="GunmaTV.jp" tvg-name="Gunma TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="日本",Gunma TV
-https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 #EXTINF:-1 tvg-id="JSports1.jp" tvg-name="J Sports 1" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",J Sports 1
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
 #EXTINF:-1 tvg-id="JSports2.jp" tvg-name="J Sports 2" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",J Sports 2
