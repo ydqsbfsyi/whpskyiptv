@@ -232,7 +232,11 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 凤凰中文,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
+翡翠台,http://23.237.10.66:16410
+翡翠台2,http://23.237.10.66:16106
 无线财经,http://120.84.96.74:808/hls/86/index.m3u8
+财经体育资讯台,https://j3.lhlh.app/mv.m3u8
+财经体育资讯台2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -392,12 +396,12 @@ NBC,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 埋堆堆74,http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 
 体育,#genre#
-ELEVEN SPORTS 1 HD，http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5270
-ELEVEN SPORTS 2 HD，http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159577
-ELEVEN SPORTS 3 HD，http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159578
-ELEVEN SPORTS 4 HD，http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579
-ELEVEN SPORTS 5 HD，http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580
-ELEVEN SPORTS 6 HD，http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159581
+ELEVEN_SPORTS1,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5270
+ELEVEN_SPORTS2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159577
+ELEVEN_SPORTS3,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159578
+ELEVEN_SPORTS4,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579
+ELEVEN_SPORTS5,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580
+ELEVEN_SPORTS6,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159581
 ELTA体育1,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
 ELTA体育2,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 博斯运动二台,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
