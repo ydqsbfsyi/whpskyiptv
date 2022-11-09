@@ -145,14 +145,22 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580
 #EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="体育",ELEVEN_SPORTS6
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159581
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/博运体育.png" group-title="体育",博运体育
+rtmp://9wv7.mine.nu/sat/md011
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="rtmps://epg.112114.xyz/logo/EVE.png" group-title="体育",ELEVEN1
+rtmp://9wv7.mine.nu/sat/tv731
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="rtmps://epg.112114.xyz/logo/EVE.png" group-title="体育",ELEVEN2
+rtmp://9wv7.mine.nu/sat/tv741
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="rtmps://epg.112114.xyz/logo/EVE.png" group-title="体育",ELEVEN+
+rtmp://9wv7.mine.nu/sat/md041
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/ELTA体育1.png" group-title="体育",ELTA体育1
+rtmp://9wv7.mine.nu/sat/md051
 #EXTINF:-1,tvg-id="博斯运动二台" tvg-name="博斯运动二台" tvg-logo="https://epg.112114.xyz/logo/博斯运动二台.png" group-title="体育",博斯运动二台
 http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="体育",咪咕体育
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8#
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="体育",咪咕体育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
-#EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="体育",精品体育
-http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8?blog.ntnas.top
 #EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="体育",FOX Sports2
 https://epg.pm/stream/07fe8e45ac0de19e957426ae54a3386cf54a83506d492cda8ea501ae228f67e9.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K
@@ -501,6 +509,30 @@ https://j3.lhlh.app/mv.m3u8
 https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/面包台.png" group-title="香港",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="rtmps://epg.112114.xyz/logo/华视.png" group-title="台湾",华视
+rtmp://9wv7.mine.nu/sat/tv111
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="rtmps://epg.112114.xyz/logo/台视.png" group-title="台湾",台视
+rtmp://9wv7.mine.nu/sat/tv071
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="rtmps://epg.112114.xyz/logo/民视.png" group-title="台湾",民视
+rtmp://9wv7.mine.nu/sat/tv051
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="rtmps://epg.112114.xyz/logo/中视.png" group-title="台湾",中视
+rtmp://9wv7.mine.nu/sat/tv091
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/緯來日本.png" group-title="台湾",緯來日本
+rtmp://9wv7.mine.nu/sat/tv771
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/緯來體育.png" group-title="台湾",緯來體育
+rtmp://9wv7.mine.nu/sat/tv721
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/緯來育樂.png" group-title="台湾",緯來育樂
+rtmp://9wv7.mine.nu/sat/tv701
+#EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="rtmps://epg.112114.xyz/logo/东森财经新闻台.png" group-title="台湾",东森财经新闻
+rtmp://9wv7.mine.nu/sat/tv571
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="rtmps://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
+rtmp://9wv7.mine.nu/sat/tv551
+#EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="rtmps://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="台湾",TVBS欢乐
+rtmp://9wv7.mine.nu/sat/tv421
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
 http://tv.redrainl.site:9500/live.m3u8?c=01
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾",台视新闻
@@ -518,11 +550,7 @@ http://tv.redrainl.site:9500/live.m3u8?c=03
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中天综合.png" group-title="台湾",中天综合
 http://23.237.10.66:16372
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立INEWS
-https://epg.pm/stream/8531f82afc3848b36fa9de967cb19339c1c59749512383036775efed038100fe.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立INEWS
 http://tv.redrainl.site:9500/live.m3u8?c=51
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾",镜新闻
-https://epg.pm/stream/864e90e186ec4c67f2853ac8f808e06a1bf1c43f91da88335ae93f76b7469828.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾",镜新闻
 http://tv.redrainl.site:9500/live.m3u8?c=28
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="日本",NHK_world
