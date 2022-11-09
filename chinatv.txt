@@ -90,7 +90,7 @@ Bloomberg TV+,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playl
 央视卫视,#genre#
 CNC新华社,http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CCTV-1,http://fyld.eatuo.com:9901/tsfile/live/1018_1.m3u8
+CCTV1,http://fyld.eatuo.com:9901/tsfile/live/1018_1.m3u8
 CCTV1,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN111128BESTVSMGSMG5/index.m3u8?AuthInfo=FSaMuhvQ796XQ1Ucg1vHnL9bPeXXinvsdLHlh4BnRwC1E7d1zpCmGI96gGrrcE944wF%2ButJuJ3A%2F3zBrw93lSw%3D%3D
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225618/2/index.m3u8
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225762/2/index.m3u8
