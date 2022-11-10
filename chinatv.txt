@@ -263,6 +263,7 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 緯來日本,rtmp://9wv7.mine.nu/sat/tv771
 緯來體育,rtmp://9wv7.mine.nu/sat/tv721
 緯來育樂,rtmp://9wv7.mine.nu/sat/tv701
+东森新闻,http://tv.redrainl.site:9500/live.m3u8?c=05
 东森财经新闻,rtmp://9wv7.mine.nu/sat/tv571
 民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -280,6 +281,7 @@ TVBS欢乐,rtmp://9wv7.mine.nu/sat/tv421
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
 中天综合,http://23.237.10.66:16372
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+三立新闻,http://tv.redrainl.site:9500/live.m3u8?c=06
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
 
