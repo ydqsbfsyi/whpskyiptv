@@ -1,5 +1,4 @@
 上海,#genre#
-东方卫视,http://www.fuxiaopang.work:8866/udp/239.253.92.89:8019
 东方卫视,http://[2409:8087:1070:301:2026::24]:80/wh7f454c46tw4190002058_656791940/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225908/10000100000000060000000000373626_0.smil/01.m3u8?fmt=ts2hls
 东方卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
 东方卫视,http://[2409:8087:4402:20:1:1216:401:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226681/index.m3u8
