@@ -242,8 +242,6 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
-翡翠台,http://gg.gg/feicuitai
-翡翠台,http://113.64.147.180:808/hls/67/index.m3u8
 无线财经,http://120.84.96.74:808/hls/86/index.m3u8
 财经体育资讯台,https://j3.lhlh.app/mv.m3u8
 财经体育资讯台2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
@@ -267,7 +265,6 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 寰宇新闻,https://epg.pm/stream/bb842a051c548e3b6ff18a2e689ac94bebfaf265b2b70e005bebaeab1f8443d0.m3u8
 寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
 TVBS新闻,rtmp://9wv7.mine.nu/sat/tv551
-TVB新闻,http://soboy.cn:30088/stream/channelid/935895422?auth=Pbz4Y0ctMpA82UmE2wFk6.7ut4NU&profile=pass
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -280,8 +277,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 三立新闻,http://tv.redrainl.site:9500/live.m3u8?c=06
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
-年代新闻,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
-年代新闻,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+
 
 国际,#genre#
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
