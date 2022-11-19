@@ -286,8 +286,6 @@ TVBS新闻,rtmp://9wv7.mine.nu/sat/tv551
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS_HD,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
-TVBS_HD,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 TVBS欢乐,rtmp://9wv7.mine.nu/sat/tv421
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
@@ -312,7 +310,7 @@ SKY_News,http://tv.redrainl.site:9500/live.m3u8?c=08
 SKY_News,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 France24,http://tv.redrainl.site:9500/live.m3u8?c=13
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-FoxNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CBS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_8.m3u8
 ABC_News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 ABC_News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
