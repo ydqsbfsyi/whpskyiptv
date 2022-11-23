@@ -275,14 +275,6 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-华视,rtmp://9wv7.mine.nu/sat/tv111
-台视,rtmp://9wv7.mine.nu/sat/tv071
-民视,rtmp://9wv7.mine.nu/sat/tv051
-中视,rtmp://9wv7.mine.nu/sat/tv091
-緯來日本,rtmp://9wv7.mine.nu/sat/tv771
-緯來體育,rtmp://9wv7.mine.nu/sat/tv721
-緯來育樂,rtmp://9wv7.mine.nu/sat/tv701
-東森财经新闻,rtmp://9wv7.mine.nu/sat/tv571
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -291,11 +283,9 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 寰宇新闻,https://epg.pm/stream/bb842a051c548e3b6ff18a2e689ac94bebfaf265b2b70e005bebaeab1f8443d0.m3u8
 寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
-TVBS新闻,rtmp://9wv7.mine.nu/sat/tv551
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS欢乐,rtmp://9wv7.mine.nu/sat/tv421
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
