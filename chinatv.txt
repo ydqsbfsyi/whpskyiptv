@@ -378,11 +378,6 @@ IOP_NEWS,http://tv.redrainl.site:9500/live.m3u8?c=14
 埋堆堆74,http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 
 体育,#genre#
-博运体育,rtmp://9wv7.mine.nu/sat/md011
-ELEVEN1,rtmp://9wv7.mine.nu/sat/tv731
-ELEVEN2,rtmp://9wv7.mine.nu/sat/tv741
-ELEVEN+,rtmp://9wv7.mine.nu/sat/md041
-ELTA体育1,rtmp://9wv7.mine.nu/sat/md051
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8#
 咪咕体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
 
