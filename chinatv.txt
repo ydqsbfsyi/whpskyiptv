@@ -79,9 +79,6 @@
 BTV纪实科学8k,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 CCTV4K,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226998/index.m3u8
 CCTV4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
-CCTV4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
-CCTV4K,http://27.36.62.163:9090/live/4005.m3u8
 CCTV16_4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
 CCTV16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16_4K,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
