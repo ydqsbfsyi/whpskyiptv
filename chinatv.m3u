@@ -171,6 +171,8 @@ http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322122586
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕4K.png" group-title="4K",咪咕4K
 http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/抖音世界杯4K.png" group-title="4K",抖音世界杯4K
+http://159.75.85.63:5678/zb.php?id=douyin
 #EXTINF:-1,tvg-id="河南4K" tvg-name="河南4K" tvg-logo="https://epg.112114.xyz/logo/河南4K.png" group-title="4K",河南4K4K
 http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="4K",4K综艺4K
