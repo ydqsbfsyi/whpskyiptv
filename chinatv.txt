@@ -58,7 +58,10 @@
 劲爆体育,http://yfsl.vsd.gehua.net.cn/live/JinBaoTiYuHD_6000.m3u8
 劲爆体育,http://119.167.229.31/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 劲爆体育,http://39.134.165.130:6610/000000001000/5000000002000029972/index.m3u8?
+咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8#
+咪咕体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+魅力足球,http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 咪咕音乐,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
 东方财经,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8
 金色学堂,http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226545/index.m3u8
@@ -66,7 +69,6 @@
 乐游,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 全纪实 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
 都市剧场 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
-魅力足球,http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 陶瓷,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227234/index.m3u8?servicetype=1
 上海这一刻丨陆家嘴,https://bililive.kksmg.com/hls/sdi70/playlist.m3u8
 上海这一刻魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
@@ -76,7 +78,9 @@
 BTV纪实科学8k,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 CCTV4K,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226998/index.m3u8
 CCTV4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/PLTV/3/224/3221228228/index.m3u8
 CCTV16_4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+CCTV16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8 
 CCTV16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16_4K,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV16_4K,http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
@@ -128,6 +132,8 @@ CCTV5,http://[2409:8087:1070:301:2028::1e]:80/wh7f454c46tw4201204269_1958960221/
 CCTV5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225752/2/index.m3u8
 CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5,http://yfsl.vsd.gehua.net.cn/live/CCTV5HD_6000.m3u8
+CCTV5,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 CCTV5+,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001001000000000061/main.m3u8?IASHttpSessionId=OTT
 CCTV5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225706/2/index.m3u8
 CCTV5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225649/2/index.m3u8
@@ -372,19 +378,7 @@ IOP_NEWS,http://tv.redrainl.site:9500/live.m3u8?c=14
 埋堆堆74,http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 
 体育,#genre#
-咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8#
-咪咕体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
-Astro_Super_Sport体育,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-Now_Sports_UHD_HK,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-Hub_Premier_Sport体育,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-Eleven_Sports1体育,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
-SuperSport体育World_CUP,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
-Sport5体育,http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
-TRT体育,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
-DIGI体育,http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=WYPW6GSH4H
-Rai体育,http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=WYPW6GSH4H
-TVP体育,http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
-Sky_Sport_UHD,http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
+
 
 
 数字,#genre#
