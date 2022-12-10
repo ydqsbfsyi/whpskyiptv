@@ -85,10 +85,6 @@ CCTV16_4K,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV16_4K,http://111.29.9.33:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 咪咕4K,http://[2409:8087:5c00:10:5::157]/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
 咪咕4K,http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
-咪咕4K,
-咪咕4K,http://183.60.255.55/tptv.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?GuardEncType=2&hwcdnbacksourceflag=223.110.236.32
-PPTV4K,http://111.29.9.38:6610/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-PPTV4K,http://111.29.9.33:6610/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 河南卫视4K,http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 广东综艺4K,http://27.36.62.163:9090/live/GDZYHD4K_38000.m3u8
 纯享4K,http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
