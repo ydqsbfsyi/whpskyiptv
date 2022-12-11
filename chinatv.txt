@@ -285,9 +285,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 朝日電視台,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 ANN_News,http://tv.redrainl.site:9500/live.m3u8?c=29
-CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-USA-CNN,http://destiny4k.com:2086/live/darkside/t2z7marsRY/2951.ts
+CNN,http://red.ipfox.org:8080/osama2022/osama2023/49246
 News,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8 
 SKY_News,http://tv.redrainl.site:9500/live.m3u8?c=08
 SKY_News,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
