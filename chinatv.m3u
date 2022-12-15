@@ -496,8 +496,6 @@ http://tv.redrainl.site:9500/live.m3u8?c=03
 http://103.214.71.71:1654/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="香港",三立新闻
-http://tv.redrainl.site:9500/live.m3u8?c=06
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="香港",三立INEWS
 http://tv.redrainl.site:9500/live.m3u8?c=51
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三立新闻+.png" group-title="香港",三立新闻+
