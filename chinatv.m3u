@@ -32,6 +32,8 @@ http://39.136.172.8/hlsztemgsplive.miguvideo.com/migu/kailu/xwzhhd265/55/2020040
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
 http://39.136.172.100/hlsmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=1
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
 http://live.cooltv.top/tv/bestv.php?id=20
@@ -58,6 +60,8 @@ https://epg.pm/stream/1bf5113ebca00c90d017954cecb17d881b0bbc0e106d4f91950b6aa77a
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
 https://epg.pm/stream/e5098163ffac8ec7ab9af52984eb0c3b12432d03925faa2fa1a53fb0b98104f3.m3u8
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海",上海外语
 http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
@@ -83,7 +87,7 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227091/index.m3
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="上海",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海",劲爆体育
-http://yfsl.vsd.gehua.net.cn/live/JinBaoTiYuHD_6000.m3u8
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="上海",魅力足球
 http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="上海",魅力足球
