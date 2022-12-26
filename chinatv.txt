@@ -272,7 +272,9 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 翡翠台,http://103.214.71.71:1631/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
-无线新闻,
+J2,http://r.jdshipin.com/Nr5jq
+VIUTV,http://r.jdshipin.com/vSJvl
+无线新闻,http://103.214.71.71:1633/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
 无线财经,http://120.84.96.74:808/hls/86/index.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -290,13 +292,13 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS56,http://103.214.71.71:1669/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+TVBS56,http://103.214.71.71:1675/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
-三立新闻+,http://103.214.71.71:1675/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+三立新闻+,http://103.214.71.71:1669/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
 东森新闻,http://103.214.71.71:1677/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
 东森财经新闻,http://103.214.71.71:1679/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
