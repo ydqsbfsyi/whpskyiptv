@@ -295,12 +295,14 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 凤凰中文,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-纬来日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
+翡翠台,http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
+
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 无线财经,http://jylt.jdshipin.com:808/hls/86/index.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-華視新聞資訊HD,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+華視新聞資訊,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+華視新聞資訊,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -318,6 +320,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
 中天娱乐,http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+东森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
@@ -325,6 +328,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
 年代新聞,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 年代新聞,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+纬来日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 
 国际,#genre#
 日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
