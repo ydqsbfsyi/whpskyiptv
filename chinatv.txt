@@ -326,8 +326,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立NEWS+,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
-年代新聞,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
-年代新聞,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 纬来日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 
 国际,#genre#
