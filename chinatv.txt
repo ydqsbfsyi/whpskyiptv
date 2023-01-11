@@ -29,7 +29,6 @@
 第一财经,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1314BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjI9NVIjBLmqU0HRssVBtByz0TJiFt6IqCBywgEFMyoS7%2BaXtSGYH1ipJfllOdvLcUQ%3D%3D
 第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 第一财经,http://204bae1.123nat.com:55/bestv.php?id=60
-五星体育,https://epg.pm/stream/fe06015401865a6299a40b020705a0f2df4e29d042c03ed79fd4c68555e4dc76.m3u8
 五星体育,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星体育,https://epg.pm/stream/1bf5113ebca00c90d017954cecb17d881b0bbc0e106d4f91950b6aa77aa4e362.m3u8
 五星体育,https://epg.pm/stream/e5098163ffac8ec7ab9af52984eb0c3b12432d03925faa2fa1a53fb0b98104f3.m3u8
