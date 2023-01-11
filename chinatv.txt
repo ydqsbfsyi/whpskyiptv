@@ -12,17 +12,18 @@
 东方卫视,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/dongfanghd265/57/20191230/index.m3u8?&encrypt=
 上海新闻,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1312BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKjhXSjQi%2BeaQRf9Ziq7KgRxPDH63cId6gXyoJkX5oXhqiHPA8BBLiWRr0QWb9LVbA%3D%3D
 上海新闻,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
+上海新闻,http://[2408:8770:0:51:1d::]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海新闻,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,http://39.136.172.8/hlsztemgsplive.miguvideo.com/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
 上海新闻,http://39.136.172.100/hlsmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=1
 上海新闻,http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-上海新闻,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,http://223.109.123.11/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,http://183.204.192.173/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海新闻,http://204bae1.123nat.com:55/bestv.php?id=61
 上海都市,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1318BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKOQsN8ofCczbUX1AjxZYMpKdI1PJQPlp0I5RTtUrbQtTuwS%2FH1VLbdWY%2FeIxpxvfA%3D%3D
 上海都市,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/shdshd265/55/20200407/index.m3u8?&encrypt=
+上海都市,http://[2408:8770:0:51:1d::]/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
 上海都市,http://39.136.172.100/hlsmgsplive.miguvideo.com//wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=1
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 上海都市,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dshd8m/8000000/mnf.m3u8
@@ -30,9 +31,7 @@
 第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 第一财经,http://204bae1.123nat.com:55/bestv.php?id=60
 五星体育,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-五星体育,https://epg.pm/stream/1bf5113ebca00c90d017954cecb17d881b0bbc0e106d4f91950b6aa77aa4e362.m3u8
-五星体育,https://epg.pm/stream/e5098163ffac8ec7ab9af52984eb0c3b12432d03925faa2fa1a53fb0b98104f3.m3u8
-五星体育,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://[2408:8770:0:51:1d::]/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://204bae1.123nat.com:55/bestv.php?id=67
 上海ICS外语,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
 上海ICS外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
@@ -52,11 +51,13 @@
 咪咕体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 魅力足球,http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
+魅力足球,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+魅力足球,http://[2408:8770:0:51:1d::]/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 咪咕音乐,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
 东方财经,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8
 金色学堂,http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226545/index.m3u8
 法治天地,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
-哈哈炫动,https://epg.pm/stream/040971c459902da94e867c7135365a8bad8b62800ef56342f55fb68c7551f0fb.m3u8
+哈哈炫动,http://[2408:8770:0:51:1d::]/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
 乐游,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 全纪实 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
 都市剧场 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
@@ -153,6 +154,7 @@ CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225762/2/index.m3u8
 CCTV1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 CCTV1,http://39.136.172.100/hlsmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=1
+CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225500/2/index.m3u8
 CCTV2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225619/2/index.m3u8
 CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225634/2/index.m3u8
