@@ -14,8 +14,7 @@
 上海新闻,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
 上海新闻,http://39.136.172.8/hlsztemgsplive.miguvideo.com/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
 上海新闻,http://39.136.172.100/hlsmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=1
-上海新闻,http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-上海新闻,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 上海新闻,http://tt-live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海都市,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1318BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKOQsN8ofCczbUX1AjxZYMpKdI1PJQPlp0I5RTtUrbQtTuwS%2FH1VLbdWY%2FeIxpxvfA%3D%3D
 上海都市,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/shdshd265/55/20200407/index.m3u8?&encrypt=
@@ -23,8 +22,7 @@
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 第一财经,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1314BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjI9NVIjBLmqU0HRssVBtByz0TJiFt6IqCBywgEFMyoS7%2BaXtSGYH1ipJfllOdvLcUQ%3D%3D
 第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
-
-五星体育,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://tt-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 上海ICS外语,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
 上海ICS外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
@@ -36,7 +34,7 @@
 生活时尚,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 生活时尚,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227091/index.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-劲爆体育,http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 劲爆体育,http://tt-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8#
 咪咕体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
@@ -304,6 +302,7 @@ TVBS新闻,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86
 TVBS亚洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
+中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
 中天娱乐,http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
