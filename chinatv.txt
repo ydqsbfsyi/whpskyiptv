@@ -15,7 +15,7 @@
 上海新闻,http://39.136.172.8/hlsztemgsplive.miguvideo.com/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
 上海新闻,http://39.136.172.100/hlsmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=1
 上海新闻,http://39.134.193.112:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-上海新闻,http://tv.redrainl.site:88/sh.php?id=shxwzh
+上海新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 上海新闻,http://61.156.196.223/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,http://61.156.196.216/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
@@ -27,7 +27,7 @@
 上海都市,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/shdshd265/55/20200407/index.m3u8?&encrypt=
 上海都市,http://39.136.172.100/hlsmgsplive.miguvideo.com//wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=1
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
-五星体育,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8#https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://61.156.196.214/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
@@ -36,6 +36,7 @@
 第一财经,https://www.whalenas.com/bestv/index.php?id=dycjhd8m/8000000
 上海ICS外语,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
 上海ICS外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+上海教育,https://live.v1.mk/api/bestv.php?id=setvhd/8000000
 东方影视,http://39.136.172.100/hlsmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=1
 都市剧场,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
 纪实人文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225609/2/index.m3u8
@@ -58,6 +59,7 @@
 都市剧场 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
 七彩戏剧,http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 哈哈炫动,http://39.134.193.112:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
+陶瓷高清,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
 华语影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 星光影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 谍战剧场,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
@@ -67,6 +69,7 @@
 超级体育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 健康养生,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
 看天下精选,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
+足球高清,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
 上海这一刻丨陆家嘴,https://bililive.kksmg.com/hls/sdi70/playlist.m3u8
 上海这一刻魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
 上海这一刻魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
