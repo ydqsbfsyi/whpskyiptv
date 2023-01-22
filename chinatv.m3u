@@ -608,8 +608,7 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=28
 #EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title="台湾",年代新闻
 http://www.yshmzmc.top/gtjm.php?id=live1077
-#EXTINF:-1,tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://epg.112114.xyz/logo/纬来日本台.png" group-title="台湾",纬来日本
-http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
+
 
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="日本",NHK_world
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
