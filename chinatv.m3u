@@ -686,8 +686,6 @@ http://epg.112114.xyz/douyu/615814
 http://epg.112114.xyz/douyu/9527954
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游6.png" group-title="斗鱼",斗鱼云旅游6
 http://epg.112114.xyz/douyu/5820284
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游7.png" group-title="斗鱼",斗鱼云旅游7
-http://epg.112114.xyz/douyu/1668562
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/罗翔说法1.png" group-title="斗鱼",罗翔说法1
 http://epg.112114.xyz/douyu/8805
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/养猫吧.png" group-title="斗鱼",养猫吧
@@ -939,33 +937,6 @@ http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/888888
 http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="数字",梨园频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育",Astro Super Sport 体育
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title=”4K频道“,Now Sports UHD HK
-http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育",Hub Premier Sport 体育
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育",DAZN F1 UHD 体育
-http://tribaliptv.com:8080/Gustavo/123456/4930
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育",MOVISTAR LIGA DE CAMPEONES UHD 体育
-http://tribaliptv.com:8080/Gustavo/123456/12401
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png"group-title="体育",ODISEA UHD 体育
-http://tribaliptv.com:8080/Gustavo/123456/5195
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育",Eleven Sports 1 体育
-http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育",SuperSport 体育 World CUP
-http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育",Sport5 体育
-http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育",TRT 体育
-http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育",DIGI 体育
-http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=WYPW6GSH4H
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育",Rai 体育
-http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=WYPW6GSH4H
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育",TVP 体育
-http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育",Sky Sport UHD
-http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
+
 
 
