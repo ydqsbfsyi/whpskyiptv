@@ -89,6 +89,11 @@ CCTV16_4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162
 CCTV16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8 
 CCTV16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16_4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
+咪咕体育-4K,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育-4K,http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育-4K,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+4K超高清电影,http://159.75.85.63:5681/sxg.php
 Bloomberg TV+,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 MUZZIK_ZZ4000_4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -246,6 +251,7 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新闻,http://www.yshmzmc.top/gtjm.php?id=live1222
+TVBSHD,http://158.101.151.82:9000/jmsytb.m3u8?c=04
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -253,12 +259,16 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
+中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=05
 东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+东森live,http://158.101.151.82:9000/jmsytb.m3u8?c=02
 三立新闻,http://www.yshmzmc.top/gtjm.php?id=live1079
+三立新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=16
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立NEWS+,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
+镜新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=19
 年代新闻,http://www.yshmzmc.top/gtjm.php?id=live1077
 
 
