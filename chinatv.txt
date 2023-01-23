@@ -17,7 +17,7 @@
 上海新闻,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 上海新闻,http://61.156.196.223/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-上海新闻,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海新闻,http://223.111.143.81/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海都市,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1318BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKOQsN8ofCczbUX1AjxZYMpKdI1PJQPlp0I5RTtUrbQtTuwS%2FH1VLbdWY%2FeIxpxvfA%3D%3D
 上海都市,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/shdshd265/55/20200407/index.m3u8?&encrypt=
 上海都市,http://39.136.172.100/hlsmgsplive.miguvideo.com//wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=1
@@ -331,6 +331,35 @@ IOP_NEWS,http://tv.redrainl.site:9500/live.m3u8?c=14
 斗鱼电视剧HD3,http://epg.112114.xyz/douyu/6706214
 斗鱼电视剧HD4,http://epg.112114.xyz/douyu/6566658
 
+虎牙,#genre#
+虎牙电影1,http://epg.112114.xyz/huya/11602058
+虎牙电影2,http://epg.112114.xyz/huya/11601968
+虎牙电影3,http://epg.112114.xyz/huya/11342412
+虎牙电影4,http://epg.112114.xyz/huya/11342386
+虎牙电影5,http://epg.112114.xyz/huya/11601986
+虎牙电影6,http://epg.112114.xyz/huya/11601971
+虎牙电影7,http://epg.112114.xyz/huya/11336592
+虎牙电影8,http://epg.112114.xyz/huya/11342390
+虎牙电影9,http://epg.112114.xyz/huya/11352941
+虎牙电影10,http://epg.112114.xyz/huya/11279251
+虎牙电影11,http://epg.112114.xyz/huya/11602041
+虎牙电影12,http://epg.112114.xyz/huya/11352963
+虎牙电影13,http://epg.112114.xyz/huya/11342414
+虎牙电影14,http://epg.112114.xyz/huya/11602075
+虎牙电影15,http://epg.112114.xyz/huya/11352962
+虎牙电影16,http://epg.112114.xyz/huya/11336571
+虎牙电影17,http://epg.112114.xyz/huya/11342427
+虎牙电影18,http://epg.112114.xyz/huya/11336719
+虎牙电影19,http://epg.112114.xyz/huya/11352894
+虎牙电影20,http://epg.112114.xyz/huya/11352877
+虎牙电影21,http://epg.112114.xyz/huya/11602077
+虎牙电影22,http://epg.112114.xyz/huya/11601960
+虎牙电影23,http://epg.112114.xyz/huya/11352965
+虎牙电影24,http://epg.112114.xyz/huya/11342435
+虎牙电影25,http://epg.112114.xyz/huya/11342423
+虎牙电影26,http://epg.112114.xyz/huya/11352909
+虎牙电影27,http://epg.112114.xyz/huya/11352886
+虎牙电影28,http://epg.112114.xyz/huya/11602044
 
 埋堆堆,#genre#
 埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
