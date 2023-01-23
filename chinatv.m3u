@@ -647,7 +647,62 @@ http://epg.112114.xyz/douyu/7489563
 http://epg.112114.xyz/douyu/6706214
 #EXTINF:-1,tvg-id="斗鱼电视剧HD4" tvg-name="斗鱼电视剧HD4" tvg-logo="https://epg.112114.xyz/logo/斗鱼电视剧HD4.png" group-title="斗鱼",斗鱼电视剧HD4
 http://epg.112114.xyz/douyu/6566658
-
+#EXTINF:-1,tvg-id="虎牙电影1" tvg-name="虎牙电影1" tvg-logo="https://epg.112114.xyz/logo/虎牙电影1.png" group-title="虎牙",虎牙电影1
+http://epg.112114.xyz/huya/11602058
+#EXTINF:-1,tvg-id="虎牙电影2" tvg-name="虎牙电影2" tvg-logo="https://epg.112114.xyz/logo/虎牙电影2.png" group-title="虎牙",虎牙电影2
+http://epg.112114.xyz/huya/11601968
+#EXTINF:-1,tvg-id="虎牙电影3" tvg-name="虎牙电影3" tvg-logo="https://epg.112114.xyz/logo/虎牙电影3.png" group-title="虎牙",虎牙电影3
+http://epg.112114.xyz/huya/11342412
+#EXTINF:-1,tvg-id="虎牙电影4" tvg-name="虎牙电影4" tvg-logo="https://epg.112114.xyz/logo/虎牙电影4.png" group-title="虎牙",虎牙电影4
+http://epg.112114.xyz/huya/11342386
+#EXTINF:-1,tvg-id="虎牙电影5" tvg-name="虎牙电影5" tvg-logo="https://epg.112114.xyz/logo/虎牙电影5.png" group-title="虎牙",虎牙电影5
+http://epg.112114.xyz/huya/11601986
+#EXTINF:-1,tvg-id="虎牙电影6" tvg-name="虎牙电影6" tvg-logo="https://epg.112114.xyz/logo/虎牙电影6.png" group-title="虎牙",虎牙电影6
+http://epg.112114.xyz/huya/11601971
+#EXTINF:-1,tvg-id="虎牙电影7" tvg-name="虎牙电影7" tvg-logo="https://epg.112114.xyz/logo/虎牙电影7.png" group-title="虎牙",虎牙电影7
+http://epg.112114.xyz/huya/11336592
+#EXTINF:-1,tvg-id="虎牙电影8" tvg-name="虎牙电影8" tvg-logo="https://epg.112114.xyz/logo/虎牙电影8.png" group-title="虎牙",虎牙电影8
+http://epg.112114.xyz/huya/11342390
+#EXTINF:-1,tvg-id="虎牙电影9" tvg-name="虎牙电影9" tvg-logo="https://epg.112114.xyz/logo/虎牙电影9.png" group-title="虎牙",虎牙电影9
+http://epg.112114.xyz/huya/11352941
+#EXTINF:-1,tvg-id="虎牙电影10" tvg-name="虎牙电影10" tvg-logo="https://epg.112114.xyz/logo/虎牙电影10.png" group-title="虎牙",虎牙电影10
+http://epg.112114.xyz/huya/11279251
+#EXTINF:-1,tvg-id="虎牙电影11" tvg-name="虎牙电影11" tvg-logo="https://epg.112114.xyz/logo/虎牙电影11.png" group-title="虎牙",虎牙电影11
+http://epg.112114.xyz/huya/11602041
+#EXTINF:-1,tvg-id="虎牙电影12" tvg-name="虎牙电影12" tvg-logo="https://epg.112114.xyz/logo/虎牙电影12.png" group-title="虎牙",虎牙电影12
+http://epg.112114.xyz/huya/11352963
+#EXTINF:-1,tvg-id="虎牙电影13" tvg-name="虎牙电影13" tvg-logo="https://epg.112114.xyz/logo/虎牙电影13.png" group-title="虎牙",虎牙电影13
+http://epg.112114.xyz/huya/11342414
+#EXTINF:-1,tvg-id="虎牙电影14" tvg-name="虎牙电影14" tvg-logo="https://epg.112114.xyz/logo/虎牙电影14.png" group-title="虎牙",虎牙电影14
+http://epg.112114.xyz/huya/11602075
+#EXTINF:-1,tvg-id="虎牙电影15" tvg-name="虎牙电影15" tvg-logo="https://epg.112114.xyz/logo/虎牙电影15.png" group-title="虎牙",虎牙电影15
+http://epg.112114.xyz/huya/11352962
+#EXTINF:-1,tvg-id="虎牙电影16" tvg-name="虎牙电影16" tvg-logo="https://epg.112114.xyz/logo/虎牙电影16.png" group-title="虎牙",虎牙电影16
+http://epg.112114.xyz/huya/11336571
+#EXTINF:-1,tvg-id="虎牙电影17" tvg-name="虎牙电影17" tvg-logo="https://epg.112114.xyz/logo/虎牙电影17.png" group-title="虎牙",虎牙电影17
+http://epg.112114.xyz/huya/11342427
+#EXTINF:-1,tvg-id="虎牙电影18" tvg-name="虎牙电影18" tvg-logo="https://epg.112114.xyz/logo/虎牙电影18.png" group-title="虎牙",虎牙电影18
+http://epg.112114.xyz/huya/11336719
+#EXTINF:-1,tvg-id="虎牙电影19" tvg-name="虎牙电影19" tvg-logo="https://epg.112114.xyz/logo/虎牙电影19.png" group-title="虎牙",虎牙电影19
+http://epg.112114.xyz/huya/11352894
+#EXTINF:-1,tvg-id="虎牙电影20" tvg-name="虎牙电影20" tvg-logo="https://epg.112114.xyz/logo/虎牙电影20.png" group-title="虎牙",虎牙电影20
+http://epg.112114.xyz/huya/11352877
+#EXTINF:-1,tvg-id="虎牙电影21" tvg-name="虎牙电影21" tvg-logo="https://epg.112114.xyz/logo/虎牙电影21.png" group-title="虎牙",虎牙电影21
+http://epg.112114.xyz/huya/11602077
+#EXTINF:-1,tvg-id="虎牙电影22" tvg-name="虎牙电影22" tvg-logo="https://epg.112114.xyz/logo/虎牙电影22.png" group-title="虎牙",虎牙电影22
+http://epg.112114.xyz/huya/11601960
+#EXTINF:-1,tvg-id="虎牙电影23" tvg-name="虎牙电影23" tvg-logo="https://epg.112114.xyz/logo/虎牙电影23.png" group-title="虎牙",虎牙电影23
+http://epg.112114.xyz/huya/11352965
+#EXTINF:-1,tvg-id="虎牙电影24" tvg-name="虎牙电影24" tvg-logo="https://epg.112114.xyz/logo/虎牙电影24.png" group-title="虎牙",虎牙电影24
+http://epg.112114.xyz/huya/11342435
+#EXTINF:-1,tvg-id="虎牙电影25" tvg-name="虎牙电影25" tvg-logo="https://epg.112114.xyz/logo/虎牙电影25.png" group-title="虎牙",虎牙电影25
+http://epg.112114.xyz/huya/11342423
+#EXTINF:-1,tvg-id="虎牙电影26" tvg-name="虎牙电影26" tvg-logo="https://epg.112114.xyz/logo/虎牙电影26.png" group-title="虎牙",虎牙电影26
+http://epg.112114.xyz/huya/11352909
+#EXTINF:-1,tvg-id="虎牙电影27" tvg-name="虎牙电影27" tvg-logo="https://epg.112114.xyz/logo/虎牙电影27.png" group-title="虎牙",虎牙电影27
+http://epg.112114.xyz/huya/11352886
+#EXTINF:-1,tvg-id="虎牙电影28" tvg-name="虎牙电影28" tvg-logo="https://epg.112114.xyz/logo/虎牙电影28.png" group-title="虎牙",虎牙电影28
+http://epg.112114.xyz/huya/11602044
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/埋堆堆1.png" group-title="埋堆堆",埋堆堆1
 http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/埋堆堆2.png" group-title="埋堆堆",埋堆堆2
