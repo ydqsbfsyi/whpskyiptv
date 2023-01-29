@@ -135,7 +135,6 @@ http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mn
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="上海",足球高清
 https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://skin.kankanews.com/logo/logo180x80.png" group-title="上海",上海这一刻丨陆家嘴
 https://bililive.kksmg.com/hls/sdi70/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海这一刻魔都眼.png" group-title="上海",上海这一刻魔都眼
@@ -158,6 +157,8 @@ http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/888888
 http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/芒果娱乐4K.png" group-title="4K频道",芒果娱乐4K
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="咪咕体育-4K" tvg-name="咪咕体育-4K" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4K.png" group-title="4K频道",咪咕体育-4K
@@ -447,12 +448,18 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3
 http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
 http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
+http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
 https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1,tvg-id="有线财经台" tvg-name="有线财经台" tvg-logo="https://epg.112114.xyz/logo/有线财经台.png" group-title="香港",有线财经台
+http://pull-l3-cny.douyincdn.com/third/stream-6cce73798021d977d916afacf1caba36.flv
+#EXTINF:-1,tvg-id="香港面包台" tvg-name="香港面包台" tvg-logo="https://epg.112114.xyz/logo/香港面包台.png" group-title="香港",香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1,tvg-id="華視新聞資訊" tvg-name="華視新聞資訊" tvg-logo="https://epg.112114.xyz/logo/華視新聞資訊.png" group-title="台湾",華視新聞資訊
 http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻
@@ -469,6 +476,8 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=22
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾",寰宇新闻
 http://www.yshmzmc.top/gtjm.php?id=live1222
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾",寰宇新闻
+http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.flv
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
@@ -481,8 +490,20 @@ http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=02
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="台湾",中视新闻
 http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾",中天新闻
+http://tv.redrainl.site:9500/live.m3u8?c=03
+#EXTINF:-1,tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台.png" group-title="台湾",中天综合台
+http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
+#EXTINF:-1,tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.112114.xyz/logo/中天娱乐台.png" group-title="台湾",中天娱乐台
+http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.flv
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台湾",东森新闻
 http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台湾",东森新闻
+http://116.11.140.3:8181/tsfile/live/1201_1.m3u8
+#EXTINF:-1,tvg-id="东森LIVE" tvg-name="东森LIVE" tvg-logo="https://epg.112114.xyz/logo/东森LIVE.png" group-title="台湾",东森LIVE
+http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+#EXTINF:-1,tvg-id="东森live" tvg-name="东森live" tvg-logo="https://epg.112114.xyz/logo/东森LIVE.png" group-title="台湾",东森live
+http://158.101.151.82:9000/jmsytb.m3u8?c=02
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="台湾",三立新闻
 http://www.yshmzmc.top/gtjm.php?id=live1079
 #EXTINF:-1,tvg-id="三立INEWS" tvg-name="三立INEWS" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="台湾",三立INEWS
@@ -493,8 +514,46 @@ https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 #EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾",镜新闻
 http://tv.redrainl.site:9500/live.m3u8?c=28
+#EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾",镜新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=19
 #EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title="台湾",年代新闻
 http://www.yshmzmc.top/gtjm.php?id=live1077
+#EXTINF:-1,tvg-id="星卫电影台" tvg-name="星卫电影台" tvg-logo="https://epg.112114.xyz/logo/星卫电影台.png" group-title="台湾",星卫电影台
+http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.flv
+#EXTINF:-1,tvg-id="莲花电影台" tvg-name="莲花电影台" tvg-logo="https://epg.112114.xyz/logo/莲花电影台.png" group-title="台湾",莲花电影台
+http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.flv
+#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png" group-title="台湾",美亚电影台
+http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.flv
+#EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="台湾",CINEMAX
+http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.flv
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="台湾",HBO HD
+http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.flv
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="台湾",HBO家庭影院
+http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.flv
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="台湾",HBO原创电影
+http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.flv
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="台湾",HBO强档影院
+http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.flv
+#EXTINF:-1,tvg-id="天映经典频道" tvg-name="天映经典频道" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="台湾",天映经典频道
+http://116.11.140.3:8181/tsfile/live/1223_1.m3u8
+#EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="台湾",东森电影台
+http://116.11.140.3:8181/tsfile/live/1222_1.m3u8
+#EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="台湾",东森洋片台
+http://116.11.140.3:8181/tsfile/live/1218_1.m3u8
+#EXTINF:-1,tvg-id="LSTIME电影台" tvg-name="LSTIME电影台" tvg-logo="https://epg.112114.xyz/logo/LSTIME电影台.png" group-title="台湾",LSTime电影台
+http://116.11.140.3:8181/tsfile/live/1205_1.m3u8
+#EXTINF:-1,tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影台.png" group-title="台湾",好莱坞电影台
+http://116.11.140.3:8181/tsfile/live/1203_1.m3u8
+#EXTINF:-1,tvg-id="八大戏剧台" tvg-name="八大戏剧台" tvg-logo="https://epg.112114.xyz/logo/八大戏剧台.png" group-title="台湾",八大戏剧HD
+http://pull-l3-cny.douyincdn.com/third/stream-d031f22e749d09f261df822eb69fd743.flv
+#EXTINF:-1,tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="https://epg.112114.xyz/logo/八大综合台.png" group-title="台湾",八大综合HD
+http://pull-l3-cny.douyincdn.com/third/stream-5228b1fb91b765911e64c9843f989267.flv
+#EXTINF:-1,tvg-id="ELEVEN体育一台" tvg-name="ELEVEN体育一台" tvg-logo="https://epg.112114.xyz/logo/ELEVEN体育一台.png" group-title="台湾",ELEVEN体育一台
+http://116.11.140.3:8181/tsfile/live/1204_1.m3u8
+#EXTINF:-1,tvg-id="ELEVEN体育二台" tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVEN体育二台.png" group-title="台湾",ELEVEN体育二台
+http://116.11.140.3:8181/tsfile/live/1216_1.m3u8
+#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="台湾",纬来体育HD
+http://pull-l3-cny.douyincdn.com/third/stream-05fadffbceabeb97bbf09061a165791b.flv
 
 
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="日本",NHK_world
@@ -536,15 +595,13 @@ https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际",CNN
 http://red.ipfox.org:8080/osama2022/osama2023/49246
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/SKY_NEWS.png" group-title="国际",SKY_News
-http://tv.redrainl.site:9500/live.m3u8?c=08
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="国际",France24
 http://tv.redrainl.site:9500/live.m3u8?c=13
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/BBC_NEWS.png" group-title="国际",BBC_News
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="国际",FOX_News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CBS新闻.png" group-title="国际",CBS新闻
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_8.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/ABC_NEWS.png" group-title="国际",ABC_News
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="国际",DW
@@ -555,10 +612,8 @@ http://tv.redrainl.site:9500/live.m3u8?c=30
 http://tv.redrainl.site:9500/live.m3u8?c=35
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="国际",NEWS
 http://tv.redrainl.site:9500/live.m3u8?c=41
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/IOP_NEWS.png" group-title="国际",IOP_NEWS
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TOP_NEWS.png" group-title="国际",TOP_NEWS
 http://tv.redrainl.site:9500/live.m3u8?c=14
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="国际",半岛新闻
-http://tv.redrainl.site:9500/live.m3u8?c=34
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="国际",半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅行1.png" group-title="斗鱼",斗鱼云旅行1
@@ -804,7 +859,10 @@ http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/埋堆堆74.png" group-title="埋堆堆",埋堆堆74
 http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 
-
+#EXTINF:-1,tvg-id="哒啵赛事 高清" tvg-name="哒啵赛事 高清" tvg-logo="https://epg.112114.xyz/logo/哒啵赛事.png" group-title="其他",哒啵赛事 高清
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226676/index.m3u8
+#EXTINF:-1,tvg-id="哒啵电竞 高清" tvg-name="哒啵电竞 高清" tvg-logo="https://epg.112114.xyz/logo/哒啵电竞.png" group-title="其他",哒啵电竞 高清
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227252/index.m3u8
 #EXTINF:-1,tvg-id="芒果华语" tvg-name="芒果华语" tvg-logo="https://epg.112114.xyz/logo/芒果华语.png" group-title="其他",芒果华语
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="芒果欧美" tvg-name="芒果欧美" tvg-logo="https://epg.112114.xyz/logo/芒果欧美.png" group-title="其他",芒果欧美
