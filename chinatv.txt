@@ -28,6 +28,7 @@
 五星体育,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 劲爆体育,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
 第一财经,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1314BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjI9NVIjBLmqU0HRssVBtByz0TJiFt6IqCBywgEFMyoS7%2BaXtSGYH1ipJfllOdvLcUQ%3D%3D
 第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 第一财经,https://www.whalenas.com/bestv/index.php?id=dycjhd8m/8000000
@@ -56,7 +57,7 @@
 全纪实 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
 都市剧场 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
 七彩戏剧,http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
-哈哈炫动,http://39.134.193.112:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
+哈哈炫动,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=10
 陶瓷高清,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
 华语影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 星光影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
@@ -80,6 +81,7 @@ CCTV4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/defau
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
 河南卫视4K,http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+广东综艺4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
 纯享4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 芒果娱乐4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -240,6 +242,8 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 凤凰中文,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
+明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
 无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -434,7 +438,14 @@ IOP_NEWS,http://tv.redrainl.site:9500/live.m3u8?c=14
 玄幻,http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
 王晶,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 
-数字,#genre#
+其他,#genre#
+哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+咪咕全民热练0,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+咪咕视频1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕视频2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕视频3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕视频4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+咪咕视频5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 芒果华语,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
 芒果欧美,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
 芒果综艺,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
@@ -445,6 +456,18 @@ IPTV家庭剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001
 IPTV经典剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
 IPTV抗战剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
 IPTV芒果互娱,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
+东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 炫舞未来,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225707/2/index.m3u8
 潮妈辣婆,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225708/2/index.m3u8
 精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
