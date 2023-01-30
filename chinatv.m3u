@@ -35,10 +35,6 @@ http://61.156.196.223/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
 http://61.156.196.216/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
-http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
-#EXTINF:-1,tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1318BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKOQsN8ofCczbUX1AjxZYMpKdI1PJQPlp0I5RTtUrbQtTuwS%2FH1VLbdWY%2FeIxpxvfA%3D%3D
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
