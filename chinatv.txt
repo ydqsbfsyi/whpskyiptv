@@ -1,6 +1,5 @@
 上海,#genre#
 东方卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-东方卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
 东方卫视,http://[2409:8087:4402:20:1:1216:401:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226681/index.m3u8
 东方卫视,http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001001000000000064/main.m3u8?IASHttpSessionId=OTT
 东方卫视,http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226681/index.m3u8
@@ -18,18 +17,14 @@
 上海新闻,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 上海新闻,http://61.156.196.223/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-上海新闻,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
-上海新闻,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海都市,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1318BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKOQsN8ofCczbUX1AjxZYMpKdI1PJQPlp0I5RTtUrbQtTuwS%2FH1VLbdWY%2FeIxpxvfA%3D%3D
 上海都市,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/shdshd265/55/20200407/index.m3u8?&encrypt=
 上海都市,http://39.136.172.100/hlsmgsplive.miguvideo.com//wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=1
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 上海都市,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
-五星体育,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星体育,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星体育,,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-五星体育,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 劲爆体育,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
