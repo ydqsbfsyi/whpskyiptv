@@ -448,8 +448,6 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3
 http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
 http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
-http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
 https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻
@@ -502,7 +500,7 @@ http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
 http://116.11.140.3:8181/tsfile/live/1201_1.m3u8
 #EXTINF:-1,tvg-id="东森LIVE" tvg-name="东森LIVE" tvg-logo="https://epg.112114.xyz/logo/东森LIVE.png" group-title="台湾",东森LIVE
 http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
-#EXTINF:-1,tvg-id="东森live" tvg-name="东森live" tvg-logo="https://epg.112114.xyz/logo/东森LIVE.png" group-title="台湾",东森live
+#EXTINF:-1,tvg-id="东森LIVE" tvg-name="东森LIVE" tvg-logo="https://epg.112114.xyz/logo/东森LIVE.png" group-title="台湾",东森LIVE
 http://158.101.151.82:9000/jmsytb.m3u8?c=02
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="台湾",三立新闻
 http://www.yshmzmc.top/gtjm.php?id=live1079
