@@ -255,7 +255,6 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 台视新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
 寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新闻,http://www.yshmzmc.top/gtjm.php?id=live1222
-TVBSHD,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
 TVBSHD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS新闻,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
