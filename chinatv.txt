@@ -284,6 +284,7 @@ NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 朝日電視台,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 ANN_News,http://tv.redrainl.site:9500/live.m3u8?c=29
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+CNN,https://994099ce85d941afa3ea3e737ac227d0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ch_CNN/playlist.m3u8?ads.wurl_channel=662&ads.wurl_name=CNN&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT
 NBC news,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
 News,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8 
 SKY_News,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
