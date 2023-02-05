@@ -55,8 +55,8 @@
 金色学堂,http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226545/index.m3u8
 法治天地,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
 乐游,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-全纪实 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
-都市剧场 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
+全纪实,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
+都市剧场,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
 七彩戏剧,http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 哈哈炫动,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=10
 陶瓷高清,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
@@ -270,7 +270,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 三立新闻,http://www.yshmzmc.top/gtjm.php?id=live1079
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立INEWS,http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
-http://158.101.151.82:9000/jmsytb.m3u8?c=16
+三立INEWS,http://158.101.151.82:9000/jmsytb.m3u8?c=16
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立NEWS+,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
