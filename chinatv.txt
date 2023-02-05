@@ -250,13 +250,16 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 台视新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
 寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新闻,http://www.yshmzmc.top/gtjm.php?id=live1222
+寰宇新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=14
 TVBSHD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+TVBSHD,http://158.101.151.82:9000/jmsytb.m3u8?c=4
 TVBS新闻,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
 中天新闻,http://2023.stream-link.org/playlist/cti_news
 中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
@@ -267,6 +270,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 三立新闻,http://www.yshmzmc.top/gtjm.php?id=live1079
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立INEWS,http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
+http://158.101.151.82:9000/jmsytb.m3u8?c=16
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立NEWS+,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
@@ -285,6 +289,7 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525
 NBC news,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
 News,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8 
 SKY_News,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+SKY_News,http://158.101.151.82:9000/jmsytb.m3u8?c=29
 France24,http://tv.redrainl.site:9500/live.m3u8?c=13
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
