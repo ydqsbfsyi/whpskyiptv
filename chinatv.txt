@@ -261,10 +261,8 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中天新闻,http://2023.stream-link.org/playlist/cti_news
 中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 中天综合台,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
-中天娱乐台,http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.flv
 东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
 东森新闻,http://116.11.140.3:8181/tsfile/live/1201_1.m3u8
-东森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 东森LIVE,http://158.101.151.82:9000/jmsytb.m3u8?c=02
 三立新闻,http://www.yshmzmc.top/gtjm.php?id=live1079
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
