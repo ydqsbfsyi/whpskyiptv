@@ -10,6 +10,7 @@
 东方卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225658/2/index.m3u8
 东方卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225658/index.m3u8
 东方卫视,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/dongfanghd265/57/20191230/index.m3u8?&encrypt=
+
 上海新闻,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1312BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKjhXSjQi%2BeaQRf9Ziq7KgRxPDH63cId6gXyoJkX5oXhqiHPA8BBLiWRr0QWb9LVbA%3D%3D
 上海新闻,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
 上海新闻,http://39.136.172.8/hlsztemgsplive.miguvideo.com/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
@@ -18,6 +19,7 @@
 上海新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 上海新闻,http://61.156.196.223/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,http://223.109.53.48/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海新闻,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海都市,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1318BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKOQsN8ofCczbUX1AjxZYMpKdI1PJQPlp0I5RTtUrbQtTuwS%2FH1VLbdWY%2FeIxpxvfA%3D%3D
 上海都市,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/shdshd265/55/20200407/index.m3u8?&encrypt=
 上海都市,http://39.136.172.100/hlsmgsplive.miguvideo.com//wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=1
@@ -26,6 +28,7 @@
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星体育,http://223.109.53.48/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 劲爆体育,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
@@ -39,6 +42,7 @@
 上海教育,http://tt-live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
 东方影视,http://39.136.172.100/hlsmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=1
 都市剧场,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
 纪实人文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225609/2/index.m3u8
 纪实人文,http://[2409:8c62:e10:48:8000::53]/live.gq.miguvideo.com:8088/wd_r2/ocn/jspdhd/3000/index.m3u8?&encrypt=1
 生活时尚,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
@@ -49,7 +53,7 @@
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 魅力足球,http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 魅力足球,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-魅力足球,http://[2408:8770:0:51:1d::]/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+魅力足球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
 咪咕音乐,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
 东方财经,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8
 金色学堂,http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226545/index.m3u8
@@ -87,6 +91,7 @@ CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//ind
 纯享4K,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226825/index.m3u8
 芒果娱乐4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+欢笑剧场4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 CCTV16_4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
@@ -107,7 +112,7 @@ Nature4k,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 央视卫视,#genre#
 CNC新华社,http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001#https://gccncc.v.wscdns.com/gc/wgw05_1/index.m3u8
-CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225618/2/index.m3u8
+CCTV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225762/2/index.m3u8
 CCTV1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
