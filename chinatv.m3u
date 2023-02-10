@@ -976,7 +976,8 @@ http://gslbserv.itv.cmvideo.cn:80/6000000006000180630/index.m3u8?channel-id=wasu
 http://gslbserv.itv.cmvideo.cn:80/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="IHOT",爱院线
 http://gslbserv.itv.cmvideo.cn:80/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他",梨园频道
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 
 #EXTINF:-1,tvg-id="哒啵赛事 高清" tvg-name="哒啵赛事 高清" tvg-logo="https://epg.112114.xyz/logo/哒啵赛事.png" group-title="其他",哒啵赛事 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226676/index.m3u8
