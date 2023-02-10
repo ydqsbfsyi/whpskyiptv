@@ -113,8 +113,6 @@ http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/m
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=10
 #EXTINF:-1,tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="上海",陶瓷高清
 https://live.v1.mk/api/bestv.php?id=taocihd/8000000
-#EXTINF:-1,tvg-id="全民健身" tvg-name="全民健身" tvg-logo="https://epg.112114.xyz/logo/全民健身.png" group-title="上海",全民健身
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="上海",看天下精选
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="上海",足球高清
