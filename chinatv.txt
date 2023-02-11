@@ -59,7 +59,6 @@
 七彩戏剧,http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 哈哈炫动,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=10
 陶瓷高清,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
-华
 足球高清,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
 上海这一刻丨陆家嘴,https://bililive.kksmg.com/hls/sdi70/playlist.m3u8
 上海这一刻魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
