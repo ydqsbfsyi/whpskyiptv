@@ -30,7 +30,7 @@
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
-劲爆体育,http://[2408:8734:3000:5:43::]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 第一财经,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1314BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjI9NVIjBLmqU0HRssVBtByz0TJiFt6IqCBywgEFMyoS7%2BaXtSGYH1ipJfllOdvLcUQ%3D%3D
 第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 第一财经,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?ProgramID=&encrypt=
