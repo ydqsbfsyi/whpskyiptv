@@ -19,20 +19,61 @@
 上海新闻,http://39.136.172.8/hlsztemgsplive.miguvideo.com/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
 上海新闻,http://39.136.172.100/hlsmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=1
 上海新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
-上海新闻,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海新闻,http://[2409:8c44:2:140::28]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海新闻,http://[2409:8c60:2500:51::31]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海新闻,http://[2409:801a:3006:15::22]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海新闻,http://[2409:8c28:90a0:210::38]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海新闻,http://[2409:8c28:34b0:12::22]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海新闻,http://[2409:8c74:f100:1814::16]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海新闻,http://[2409:8c6a:b011:30::38]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海新闻,http://[2409:8c50:a00:2158::20]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海新闻,http://[2409:8c20:3c42:40::2a]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海新闻,http://[2409:8c38:80:180::30]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海新闻,http://[2409:8c18:700:a::28]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海都市,http://tvmvip110.club/bs1.php?id=18
 上海都市,http://cfss.cc/ds/bst.php?id=Cf-51
 上海都市,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1318BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKOQsN8ofCczbUX1AjxZYMpKdI1PJQPlp0I5RTtUrbQtTuwS%2FH1VLbdWY%2FeIxpxvfA%3D%3D
 上海都市,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/shdshd265/55/20200407/index.m3u8?&encrypt=
 上海都市,http://39.136.172.100/hlsmgsplive.miguvideo.com//wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=1
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+上海都市,http://[2409:8c44:2:140::28]/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海都市,http://[2409:8c60:2500:51::31]/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海都市,http://[2409:801a:3006:15::22]/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海都市,http://[2409:8c28:90a0:210::38]/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海都市,http://[2409:8c28:34b0:12::22]/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海都市,http://[2409:8c74:f100:1814::16]/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海都市,http://[2409:8c6a:b011:30::38]/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海都市,http://[2409:8c50:a00:2158::20]/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海都市,http://[2409:8c20:3c42:40::2a]/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海都市,http://[2409:8c38:80:180::30]/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海都市,http://[2409:8c18:700:a::28]/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
 五星体育,http://tvmvip110.club/bs1.php?id=40
 五星体育,http://cfss.cc/ds/bst.php?id=Cf-54
 五星体育,http://lu1.cc/itv/php/bst5g.php?id=wxty
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-五星体育,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://[2409:8c44:2:140::28]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://[2409:8c60:2500:51::31]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://[2409:801a:3006:15::22]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://[2409:8c28:90a0:210::38]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://[2409:8c28:34b0:12::22]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://[2409:8c74:f100:1814::16]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://[2409:8c6a:b011:30::38]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://[2409:8c50:a00:2158::20]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://[2409:8c20:3c42:40::2a]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://[2409:8c38:80:180::30]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://[2409:8c18:700:a::28]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
-劲爆体育,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://[2409:8c44:2:140::28]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://[2409:8c60:2500:51::31]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://[2409:801a:3006:15::22]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://[2409:8c28:90a0:210::38]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://[2409:8c28:34b0:12::22]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://[2409:8c74:f100:1814::16]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://[2409:8c6a:b011:30::38]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://[2409:8c50:a00:2158::20]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://[2409:8c20:3c42:40::2a]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://[2409:8c38:80:180::30]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://[2409:8c18:700:a::28]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 第一财经,http://lu1.cc/itv/php/bst5g.php?id=dycj
 第一财经,http://tvmvip110.club/bs1.php?id=21
 第一财经,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1314BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjI9NVIjBLmqU0HRssVBtByz0TJiFt6IqCBywgEFMyoS7%2BaXtSGYH1ipJfllOdvLcUQ%3D%3D
@@ -43,6 +84,7 @@
 上海ICS外语,http://tvmvip110.club/bs1.php?id=17
 上海ICS外语,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
 上海ICS外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+上海ICS外语,https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
 上海教育,https://live.v1.mk/api/bestv.php?id=setvhd/8000000
 上海教育,http://tt-live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
 东方影视,http://39.136.172.100/hlsmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=1
@@ -65,6 +107,17 @@ BesTV青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 百视TV1,http://tvmvip110.club/bs1.php?id=27
 百视TV2,http://tvmvip110.club/bs1.php?id=33
 BESTV,http://tvmvip110.club/bs1.php?id=59
+热门综艺 8M,https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
+超级体育 8M,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
+健康养生 8M,https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
+百变课堂 8M,https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
+看天下精选 8M,https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
+华语影院 8M,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
+电竞天堂 8M,https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
+星光影院 8M,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
+谍战剧场 8M,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
+全球大片 8M,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
+热门剧场 8M,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 咪咕体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
