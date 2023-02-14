@@ -443,9 +443,14 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
 无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
 无线新闻,http://2022.stream-link.org/playlist/tvb_news
+無綫財經·體育·資訊台,http://2022.stream-link.org/playlist/tvb_finance.ts
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://2022.stream-link.org/playlist/cable_news
+有線財經資訊台，http://2022.stream-link.org/playlist/cable_finance.ts
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+香港開電視,http://2022.stream-link.org/playlist/hoy_tv.ts
+香港開電視資訊台,http://2022.stream-link.org/playlist/hoy_info.ts
 港台電視31,http://2022.stream-link.org/playlist/rthk_31
 港台電視32,http://2022.stream-link.org/playlist/rthk_32
 华视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
@@ -487,7 +492,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 朝日電視台,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-ANN_News,http://tv.redrainl.site:9500/live.m3u8?c=29
+ANN News,http://tv.redrainl.site:9500/live.m3u8?c=29
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 NBC news,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
 News,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8 
@@ -496,13 +501,22 @@ SKY_News,http://158.101.151.82:9000/jmsytb.m3u8?c=29
 France24,http://tv.redrainl.site:9500/live.m3u8?c=13
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-ABC_News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-ABC_News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+ABC News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 TROWORLD,http://tv.redrainl.site:9500/live.m3u8?c=35
 NEWS,http://tv.redrainl.site:9500/live.m3u8?c=41
-TOP_NEWS,http://tv.redrainl.site:9500/live.m3u8?c=14
+TOP NEWS,http://tv.redrainl.site:9500/live.m3u8?c=14
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+ABC News,http://2022.stream-link.org/playlist/abc_news.ts
+ANN News,http://2022.stream-link.org/playlist/ann_news.ts
+Asianet News,http://2022.stream-link.org/playlist/asianet_news.ts
+DW News,http://2022.stream-link.org/playlist/dw_news.ts
+EURO News,http://2022.stream-link.org/playlist/euro_news.ts
+France24 English,http://2022.stream-link.org/playlist/france_24e.ts
+GB News,http://2022.stream-link.org/playlist/gb_news.ts
+Haber Turk,http://2022.stream-link.org/playlist/haber_turk.ts
+NBC News,http://2022.stream-link.org/playlist/nbc_news.ts
 
 斗鱼,#genre#
 斗鱼云旅行1,http://epg.112114.xyz/douyu/9257160
