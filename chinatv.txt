@@ -107,17 +107,16 @@ BesTV青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 百视TV1,http://tvmvip110.club/bs1.php?id=27
 百视TV2,http://tvmvip110.club/bs1.php?id=33
 BESTV,http://tvmvip110.club/bs1.php?id=59
-热门综艺 8M,https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
-超级体育 8M,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
-健康养生 8M,https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
-百变课堂 8M,https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
-看天下精选 8M,https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
-华语影院 8M,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
-电竞天堂 8M,https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
-星光影院 8M,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
-谍战剧场 8M,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
-全球大片 8M,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
-热门剧场 8M,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
+热门综艺,https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
+健康养生,https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
+百变课堂,https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
+看天下精选,https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
+华语影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
+电竞天堂,https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
+星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
+谍战剧场,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
+全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
+热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 咪咕体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
