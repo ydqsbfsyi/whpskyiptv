@@ -140,6 +140,8 @@ BESTV,http://tvmvip110.club/bs1.php?id=59
 
 
 ITV,#genre#
+凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 上海东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000004000014098/index.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3
 上海东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000010000032246/index.m3u8?channel-id=bestzb&Contentid=5000000010000032246&livemode=1&stbId=3
 上海东方卫视,http://gslbserv.itv.cmvideo.cn:80/6000000001000003639/index.m3u8?channel-id=wasusyt&Contentid=6000000001000003639&livemode=1&stbId=3
