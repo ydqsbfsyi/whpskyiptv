@@ -494,24 +494,20 @@ NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 朝日電視台,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 ANN News,http://tv.redrainl.site:9500/live.m3u8?c=29
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
-NBC news,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
-News,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8 
+NBC News,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
+NewsMax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8 
 SKY_News,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 SKY_News,http://158.101.151.82:9000/jmsytb.m3u8?c=29
-France24,http://tv.redrainl.site:9500/live.m3u8?c=13
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ABC News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-TROWORLD,http://tv.redrainl.site:9500/live.m3u8?c=35
-NEWS,http://tv.redrainl.site:9500/live.m3u8?c=41
 TOP NEWS,http://tv.redrainl.site:9500/live.m3u8?c=14
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 ABC News,http://2022.stream-link.org/playlist/abc_news.ts
 ANN News,http://2022.stream-link.org/playlist/ann_news.ts
 Asianet News,http://2022.stream-link.org/playlist/asianet_news.ts
-DW News,http://2022.stream-link.org/playlist/dw_news.ts
 EURO News,http://2022.stream-link.org/playlist/euro_news.ts
 France24 English,http://2022.stream-link.org/playlist/france_24e.ts
 GB News,http://2022.stream-link.org/playlist/gb_news.ts
