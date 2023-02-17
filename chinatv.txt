@@ -19,7 +19,6 @@
 东方卫视,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/dongfanghd265/57/20191230/index.m3u8?&encrypt=
 上海新闻,http://lu1.cc/itv/php/bst5g.php?id=shxwzh
 上海新闻,http://tvmvip110.club/bs1.php?id=20
-上海新闻,http://cfss.cc/ds/bst.php?id=Cf-50
 上海新闻,http://[2409:8087:5050:20::3022]/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海新闻,http://[2409:8087:5050:20::3023]/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海新闻,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1312BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKjhXSjQi%2BeaQRf9Ziq7KgRxPDH63cId6gXyoJkX5oXhqiHPA8BBLiWRr0QWb9LVbA%3D%3D
@@ -42,7 +41,6 @@
 上海都市,http://[2409:8087:5050:20::3022]/0000000000001001/1/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 上海都市,http://lu1.cc/itv/php/bst5g.php?id=shds
 上海都市,http://tvmvip110.club/bs1.php?id=18
-上海都市,http://cfss.cc/ds/bst.php?id=Cf-51
 上海都市,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1318BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKOQsN8ofCczbUX1AjxZYMpKdI1PJQPlp0I5RTtUrbQtTuwS%2FH1VLbdWY%2FeIxpxvfA%3D%3D
 上海都市,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/shdshd265/55/20200407/index.m3u8?&encrypt=
 上海都市,http://39.136.172.100/hlsmgsplive.miguvideo.com//wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=1
@@ -60,7 +58,6 @@
 上海都市,http://[2409:8c18:700:a::28]/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
 五星体育,http://[2409:8087:5050:20::3022]/0000000000001001/1/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://tvmvip110.club/bs1.php?id=40
-五星体育,http://cfss.cc/ds/bst.php?id=Cf-54
 五星体育,http://lu1.cc/itv/php/bst5g.php?id=wxty
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://[2409:8c44:2:140::28]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
@@ -95,13 +92,11 @@
 第一财经,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?ProgramID=&encrypt=
 第一财经,https://www.whalenas.com/bestv/index.php?id=dycjhd8m/8000000
 第一财经,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
-第一财经,http://cfss.cc/ds/bst.php?id=Cf-87
 上海ICS外语,http://[2409:8087:5050:20::3022]/0000000000001001/1/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 上海ICS外语,http://tvmvip110.club/bs1.php?id=17
 上海ICS外语,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
 上海ICS外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 上海ICS外语,https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
-上海教育,http://cfss.cc/ds/bst.php?id=Cf-57
 上海教育,https://live.v1.mk/api/bestv.php?id=setvhd/8000000
 上海教育,http://tt-live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
 东方影视,http://39.136.172.100/hlsmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=1
@@ -113,7 +108,6 @@
 生活时尚,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227091/index.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
-新视觉,http://cfss.cc/ds/bst.php?id=Cf-60
 BesTV-4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 BesTV-电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 百视通剧集-1,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
@@ -149,18 +143,6 @@ BESTV,http://tvmvip110.club/bs1.php?id=59
 谍战剧场,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
 全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
-游戏风云,http://cfss.cc/ds/bst.php?id=Cf-61
-热门综艺,http://cfss.cc/ds/bst.php?id=Cf-62
-超级体育,http://cfss.cc/ds/bst.php?id=Cf-63
-健康养生,http://cfss.cc/ds/bst.php?id=Cf-64
-百变课堂,http://cfss.cc/ds/bst.php?id=Cf-65
-华语影院,http://cfss.cc/ds/bst.php?id=Cf-66
-电竞天堂,http://cfss.cc/ds/bst.php?id=Cf-67
-星光影院,http://cfss.cc/ds/bst.php?id=Cf-70
-谍战剧场,http://cfss.cc/ds/bst.php?id=Cf-71
-全球大片,http://cfss.cc/ds/bst.php?id=Cf-72
-热门剧场,http://cfss.cc/ds/bst.php?id=Cf-73
-看天下精选,http://cfss.cc/ds/bst.php?id=Cf-88
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 咪咕体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
