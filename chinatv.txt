@@ -26,6 +26,7 @@
 上海新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 上海新闻,http://lu1.cc/itv/php/bst5g.php?id=shxwzh
 上海新闻,http://tvmvip110.club/bs1.php?id=20
+上海新闻,http://221.178.19.78/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,http://[2409:8c44:2:140::28]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,http://[2409:8c60:2500:51::31]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
