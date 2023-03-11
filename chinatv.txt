@@ -153,7 +153,7 @@ Nature4k,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 央视卫视,#genre#
 CNC新华社,http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
-CGTN,http://[2409:8087:5050:20::3022]/0000000000001001/1/1000000002000009569/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=3
+CGTN,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/1000000002000009569/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=3
 CCTV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225762/2/index.m3u8
