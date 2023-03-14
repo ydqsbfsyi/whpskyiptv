@@ -1,6 +1,5 @@
 上海,#genre#
 咪咕全民热练,http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
-东方卫视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
 东方卫视,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/6000000001000003639/index.m3u8?channel-id=wasusyt&Contentid=6000000001000003639&livemode=1&stbId=3
 东方卫视,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3
 东方卫视,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/1000000001000030202/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=3
