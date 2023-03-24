@@ -22,6 +22,7 @@
 上海新闻,http://39.136.173.100/hlsztemgsplive.miguvideo.com/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
 上海新闻,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=1
 上海新闻,http://124.225.44.186/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海新闻,http://122.228.87.15/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 上海新闻,http://lu1.cc/itv/php/baitv.php?id=shxwzh
