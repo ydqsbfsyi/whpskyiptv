@@ -1,6 +1,7 @@
 上海,#genre#
 咪咕全民热练,http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
 全民健身,http://39.136.172.100/hlsmgsplive.miguvideo.com/migu/virtuallive2/5900002407/57/20210706/index.m3u8?&encrypt=1
+东方卫视,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000182/1.m3u8
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8?
 东方卫视,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3
 东方卫视,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/1000000001000030202/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=3
