@@ -45,7 +45,6 @@
 上海ICS外语,https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
 上海ICS外语,http://lu1.cc/itv/php/baitv.php?id=shics
 上海教育,https://live.v1.mk/api/bestv.php?id=setvhd/8000000
-上海教育,http://tt-live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
 东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
 都市剧场,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
 都市剧场.http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8?
