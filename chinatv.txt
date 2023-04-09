@@ -2,6 +2,7 @@
 咪咕全民热练,http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
 全民健身,http://39.134.196.114/hlsmgsplive.miguvideo.com/migu/virtuallive2/5900002407/57/20210706/index.m3u8?&encrypt=1
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+东方卫视,https://bp-live01.bestv.cn:443/live/bestvdfwsHD.m3u8?auth_key=1681016402-814140a7eba64a04ade9e0274c7af44b-0-c5f902322cde3ae1f3765b12a1be4828
 东方卫视,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000182/1.m3u8
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8?
 东方卫视,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3
@@ -16,6 +17,7 @@
 东方卫视,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/HD-8000k-1080P-dongfangstv/index.m3u8
 东方卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225658/2/index.m3u8
 东方卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225658/index.m3u8
+上海新闻,https://bp-live01.bestv.cn:443/live/bestvxwzhHD.m3u8?auth_key=1681016402-9d8ba701f4a040ada03898c521c6a1ff-0-ed5411953e2a0fbb20ae7a10fd6e1f6e
 上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8?
 上海新闻,http://[2409:8087:5050:20::3022]/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海新闻,http://[2409:8087:5050:20::3023]/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
@@ -24,6 +26,7 @@
 上海新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 上海新闻,http://lu1.cc/itv/php/baitv.php?id=shxwzh
 上海新闻,http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
+上海都市,https://bp-live01.bestv.cn:443/live/bestvdspdHD.m3u8?auth_key=1681016402-cc4827574ebe40e891a964e2fddde061-0-ebfe7d4786bd4396f1a38b39d1c0ebc5
 上海都市,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 上海都市,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1318BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKOQsN8ofCczbUX1AjxZYMpKdI1PJQPlp0I5RTtUrbQtTuwS%2FH1VLbdWY%2FeIxpxvfA%3D%3D
 上海都市,http://[2409:8c4d:5200::142f]/live.harvest.miguvideo.com:8088/migu/kailu/shdshd265/55/20200407/index.m3u8?&encrypt=
@@ -36,6 +39,7 @@
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 劲爆体育,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
+第一财经,https://bp-live01.bestv.cn:443/live/bestvdfcjHD.m3u8?auth_key=1681016402-814140a7eba64a04ade9e0274c7af44b-0-c5f902322cde3ae1f3765b12a1be4828
 第一财经,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1314BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjI9NVIjBLmqU0HRssVBtByz0TJiFt6IqCBywgEFMyoS7%2BaXtSGYH1ipJfllOdvLcUQ%3D%3D
 第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
