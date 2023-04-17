@@ -1,6 +1,5 @@
 上海,#genre#
 咪咕全民热练,http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
-全民健身,http://39.134.196.114/hlsmgsplive.miguvideo.com/migu/virtuallive2/5900002407/57/20210706/index.m3u8?&encrypt=1
 全民健身,http://hlsbkmgsplive.miguvideo.com/migu/virtuallive2/5900002407/57/20210706/01.m3u8?&HlsSubType=&encrypt=1
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/01.m3u8?&HlsSubType=&encrypt=1
@@ -20,13 +19,11 @@
 东方卫视,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/HD-8000k-1080P-dongfangstv/index.m3u8
 东方卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225658/2/index.m3u8
 东方卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225658/index.m3u8
-上海新闻,https://bp-live01.bestv.cn:443/live/bestvxwzhHD.m3u8?auth_key=1681016402-9d8ba701f4a040ada03898c521c6a1ff-0-ed5411953e2a0fbb20ae7a10fd6e1f6e
-上海新闻,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/01.m3u8?&HlsSubType=&encrypt=1
 上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8?
 上海新闻,http://[2409:8087:5050:20::3022]/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海新闻,http://[2409:8087:5050:20::3023]/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海新闻,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1312BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKjhXSjQi%2BeaQRf9Ziq7KgRxPDH63cId6gXyoJkX5oXhqiHPA8BBLiWRr0QWb9LVbA%3D%3D
-上海新闻,http://39.134.196.114/hlsmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=1
+上海新闻,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/01.m3u8?&HlsSubType=&encrypt=1
 上海新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 上海新闻,http://lu1.cc/itv/php/baitv.php?id=shxwzh
 上海新闻,http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
