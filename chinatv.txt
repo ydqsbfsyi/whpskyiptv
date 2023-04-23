@@ -1,9 +1,6 @@
 上海,#genre#
 咪咕全民热练,http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
 体育健身,http://hlsbkmgsplive.miguvideo.com/migu/virtuallive2/5900002407/57/20210706/01.m3u8?&HlsSubType=&encrypt=1#
-NBA,http://143.244.60.97/NBATV/index.m3u8#
-HGTV,http://143.244.60.97/HGTV/index.m3u8#
-ESPN,http://143.244.60.97/ESPN/index.m3u8
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/01.m3u8?&HlsSubType=&encrypt=1
 东方卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/dongfanghd265/57/20191230/01.m3u8?&HlsSubType=&encrypt=1
@@ -91,30 +88,16 @@ BesTV-电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000
 上海这一刻魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 
 体育,#genre#
-北京体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
-南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
-江苏体育,https://xuyi-tv-replay.cm.jstv.com/lizhiapp/jsty.m3u8
-深圳体育健康,http://gxyl-dl001.8866.org:8181/tsfile/live/1116_1.m3u8
-黑龙江文体,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
-山东体育,http://27.202.3.211:9901/tsfile/live/1073_1.m3u8
-广州竞赛,http://my.mytvtv.top/guangdong/gztv.php?id=gzjs
-广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
-浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
-陕西体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-新疆体育,http://livehyw5.chinamcache.com/hyw/zb10.m3u8?txSecret=d091dfc5816b7d292a3857c717d16a66&txTime=95A66658
-辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
-天津体育,http://117.14.55.102:18080/hls/46/index.m3u8
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-广东体育,http://120.84.97.44:808/hls/22/index.m3u8
 精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
 杭州亚运,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 咪咕足球,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
 麻辣体育,http://home.ddx2013.cc:4022/rtp/239.93.5.210:9732
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
-ELEVEN体育,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-咪咕4k,http://120.234.220.107:9000/udp/239.20.0.66:3136
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+NBA,http://143.244.60.97/NBATV/index.m3u8#
+HGTV,http://143.244.60.97/HGTV/index.m3u8#
+ESPN,http://143.244.60.97/ESPN/index.m3u8
 
 4k,#genre#
 CCTV4K,http://cfss.cc/ds/bst.php?id=Cf-0
@@ -126,6 +109,7 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
 河南卫视4K,http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 广东综艺4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
+南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
 纯享4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 纯享4K,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226825/index.m3u8
 芒果娱乐4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
