@@ -556,62 +556,6 @@ http://epg.112114.xyz/douyu/7489563
 http://epg.112114.xyz/douyu/6706214
 #EXTINF:-1,tvg-id="斗鱼电视剧HD4" tvg-name="斗鱼电视剧HD4" tvg-logo="https://epg.112114.xyz/logo/斗鱼电视剧HD4.png" group-title="斗鱼",斗鱼电视剧HD4
 http://epg.112114.xyz/douyu/6566658
-#EXTINF:-1,tvg-id="虎牙电影1" tvg-name="虎牙电影1" tvg-logo="https://epg.112114.xyz/logo/虎牙电影1.png" group-title="虎牙",虎牙电影1
-http://epg.112114.xyz/huya/11602058
-#EXTINF:-1,tvg-id="虎牙电影2" tvg-name="虎牙电影2" tvg-logo="https://epg.112114.xyz/logo/虎牙电影2.png" group-title="虎牙",虎牙电影2
-http://epg.112114.xyz/huya/11601968
-#EXTINF:-1,tvg-id="虎牙电影3" tvg-name="虎牙电影3" tvg-logo="https://epg.112114.xyz/logo/虎牙电影3.png" group-title="虎牙",虎牙电影3
-http://epg.112114.xyz/huya/11342412
-#EXTINF:-1,tvg-id="虎牙电影4" tvg-name="虎牙电影4" tvg-logo="https://epg.112114.xyz/logo/虎牙电影4.png" group-title="虎牙",虎牙电影4
-http://epg.112114.xyz/huya/11342386
-#EXTINF:-1,tvg-id="虎牙电影5" tvg-name="虎牙电影5" tvg-logo="https://epg.112114.xyz/logo/虎牙电影5.png" group-title="虎牙",虎牙电影5
-http://epg.112114.xyz/huya/11601986
-#EXTINF:-1,tvg-id="虎牙电影6" tvg-name="虎牙电影6" tvg-logo="https://epg.112114.xyz/logo/虎牙电影6.png" group-title="虎牙",虎牙电影6
-http://epg.112114.xyz/huya/11601971
-#EXTINF:-1,tvg-id="虎牙电影7" tvg-name="虎牙电影7" tvg-logo="https://epg.112114.xyz/logo/虎牙电影7.png" group-title="虎牙",虎牙电影7
-http://epg.112114.xyz/huya/11336592
-#EXTINF:-1,tvg-id="虎牙电影8" tvg-name="虎牙电影8" tvg-logo="https://epg.112114.xyz/logo/虎牙电影8.png" group-title="虎牙",虎牙电影8
-http://epg.112114.xyz/huya/11342390
-#EXTINF:-1,tvg-id="虎牙电影9" tvg-name="虎牙电影9" tvg-logo="https://epg.112114.xyz/logo/虎牙电影9.png" group-title="虎牙",虎牙电影9
-http://epg.112114.xyz/huya/11352941
-#EXTINF:-1,tvg-id="虎牙电影10" tvg-name="虎牙电影10" tvg-logo="https://epg.112114.xyz/logo/虎牙电影10.png" group-title="虎牙",虎牙电影10
-http://epg.112114.xyz/huya/11279251
-#EXTINF:-1,tvg-id="虎牙电影11" tvg-name="虎牙电影11" tvg-logo="https://epg.112114.xyz/logo/虎牙电影11.png" group-title="虎牙",虎牙电影11
-http://epg.112114.xyz/huya/11602041
-#EXTINF:-1,tvg-id="虎牙电影12" tvg-name="虎牙电影12" tvg-logo="https://epg.112114.xyz/logo/虎牙电影12.png" group-title="虎牙",虎牙电影12
-http://epg.112114.xyz/huya/11352963
-#EXTINF:-1,tvg-id="虎牙电影13" tvg-name="虎牙电影13" tvg-logo="https://epg.112114.xyz/logo/虎牙电影13.png" group-title="虎牙",虎牙电影13
-http://epg.112114.xyz/huya/11342414
-#EXTINF:-1,tvg-id="虎牙电影14" tvg-name="虎牙电影14" tvg-logo="https://epg.112114.xyz/logo/虎牙电影14.png" group-title="虎牙",虎牙电影14
-http://epg.112114.xyz/huya/11602075
-#EXTINF:-1,tvg-id="虎牙电影15" tvg-name="虎牙电影15" tvg-logo="https://epg.112114.xyz/logo/虎牙电影15.png" group-title="虎牙",虎牙电影15
-http://epg.112114.xyz/huya/11352962
-#EXTINF:-1,tvg-id="虎牙电影16" tvg-name="虎牙电影16" tvg-logo="https://epg.112114.xyz/logo/虎牙电影16.png" group-title="虎牙",虎牙电影16
-http://epg.112114.xyz/huya/11336571
-#EXTINF:-1,tvg-id="虎牙电影17" tvg-name="虎牙电影17" tvg-logo="https://epg.112114.xyz/logo/虎牙电影17.png" group-title="虎牙",虎牙电影17
-http://epg.112114.xyz/huya/11342427
-#EXTINF:-1,tvg-id="虎牙电影18" tvg-name="虎牙电影18" tvg-logo="https://epg.112114.xyz/logo/虎牙电影18.png" group-title="虎牙",虎牙电影18
-http://epg.112114.xyz/huya/11336719
-#EXTINF:-1,tvg-id="虎牙电影19" tvg-name="虎牙电影19" tvg-logo="https://epg.112114.xyz/logo/虎牙电影19.png" group-title="虎牙",虎牙电影19
-http://epg.112114.xyz/huya/11352894
-#EXTINF:-1,tvg-id="虎牙电影20" tvg-name="虎牙电影20" tvg-logo="https://epg.112114.xyz/logo/虎牙电影20.png" group-title="虎牙",虎牙电影20
-http://epg.112114.xyz/huya/11352877
-#EXTINF:-1,tvg-id="虎牙电影21" tvg-name="虎牙电影21" tvg-logo="https://epg.112114.xyz/logo/虎牙电影21.png" group-title="虎牙",虎牙电影21
-http://epg.112114.xyz/huya/11602077
-#EXTINF:-1,tvg-id="虎牙电影22" tvg-name="虎牙电影22" tvg-logo="https://epg.112114.xyz/logo/虎牙电影22.png" group-title="虎牙",虎牙电影22
-http://epg.112114.xyz/huya/11601960
-#EXTINF:-1,tvg-id="虎牙电影23" tvg-name="虎牙电影23" tvg-logo="https://epg.112114.xyz/logo/虎牙电影23.png" group-title="虎牙",虎牙电影23
-http://epg.112114.xyz/huya/11352965
-#EXTINF:-1,tvg-id="虎牙电影24" tvg-name="虎牙电影24" tvg-logo="https://epg.112114.xyz/logo/虎牙电影24.png" group-title="虎牙",虎牙电影24
-http://epg.112114.xyz/huya/11342435
-#EXTINF:-1,tvg-id="虎牙电影25" tvg-name="虎牙电影25" tvg-logo="https://epg.112114.xyz/logo/虎牙电影25.png" group-title="虎牙",虎牙电影25
-http://epg.112114.xyz/huya/11342423
-#EXTINF:-1,tvg-id="虎牙电影26" tvg-name="虎牙电影26" tvg-logo="https://epg.112114.xyz/logo/虎牙电影26.png" group-title="虎牙",虎牙电影26
-http://epg.112114.xyz/huya/11352909
-#EXTINF:-1,tvg-id="虎牙电影27" tvg-name="虎牙电影27" tvg-logo="https://epg.112114.xyz/logo/虎牙电影27.png" group-title="虎牙",虎牙电影27
-http://epg.112114.xyz/huya/11352886
-#EXTINF:-1,tvg-id="虎牙电影28" tvg-name="虎牙电影28" tvg-logo="https://epg.112114.xyz/logo/虎牙电影28.png" group-title="虎牙",虎牙电影28
-http://epg.112114.xyz/huya/11602044
 
 
 #EXTINF:-1,tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="影视",峨眉电影
@@ -622,10 +566,6 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 http://r.jdshipin.com/5DWJk
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="影视",黑莓电影
 http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-#EXTINF:-1,tvg-id="历年贺岁大片" tvg-name="历年贺岁大片" tvg-logo="https://epg.112114.xyz/logo/历年贺岁大片.png" group-title="影视",历年贺岁大片
-http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="金庸武侠系列" tvg-name="金庸武侠系列" tvg-logo="https://epg.112114.xyz/logo/金庸武侠系列.png" group-title="影视",金庸武侠系列
-http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
@@ -642,18 +582,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影
 http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
-#EXTINF:-1,tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV古装剧场.png" group-title="影视",古装剧场
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225678/2/index.m3u8
-#EXTINF:-1,tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://epg.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="影视",惊悚悬疑
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225885/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1,tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品大剧.png" group-title="影视",精品大剧
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225889/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/芒果华语电影.png" group-title="影视",芒果华语电影
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/芒果TV独播.png" group-title="影视",芒果TV独播
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="欧美电影HD" tvg-name="欧美电影HD" tvg-logo="https://epg.112114.xyz/logo/欧美电影HD.png" group-title="影视",芒果欧美电影HD
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
+
 
 #EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",超级综艺
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225620/2/index.m3u8
@@ -723,30 +652,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225656/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225660/2/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV军旅剧场.png" group-title="NewTV",军旅剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225669/2/index.m3u8
-#EXTINF:-1,tvg-id="哒啵赛事 高清" tvg-name="哒啵赛事 高清" tvg-logo="https://epg.112114.xyz/logo/哒啵赛事.png" group-title="其他",哒啵赛事 高清
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226676/index.m3u8
-#EXTINF:-1,tvg-id="哒啵电竞 高清" tvg-name="哒啵电竞 高清" tvg-logo="https://epg.112114.xyz/logo/哒啵电竞.png" group-title="其他",哒啵电竞 高清
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227252/index.m3u8
-#EXTINF:-1,tvg-id="芒果华语" tvg-name="芒果华语" tvg-logo="https://epg.112114.xyz/logo/芒果华语.png" group-title="其他",芒果华语
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="芒果欧美" tvg-name="芒果欧美" tvg-logo="https://epg.112114.xyz/logo/芒果欧美.png" group-title="其他",芒果欧美
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="芒果综艺" tvg-name="芒果综艺" tvg-logo="https://epg.112114.xyz/logo/芒果综艺.png" group-title="其他",芒果综艺
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="芒果独播" tvg-name="芒果独播" tvg-logo="https://epg.112114.xyz/logo/芒果独播.png" group-title="其他",芒果独播
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="IPTV高清院线" tvg-name="IPTV高清院线" tvg-logo="https://epg.112114.xyz/logo/IPTV高清院线.png" group-title="其他",IPTV高清院线
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="IPTV古装剧场" tvg-name="IPTV古装剧场" tvg-logo="https://epg.112114.xyz/logo/IPTV古装剧场.png" group-title="其他",IPTV古装剧场
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000010/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="IPTV家庭剧场" tvg-name="IPTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/IPTV家庭剧场.png" group-title="其他",IPTV家庭剧场
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="IPTV经典剧场" tvg-name="IPTV经典剧场" tvg-logo="https://epg.112114.xyz/logo/IPTV经典剧场.png" group-title="其他",IPTV经典剧场
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="IPTV抗战剧场" tvg-name="IPTV抗战剧场" tvg-logo="https://epg.112114.xyz/logo/IPTV抗战剧场.png" group-title="其他",IPTV抗战剧场
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="IPTV芒果互娱" tvg-name="IPTV芒果互娱" tvg-logo="https://epg.112114.xyz/logo/IPTV芒果互娱.png" group-title="其他",IPTV芒果互娱
-http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
+
 #EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="其他",求索动物
 http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 #EXTINF:-1,tvg-id="浙江求索生活" tvg-name="浙江求索生活" tvg-logo="https://epg.112114.xyz/logo/浙江求索生活.png" group-title="其他",求索生活
