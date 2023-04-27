@@ -503,19 +503,9 @@ http://tv.redrainl.site:9500/live.m3u8?c=14
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="国际",半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅行1.png" group-title="斗鱼",斗鱼云旅行1
-http://epg.112114.xyz/douyu/9257160
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅行2.png" group-title="斗鱼",斗鱼云旅行2
 http://epg.112114.xyz/douyu/9358196
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游3.png" group-title="斗鱼",斗鱼云旅游3
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游3.png" group-title="斗鱼",斗鱼云旅游2
 http://epg.112114.xyz/douyu/6563725
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游4.png" group-title="斗鱼",斗鱼云旅游4
-http://epg.112114.xyz/douyu/615814
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游5.png" group-title="斗鱼",斗鱼云旅游5
-http://epg.112114.xyz/douyu/9527954
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游6.png" group-title="斗鱼",斗鱼云旅游6
-http://epg.112114.xyz/douyu/5820284
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/罗翔说法1.png" group-title="斗鱼",罗翔说法1
-http://epg.112114.xyz/douyu/8805
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/养猫吧.png" group-title="斗鱼",养猫吧
 http://epg.112114.xyz/douyu/648814
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/开心麻花.png" group-title="斗鱼",开心麻花
@@ -529,50 +519,34 @@ http://epg.112114.xyz/douyu/9817729
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/赵本山.png" group-title="斗鱼",赵本山
 http://epg.112114.xyz/douyu/9817716
 #EXTINF:-1,tvg-id="斗鱼电影1" tvg-name="斗鱼电影1" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影1.png" group-title="斗鱼",斗鱼电影1
-http://epg.112114.xyz/douyu/3637778
-#EXTINF:-1,tvg-id="斗鱼电影2" tvg-name="斗鱼电影2" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影2.png" group-title="斗鱼",斗鱼电影2
-http://epg.112114.xyz/douyu/3637726
-#EXTINF:-1,tvg-id="斗鱼电影3" tvg-name="斗鱼电影3" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影3.png" group-title="斗鱼",斗鱼电影3
 http://epg.112114.xyz/douyu/8985415
-#EXTINF:-1,tvg-id="斗鱼电影4" tvg-name="斗鱼电影4" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影4.png" group-title="斗鱼",斗鱼电影4
+#EXTINF:-1,tvg-id="斗鱼电影4" tvg-name="斗鱼电影4" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影4.png" group-title="斗鱼",斗鱼电影2
 http://epg.112114.xyz/douyu/9650887
-#EXTINF:-1,tvg-id="斗鱼电影5" tvg-name="斗鱼电影5" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影5.png" group-title="斗鱼",斗鱼电影5
-http://epg.112114.xyz/douyu/1226741
-#EXTINF:-1,tvg-id="斗鱼电影6" tvg-name="斗鱼电影6" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影6.png" group-title="斗鱼",斗鱼电影6
+#EXTINF:-1,tvg-id="斗鱼电影6" tvg-name="斗鱼电影6" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影6.png" group-title="斗鱼",斗鱼电影3
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1,tvg-id="斗鱼电影7" tvg-name="斗鱼电影7" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影7.png" group-title="斗鱼",斗鱼电影7
-http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1,tvg-id="斗鱼电影8" tvg-name="斗鱼电影8" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影8.png" group-title="斗鱼",斗鱼电影8
+#EXTINF:-1,tvg-id="斗鱼电影8" tvg-name="斗鱼电影8" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影8.png" group-title="斗鱼",斗鱼电影4
 http://epg.112114.xyz/douyu/96577
-#EXTINF:-1,tvg-id="斗鱼电影9" tvg-name="斗鱼电影9" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影9.png" group-title="斗鱼",斗鱼电影9
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1,tvg-id="斗鱼电影10" tvg-name="斗鱼电影10" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影10.png" group-title="斗鱼",斗鱼电影10
+#EXTINF:-1,tvg-id="斗鱼电影10" tvg-name="斗鱼电影10" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影10.png" group-title="斗鱼",斗鱼电影5
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1,tvg-id="斗鱼电影11" tvg-name="斗鱼电影11" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影11.png" group-title="斗鱼",斗鱼电影11
+#EXTINF:-1,tvg-id="斗鱼电影11" tvg-name="斗鱼电影11" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影11.png" group-title="斗鱼",斗鱼电影6
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1,tvg-id="斗鱼电影12" tvg-name="斗鱼电影12" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影12.png" group-title="斗鱼",斗鱼电影12
-http://epg.112114.xyz/douyu/323876
-#EXTINF:-1,tvg-id="斗鱼电影13" tvg-name="斗鱼电影13" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影13.png" group-title="斗鱼",斗鱼电影13
-http://epg.112114.xyz/douyu/747764
-#EXTINF:-1,tvg-id="斗鱼电影14" tvg-name="斗鱼电影14" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影14.png" group-title="斗鱼",斗鱼电影14
-http://epg.112114.xyz/douyu/85894
-#EXTINF:-1,tvg-id="斗鱼电影15" tvg-name="斗鱼电影15" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影15.png" group-title="斗鱼",斗鱼电影15
+#EXTINF:-1,tvg-id="斗鱼电影15" tvg-name="斗鱼电影15" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影15.png" group-title="斗鱼",斗鱼电影7
 http://epg.112114.xyz/douyu/122402
-#EXTINF:-1,tvg-id="斗鱼电影16" tvg-name="斗鱼电影16" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影16.png" group-title="斗鱼",斗鱼电影16
+#EXTINF:-1,tvg-id="斗鱼电影16" tvg-name="斗鱼电影16" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影16.png" group-title="斗鱼",斗鱼电影8
 http://epg.112114.xyz/douyu/9292492
-#EXTINF:-1,tvg-id="斗鱼电影17" tvg-name="斗鱼电影17" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影17.png" group-title="斗鱼",斗鱼电影17
+#EXTINF:-1,tvg-id="斗鱼电影17" tvg-name="斗鱼电影17" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影17.png" group-title="斗鱼",斗鱼电影9
 http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1,tvg-id="斗鱼电影18" tvg-name="斗鱼电影18" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影18.png" group-title="斗鱼",斗鱼电影18
+#EXTINF:-1,tvg-id="斗鱼电影18" tvg-name="斗鱼电影18" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影18.png" group-title="斗鱼",斗鱼电影10
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1,tvg-id="斗鱼电影19" tvg-name="斗鱼电影19" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影19.png" group-title="斗鱼",斗鱼电影19
+#EXTINF:-1,tvg-id="斗鱼电影19" tvg-name="斗鱼电影19" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影19.png" group-title="斗鱼",斗鱼电影11
 http://epg.112114.xyz/douyu/9651304
-#EXTINF:-1,tvg-id="斗鱼电影20" tvg-name="斗鱼电影20" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影20.png" group-title="斗鱼",斗鱼电影20
+#EXTINF:-1,tvg-id="斗鱼电影20" tvg-name="斗鱼电影20" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影20.png" group-title="斗鱼",斗鱼电影12
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1,tvg-id="斗鱼电影21" tvg-name="斗鱼电影21" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影21.png" group-title="斗鱼",斗鱼电影21
+#EXTINF:-1,tvg-id="斗鱼电影21" tvg-name="斗鱼电影21" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影21.png" group-title="斗鱼",斗鱼电影13
 http://epg.112114.xyz/douyu/8945323
-#EXTINF:-1,tvg-id="斗鱼电影22" tvg-name="斗鱼电影22" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影22.png" group-title="斗鱼",斗鱼电影22
+#EXTINF:-1,tvg-id="斗鱼电影22" tvg-name="斗鱼电影22" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影22.png" group-title="斗鱼",斗鱼电影14
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1,tvg-id="斗鱼电影23" tvg-name="斗鱼电影23" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影23.png" group-title="斗鱼",斗鱼电影23
+#EXTINF:-1,tvg-id="斗鱼电影23" tvg-name="斗鱼电影23" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影23.png" group-title="斗鱼",斗鱼电影15
 http://epg.112114.xyz/douyu/2436390
 #EXTINF:-1,tvg-id="斗鱼电视剧HD1" tvg-name="斗鱼电视剧HD1" tvg-logo="https://epg.112114.xyz/logo/斗鱼电视剧HD1.png" group-title="斗鱼",斗鱼电视剧HD1
 http://epg.112114.xyz/douyu/2838296
