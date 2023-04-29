@@ -78,7 +78,6 @@ BesTV-电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000
 全纪实,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
 都市剧场,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
 七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8?
-七彩戏剧,http://lu1.cc/itv/php/baitv.php?id=qcxj
 哈哈炫动,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=10
 陶瓷高清,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
 足球高清,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
