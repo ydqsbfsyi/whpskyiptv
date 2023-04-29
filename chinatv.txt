@@ -1,7 +1,6 @@
 上海,#genre#
 咪咕全民热练,http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
 体育健身,http://hlsbkmgsplive.miguvideo.com/migu/virtuallive2/5900002407/57/20210706/01.m3u8?&HlsSubType=&encrypt=1#
-东方卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8?fmt=ts2hls
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/01.m3u8?&HlsSubType=&encrypt=1
 东方卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/dongfanghd265/57/20191230/01.m3u8?&HlsSubType=&encrypt=1
