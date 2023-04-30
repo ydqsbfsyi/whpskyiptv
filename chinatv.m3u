@@ -3,22 +3,22 @@
 http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="全民健身" tvg-name="全民健身" tvg-logo="https://epg.112114.xyz/logo/全民健身.png" group-title="上海",全民健身
 http://hlsbkmgsplive.miguvideo.com/migu/virtuallive2/5900002407/57/20210706/01.m3u8?&HlsSubType=&encrypt=1
+#EXTINF:-1,tvg-id="体育健身" tvg-name="体育健身" tvg-logo="https://epg.112114.xyz/logo/体育健身.png" group-title="上海",体育健身
+http://hlsbkmgsplive.miguvideo.com/migu/virtuallive2/5900002407/57/20210706/01.m3u8?&HlsSubType=&encrypt=1#
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/HD-8000k-1080P-dongfangstv/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225489/index.m3u8?fmt=ts2hls
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8?
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225659/index.m3u8
+http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/1000000001000030202/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225659/index.m3u8
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225658/index.m3u8
+http://[2409:8087:4402:20:1:1216:401:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226681/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225658/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225658/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225658/index.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/HD-8000k-1080P-dongfangstv/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225658/2/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
