@@ -94,7 +94,7 @@ ESPN,http://143.244.60.97/ESPN/index.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-CCTV4K,http://159.75.85.63:5679/cctv4k.php#https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://moss.hk3.345888.xyz.cdn.cloudflare.net/bestv.php?id=cctv4k/15000000
 河南卫视4K,http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
