@@ -24,13 +24,7 @@ http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225658/index.m3
 #EXTINF:-1,tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8?
 #EXTINF:-1,tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
-http://[2409:8087:5050:20::3023]/0000000000001001/1/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
 http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1312BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKjhXSjQi%2BeaQRf9Ziq7KgRxPDH63cId6gXyoJkX5oXhqiHPA8BBLiWRr0QWb9LVbA%3D%3D
-#EXTINF:-1,tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
-http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/01.m3u8?&HlsSubType=&encrypt=1
-#EXTINF:-1,tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
-https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1,tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
 http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1,tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",上海新闻
@@ -48,19 +42,13 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海",五星体育
 http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海",五星体育
-https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海",五星体育
 http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海",五星体育
 https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海",劲爆体育
 http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海",劲爆体育
-https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
-#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海",劲爆体育
-http://live.aptvapp.com/sxg.php?id=lqhxjcHDH265_4000
-#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海",劲爆体育
-http://live.aptvapp.com/ghyx.php?id=JinBaoTiYuHD_6000
+https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海",第一财经
 http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海",第一财经
@@ -70,8 +58,6 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海",第一财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8?
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海",第一财经
-https://www.whalenas.com/bestv/index.php?id=dycjhd8m/8000000
-#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海",第一财经
 https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1,tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://epg.112114.xyz/logo/上海ICS外语.png" group-title="上海",上海ICS外语
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8?
@@ -80,13 +66,7 @@ http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000030951/index.m
 #EXTINF:-1,tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://epg.112114.xyz/logo/上海ICS外语.png" group-title="上海",上海ICS外语
 http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
 #EXTINF:-1,tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://epg.112114.xyz/logo/上海ICS外语.png" group-title="上海",上海ICS外语
-https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
-#EXTINF:-1,tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://epg.112114.xyz/logo/上海ICS外语.png" group-title="上海",上海ICS外语
-http://lu1.cc/itv/php/baitv.php?id=shics
-#EXTINF:-1,tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://epg.112114.xyz/logo/上海ICS外语.png" group-title="上海",上海ICS外语
 https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
-#EXTINF:-1,tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
-https://live.v1.mk/api/bestv.php?id=setvhd/8000000
 #EXTINF:-1,tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
 https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
 #EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="上海",东方影视
@@ -102,8 +82,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="上海",新视觉
-https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
-#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="上海",新视觉
 https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1,tvg-id="BesTV-4K" tvg-name="BesTV-4K" tvg-logo="https://epg.112114.xyz/logo/BESTV4K.png" group-title="上海",BesTV-4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
@@ -116,11 +94,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="上海",魅力足球
 http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="上海",魅力足球
-http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="上海",魅力足球
-http://bytedance.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
-#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="上海",魅力足球
-https://tv.fanmingming.com/api/v6.php?id=mlyy
+https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 #EXTINF:-1,tvg-id="咪咕音乐" tvg-name="咪咕音乐" tvg-logo="https://epg.112114.xyz/logo/咪咕音乐.png" group-title="上海",咪咕音乐
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
 #EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
@@ -144,9 +118,9 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000005
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 #EXTINF:-1,tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="上海",陶瓷高清
-https://live.v1.mk/api/bestv.php?id=taocihd/8000000
+https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="上海",足球高清
-https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
+https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
 #EXTINF:-1,tvg-id="上海这一刻丨陆家嘴" tvg-name="上海这一刻丨陆家嘴" tvg-logo="https://epg.112114.xyz/logo/上海这一刻丨陆家嘴.png" group-title="上海",上海这一刻丨陆家嘴
 https://bililive.kksmg.com/hls/sdi70/playlist.m3u8
 #EXTINF:-1,tvg-id="上海这一刻魔都眼" tvg-name="上海这一刻魔都眼" tvg-logo="https://epg.112114.xyz/logo/上海这一刻魔都眼.png" group-title="上海",上海这一刻魔都眼
