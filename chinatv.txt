@@ -286,6 +286,7 @@ TVBS欢乐台,http://38.55.196.41/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b
 TVBS新闻台,http://38.55.196.41/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=54
 镜新闻台,http://38.55.196.41/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=52
 中天新闻台,http://38.55.196.41/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=43
+东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-18617bfd-c179-4b64-beb7-88f7af03cc61.m3u8?by=yeslivetv_com
 东森LIVE,台http://38.55.196.41/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=44
 东森财经台,http://38.55.196.41/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=45
 中视新闻台,http://38.55.196.41/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=46
