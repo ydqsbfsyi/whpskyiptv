@@ -280,7 +280,7 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 ViuTV,http://r.jdshipin.com/vSJvl
-無線新聞台,http://radius.8866.org:800/hls/82/index.m3u8
+無綫新聞台,http://awei.beimua.com/yes.php?id=13
 無線财经体育,http://120.84.96.82:808/hls/86/index.m3u8
 無線财经体育,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
@@ -289,12 +289,27 @@ ViuTV,http://r.jdshipin.com/vSJvl
 民视,rtmp://119.81.124.89/sat/tv051
 中视,rtmp://119.81.124.89/sat/tv091
 华视CTS HD,rtmp://119.81.124.89/sat/tv111
+東森新聞台,http://awei.beimua.com/yes.php?id=1
+TVB新闻台,http://awei.beimua.com/yes.php?id=3
+中天新闻台,http://awei.beimua.com/iptv.php?id=43
+东森新闻台,http://awei.beimua.com/iptv.php?id=44
+中视新闻台,http://awei.beimua.com/iptv.php?id=46
+台视新闻台,http://awei.beimua.com/iptv.php?id=47
+三立新闻台,http://awei.beimua.com/iptv.php?id=48
+民视新闻台,http://awei.beimua.com/iptv.php?id=50
+华视新闻台,http://awei.beimua.com/iptv.php?id=51
+镜电视新闻台,http://awei.beimua.com/iptv.php?id=52
+寰宇新闻台,http://awei.beimua.com/iptv.php?id=53
+TVBS新闻台,http://awei.beimua.com/iptv.php?id=54
 东森财经,rtmp://119.81.124.89/sat/tv571
 纬来育乐,rtmp://119.81.124.89/sat/tv701
 纬来育乐,rtmp://119.81.124.89/sat/tv701
 MoMo综合台,rtmp://119.81.124.89/sat/tv761
 ELEVEN1,rtmp://119.81.124.89/sat/tv731
 ELEVEN2,rtmp://119.81.124.89/sat/tv741
+爱尔达体育1台,http://awei.beimua.com/iptv.php?id=79
+爱尔达体育2台,http://awei.beimua.com/iptv.php?id=80
+爱尔达体育3台,http://awei.beimua.com/iptv.php?id=81
 博斯运动I,rtmp://119.81.124.89/sat/md041
 博斯运动II,rtmp://119.81.124.89/sat/md051
 中天娱乐,https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&timestamp=1684387487&rand=h5ZAGkW3j1&uuid=9b647b3816b2a66a&from=web&sign=190c1b05dbf0f302a89ff5463ea6a99c
