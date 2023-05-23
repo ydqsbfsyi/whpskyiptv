@@ -58,8 +58,6 @@
 纪实人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 生活时尚,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-BesTV-4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-BesTV-电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 咪咕体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
 魅力足球,http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
@@ -90,9 +88,14 @@ BesTV-电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000
 谍战剧场,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
 全球大片,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
 热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+BesTV-电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 百事通4K电影,http://222.65.21.143:4022/udp/239.45.1.42:5140
 百事通4K纪实,http://222.65.21.143:4022/udp/239.45.1.10:5140
 百事通4K儿童,http://222.65.21.143:4022/udp/239.45.1.1:5140
+百视通4K,http://222.65.21.143:4022/udp/239.45.1.9:5140
+百事通4K,http://222.65.21.143:4022/udp/239.45.1.11:5140
+百事通4K测试,http://222.65.21.143:4022/udp/239.45.1.108:5140
+百事通4K电影,http://222.65.21.143:4022/udp/239.45.3.107:5140
 
 4k,#genre#
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
