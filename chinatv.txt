@@ -290,6 +290,7 @@ ViuTV,http://r.jdshipin.com/vSJvl
 中视,rtmp://119.81.124.89/sat/tv091
 华视CTS HD,rtmp://119.81.124.89/sat/tv111
 東森新聞台,http://awei.beimua.com/yes.php?id=1
+TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVB新闻台,http://awei.beimua.com/yes.php?id=3
 中天新闻台,http://awei.beimua.com/iptv.php?id=43
 东森新闻台,http://awei.beimua.com/iptv.php?id=44
