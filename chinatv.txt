@@ -269,20 +269,18 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 凤凰资讯,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-027c8104-3ea4-45de-8442-04b9715f7982.m3u8
 凤凰资讯,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
 凤凰资讯,http://iptv.weai.love/live/88888888/fhzx.m3u8
+凤凰资讯,http://awei.beimua.com/iptv.php?id=2
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://124.236.64.52/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰中文,http://iptv.weai.love/live/88888888/fhzw.m3u8
-翡翠台,http://php.733240.com/hk/hk.php?id=1
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 星河频道,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 VIUTV,http://r.jdshipin.com/vSJvl
-VIUTV,http://php.733240.com/hk/hk.php?id=2
-無綫新聞台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334210
-無線财经体育,http://php.733240.com/hk/hk.php?id=8
+无线新闻,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334210
 無線财经体育,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -290,15 +288,17 @@ VIUTV,http://php.733240.com/hk/hk.php?id=2
 民视,rtmp://119.81.124.89/sat/tv051
 中视,rtmp://119.81.124.89/sat/tv091
 华视CTS HD,rtmp://119.81.124.89/sat/tv111
-中天新闻,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334230
-东森新闻台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334237
-台视新闻台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334227
-三立新闻台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334244
+华视CTS HD,http://awei.beimua.com/iptv.php?id=51
+民视新闻,http://awei.beimua.com/iptv.php?id=50
+中视新闻,http://awei.beimua.com/iptv.php?id=46
+东森LIVE,http://awei.beimua.com/iptv.php?id=44
+台视新闻台,http://awei.beimua.com/iptv.php?id=47
+三立新闻台,http://awei.beimua.com/iptv.php?id=48
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-TVBS,http://php.733240.com/hk/hk.php?id=13
-TVBS新闻台,http://php.733240.com/hk/hk.php?id=12
 TVBS新闻台,rtmp://119.81.124.89/sat/tv551
-TVBS新闻台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334233
+寰宇新闻,http://awei.beimua.com/iptv.php?id=53
+中天新闻,http://awei.beimua.com/iptv.php?id=43
+中天新闻,https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&timestamp=1685187300&rand=SItVoOb1jj&uuid=9b647b3816b2a66a&from=web&sign=ee9793023b0702b7fcd1bb47ca489dd7
 东森财经,rtmp://119.81.124.89/sat/tv571
 天映电影,http://120.84.96.87:808/hls/85/index.m3u8
 天映电影,http://120.84.96.89:808/hls/85/index.m3u8
