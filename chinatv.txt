@@ -46,6 +46,7 @@
 上海ICS外语,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 上海ICS外语,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
 上海ICS外语,http://222.65.21.143:4022/udp/239.45.1.127:5140
+上海教育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001053/index.m3u8?
 上海教育,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 上海教育,http://222.65.21.143:4022/udp/239.45.0.13:5140
@@ -96,6 +97,8 @@ BesTV-电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000
 百事通4K,http://222.65.21.143:4022/udp/239.45.1.11:5140
 百事通4K测试,http://222.65.21.143:4022/udp/239.45.1.108:5140
 百事通4K电影,http://222.65.21.143:4022/udp/239.45.3.107:5140
+东方购物,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001039/index.m3u8?
+东方购物,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001040/index.m3u8?
 
 4k,#genre#
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
