@@ -236,6 +236,7 @@ J2,http://r.jdshipin.com/Nr5jq
 J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 VIUTV,http://r.jdshipin.com/vSJvl
 无线新闻,http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
+无线新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-577ce31f-52bb-4662-a900-5f426c66ffad.m3u8?by=yeslivetv_com
 無線财经体育,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -252,8 +253,12 @@ VIUTV,http://r.jdshipin.com/vSJvl
 镜电视新闻台,http://awei.beimua.com/iptv.php?id=52
 寰宇新闻台,http://awei.beimua.com/iptv.php?id=53
 TVBS新闻台,http://awei.beimua.com/iptv.php?id=54
+年代新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9963bf53-664f-4e6b-bc54-42954f42d2cf.m3u8?by=yeslivetv_com
+东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7768f5ae-8001-40ab-bc91-5c6e97abb7f8.m3u8?by=yeslivetv_com
+TVBS,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-36151937-36b4-42fa-9991-6f017a31b62f.m3u8?by=yeslivetv_com
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS新闻台,rtmp://119.81.124.89/sat/tv551
+TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-18386c7e-b0ef-4fb1-89f1-0168fe04bc71.m3u8?by=yeslivetv_com
 中天新闻台,https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&timestamp=1685187300&rand=SItVoOb1jj&uuid=9b647b3816b2a66a&from=web&sign=ee9793023b0702b7fcd1bb47ca489dd7
 东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7599ed8e-608f-4c7a-a666-830e71d63e5d.m3u8
 东森财经,rtmp://119.81.124.89/sat/tv571
@@ -278,6 +283,7 @@ ELEVEN2,rtmp://119.81.124.89/sat/tv741
 博斯运动II,rtmp://119.81.124.89/sat/md051
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 纬来日本,rtmp://119.81.124.89/sat/tv771
+靖天日本台,https://tw11.yeslivetv.com/hi2/vod/4gtv-4gtv047-avc1_400000=5-mp4a_122000_zho=7.m3u8?content=4gtv-4gtv047&md5=e3aa8e4a3398dc7caa0b0d3bfd6c2c42&expires=1686908075
 
 国际,#genre#
 日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
