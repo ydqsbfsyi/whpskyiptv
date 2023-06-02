@@ -235,8 +235,11 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 VIUTV,http://r.jdshipin.com/vSJvl
-无线新闻,http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
-无线新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-577ce31f-52bb-4662-a900-5f426c66ffad.m3u8?by=yeslivetv_com
+无线新闻台,http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
+无线新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-577ce31f-52bb-4662-a900-5f426c66ffad.m3u8?by=yeslivetv_com
+无线新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
+无线新闻台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+无线新闻台,http://bziyunshao.synology.me:8890/bysid/83
 無線财经体育,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
