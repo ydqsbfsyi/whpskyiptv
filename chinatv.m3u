@@ -440,13 +440,13 @@ http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/t
 #EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="香港",J2
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="香港",J2
-http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-960303e5-a491-49da-a473-920d5eb26fd5.m3u8
 #EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港",VIUTV
 http://r.jdshipin.com/vSJvl
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻台
 http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻台
-http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-754e822c-2d75-4f2b-a34d-d39a896f1f9d.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻台
 http://bziyunshao.synology.me:8890/bysid/83
 #EXTINF:-1,tvg-id="無線财经体育" tvg-name="無線财经体育" tvg-logo="https://epg.112114.xyz/logo/無線财经体育.png" group-title="香港",無線财经体育
@@ -478,13 +478,13 @@ http://awei.beimua.com/iptv.php?id=54
 #EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title="台湾",年代新闻台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9963bf53-664f-4e6b-bc54-42954f42d2cf.m3u8?by=yeslivetv_com
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台湾",东森新闻台
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7768f5ae-8001-40ab-bc91-5c6e97abb7f8.m3u8?by=yeslivetv_com
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7768f5ae-8001-40ab-bc91-5c6e97abb7f8.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-36151937-36b4-42fa-9991-6f017a31b62f.m3u8?by=yeslivetv_com
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-36151937-36b4-42fa-9991-6f017a31b62f.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻台
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-18386c7e-b0ef-4fb1-89f1-0168fe04bc71.m3u8?by=yeslivetv_com
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-18386c7e-b0ef-4fb1-89f1-0168fe04bc71.m3u8
 #EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="台湾",中天新闻台
 https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w×tamp=1685187300&rand=SItVoOb1jj&uuid=9b647b3816b2a66a&from=web&sign=ee9793023b0702b7fcd1bb47ca489dd7
 #EXTINF:-1,tvg-id="天映电影" tvg-name="天映电影" tvg-logo="https://epg.112114.xyz/logo/天映电影.png" group-title="台湾",天映电影
