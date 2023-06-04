@@ -5,8 +5,10 @@
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8?
 东方卫视,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/1000000001000030202/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=3
 东方卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000182/index.m3u8?IAS
+东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221227511/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
 东方卫视,http://live.cooltv.top/tv/aishang.php?id=dfwshd
+东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
 东方卫视,http://222.65.21.143:4022/udp/239.45.3.146:5140
 上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8?
 上海新闻,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
@@ -22,6 +24,7 @@
 上海都市,http://222.65.21.143:4022/udp/239.45.3.236:5140
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+五星体育,http://39.134.136.160:6610/000000001000/5000000010000017540/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1417620230603135958814476&channel-id=bestzb&Contentid=5000000010000017540
 五星体育,http://39.134.136.160:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
@@ -110,6 +113,10 @@ CCTV4K,http://moss.hk3.345888.xyz.cdn.cloudflare.net/bestv.php?id=cctv4k/1500000
 河南4K试验,http://[2409:8087:4400:20:1:a0f:12:33]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
+纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
+纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
+纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场4k,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -117,6 +124,7 @@ CCTV16_4K,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=
 CCTV16_4K,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
 CCTV16_4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 Bloomberg TV+,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Clarity4K,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxBCHdoE4ERuw-ffszjQ-bDk/ts
@@ -242,6 +250,10 @@ VIUTV,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-932d2b8d-06cf-4bc5-8fc1-4
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 NOW新闻台,https://dispatch.ulivetv.net/v/live/cfxqkxoxany8.m3u8?stream_id=cfxqkxoxany8&timestamp=1685715796&rand=fqyOj6V5f5&uuid=9b647b3816b2a66a&from=web&sign=4e9a2951436c7448dc05312d8092584f
 港台电视32,https://dispatch.ulivetv.net/v/live/ccnp0ueaq75s.m3u8?stream_id=ccnp0ueaq75s&timestamp=1685715856&rand=bZNWL8WOud&uuid=9b647b3816b2a66a&from=web&sign=7b064b38547555415c67decc1a44d5d7
+中视HD,http://awei.beimua.com/iptv.php?id=60
+台视HD,http://awei.beimua.com/iptv.php?id=61
+民视HD,http://awei.beimua.com/iptv.php?id=62
+华视HD,http://awei.beimua.com/iptv.php?id=63
 华视CTS HD,rtmp://119.81.124.89/sat/tv111
 中天新闻台,http://awei.beimua.com/iptv.php?id=43
 东森新闻台,http://awei.beimua.com/iptv.php?id=44
@@ -279,6 +291,12 @@ TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-18386c7e-b0ef-4fb
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 纬来日本,rtmp://119.81.124.89/sat/tv771
 靖天日本台,https://tw11.yeslivetv.com/hi2/vod/4gtv-4gtv047-avc1_400000=5-mp4a_122000_zho=7.m3u8?content=4gtv-4gtv047&md5=e3aa8e4a3398dc7caa0b0d3bfd6c2c42&expires=1686908075
+纬来体育台,http://awei.beimua.com/iptv.php?id=73
+纬来日本台,http://awei.beimua.com/iptv.php?id=74
+纬来育乐台,http://awei.beimua.com/iptv.php?id=75
+ELEVEN 1,http://awei.beimua.com/iptv.php?id=76
+爱尔达体育1台,http://awei.beimua.com/iptv.php?id=79
+爱尔达体育2台,http://awei.beimua.com/iptv.php?id=80
 
 国际,#genre#
 日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
