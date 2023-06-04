@@ -6,7 +6,6 @@
 东方卫视,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/1000000001000030202/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=3
 东方卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000182/index.m3u8?IAS
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221227511/index.m3u8
-东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
 东方卫视,http://live.cooltv.top/tv/aishang.php?id=dfwshd
 东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
 东方卫视,http://222.65.21.143:4022/udp/239.45.3.146:5140
@@ -242,7 +241,6 @@ J2,http://r.jdshipin.com/Nr5jq
 J2,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-960303e5-a491-49da-a473-920d5eb26fd5.m3u8
 VIUTV,http://r.jdshipin.com/vSJvl
 VIUTV,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-932d2b8d-06cf-4bc5-8fc1-41683fe78533.m3u8
-无线新闻台,http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
 无线新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-754e822c-2d75-4f2b-a34d-d39a896f1f9d.m3u8
 无线新闻台,http://bziyunshao.synology.me:8890/bysid/83
 無線财经体育,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-426bca84-108c-4d97-8aa8-42c3ffd86fef.m3u8
