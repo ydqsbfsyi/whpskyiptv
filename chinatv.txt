@@ -71,6 +71,7 @@
 纪实人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 生活时尚,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001199/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
+新视觉,http://183.129.242.178:3333/tsfile/live/1021_1.m3u8
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 咪咕体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
 魅力足球,http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
@@ -241,10 +242,12 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 凤凰资讯,http://iptv.weai.love/live/88888888/fhzx.m3u8
 凤凰资讯,http://awei.beimua.com/iptv.php?id=2
 凤凰资讯,http://cs.iptv6.top/dsm.php?id=test2_4000
+凤凰资讯,http://183.129.242.178:3333/tsfile/live/1003_1.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://iptv.weai.love/live/88888888/fhzw.m3u8
 凤凰中文,http://cs.iptv6.top/dsm.php?id=test1_4000
+凤凰中文,http://183.129.242.178:3333/tsfile/live/1001_1.m3u8
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 星河频道,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
