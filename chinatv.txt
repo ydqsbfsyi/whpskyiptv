@@ -124,7 +124,6 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3
 CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://cs.iptv6.top/dsm.php?id=ys4Kcq_2000
-河南4K试验,http://[2409:8087:4400:20:1:a0f:12:33]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
@@ -258,13 +257,9 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 明珠台,http://119.91.192.228/TVOD/88888888/gudou.php?id=1351_4500
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 星河频道,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
-J2,http://r.jdshipin.com/Nr5jq
-VIUTV,http://r.jdshipin.com/vSJvl
-无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://sc2022.stream-link.org/list.php?id=h004
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 无线新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153399&extension=ts&play_token=ICdnbP1fWe
-无线财经,http://r.jdshipin.com/jUx8K
 无线财经,http://sc2022.stream-link.org/list.php?id=h005
 有线直播,http://61.10.2.145/live_freedirect/hd110_h.live/chunklist.m3u8
 有线财经,http://sc2022.stream-link.org/list.php?id=h009
@@ -286,6 +281,9 @@ RTHK32,http://sc2022.stream-link.org/list.php?id=h007
 中视新闻台,http://awei.beimua.com/iptv.php?id=46
 台视新闻台,http://awei.beimua.com/iptv.php?id=47
 三立新闻台,http://awei.beimua.com/iptv.php?id=48
+三立新闻台,http://sc2022.stream-link.org/list.php?id=t010
+三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+三立NEWS+,http://sc2022.stream-link.org/list.php?id=t011
 民视新闻台,http://awei.beimua.com/iptv.php?id=50
 华视新闻台,http://awei.beimua.com/iptv.php?id=51
 镜电视新闻台,http://awei.beimua.com/iptv.php?id=52
@@ -322,9 +320,6 @@ TVBS欢乐,rtmp://219.80.97.77/sat/tv421
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 纬来育乐,rtmp://119.81.124.89/sat/tv701
 纬来育乐,rtmp://219.80.97.77/sat/tv701
-三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-三立NEWS,http://sc2022.stream-link.org/list.php?id=t010
-三立NEWS+,http://sc2022.stream-link.org/list.php?id=t011
 纬来日本,rtmp://119.81.124.89/sat/tv771
 纬来日本,rtmp://219.80.97.77/sat/tv771
 纬来体育台,http://awei.beimua.com/iptv.php?id=73
