@@ -483,16 +483,18 @@ http://awei.beimua.com/iptv.php?id=53
 http://sc2022.stream-link.org/list.php?id=t007
 #EXTINF:-1,tvg-id="寰宇台湾新闻" tvg-name="寰宇台湾新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇台湾新闻.png" group-title="台湾",寰宇台湾新闻
 http://sc2022.stream-link.org/list.php?id=t008
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻台
-http://awei.beimua.com/iptv.php?id=54
 #EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title="台湾",年代新闻台
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9963bf53-664f-4e6b-bc54-42954f42d2cf.m3u8
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9963bf53-664f-4e6b-bc54-42954f42d2cf.m3u8?by=yeslivetv_com
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台湾",东森新闻台
 http://sc2022.stream-link.org/list.php?id=t001
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
 http://sc2022.stream-link.org/list.php?id=t014
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
+http://awei.beimua.com/iptv.php?id=56
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻台
 http://sc2022.stream-link.org/list.php?id=t013
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻台
+http://awei.beimua.com/iptv.php?id=54
 #EXTINF:-1,tvg-id="天映电影" tvg-name="天映电影" tvg-logo="https://epg.112114.xyz/logo/天映电影.png" group-title="台湾",天映电影
 http://120.84.96.87:808/hls/85/index.m3u8
 #EXTINF:-1,tvg-id="天映电影" tvg-name="天映电影" tvg-logo="https://epg.112114.xyz/logo/天映电影.png" group-title="台湾",天映电影
