@@ -263,8 +263,10 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 星河频道,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
 无线新闻,http://sc2022.stream-link.org/list.php?id=h004
+无线新闻,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=13
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 无线新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153399&extension=ts&play_token=ICdnbP1fWe
+无线新闻,http://pull-l3-cny.douyincdn.com/live/78625566800365445000YHTV.flv
 无线财经,http://sc2022.stream-link.org/list.php?id=h005
 有线直播,http://61.10.2.145/live_freedirect/hd110_h.live/chunklist.m3u8
 有线财经,http://sc2022.stream-link.org/list.php?id=h009
