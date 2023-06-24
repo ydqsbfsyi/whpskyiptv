@@ -262,16 +262,14 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 明珠台,http://119.91.192.228/TVOD/88888888/gudou.php?id=1351_4500
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 星河频道,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
-无线新闻,http://sc2022.stream-link.org/list.php?id=h004
-无线新闻,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=13
+无线新闻,http://sc2022.stream-link.org/tv2306.php?id=h04
+无线新闻,http://sc2022.stream-link.org/tv2306.php?id=h06
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
-无线新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153399&extension=ts&play_token=ICdnbP1fWe
-无线新闻,http://pull-l3-cny.douyincdn.com/live/78625566800365445000YHTV.flv
 无线财经,http://sc2022.stream-link.org/list.php?id=h005
 有线直播,http://61.10.2.145/live_freedirect/hd110_h.live/chunklist.m3u8
-有线财经,http://sc2022.stream-link.org/list.php?id=h009
-RTHK31,http://sc2022.stream-link.org/list.php?id=h006
-RTHK32,http://sc2022.stream-link.org/list.php?id=h007
+NOW新闻,http://sc2022.stream-link.org/tv2306.php?id=c03
+港台电视31,http://sc2022.stream-link.org/tv2306.php?id=h08
+港台电视32,http://sc2022.stream-link.org/tv2306.php?id=h09
 台视,rtmp://219.80.97.77/sat/tv071
 中视,rtmp://219.80.97.77/sat/tv091
 民视,rtmp://219.80.97.77/sat/tv051
@@ -282,36 +280,34 @@ RTHK32,http://sc2022.stream-link.org/list.php?id=h007
 民视,http://awei.beimua.com/iptv.php?id=62
 华视,http://awei.beimua.com/iptv.php?id=63
 华视CTS HD,rtmp://119.81.124.89/sat/tv111
-年代新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9963bf53-664f-4e6b-bc54-42954f42d2cf.m3u8?by=yeslivetv_com
-中天新闻台,http://awei.beimua.com/iptv.php?id=43
-东森新闻台,http://awei.beimua.com/iptv.php?id=44
-中视新闻台,http://awei.beimua.com/iptv.php?id=46
-台视新闻台,http://awei.beimua.com/iptv.php?id=47
-三立新闻台,http://awei.beimua.com/iptv.php?id=48
-三立新闻台,http://sc2022.stream-link.org/list.php?id=t010
-三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-三立NEWS+,http://sc2022.stream-link.org/list.php?id=t011
-民视新闻台,http://awei.beimua.com/iptv.php?id=50
-华视新闻台,http://awei.beimua.com/iptv.php?id=51
-镜电视新闻台,http://awei.beimua.com/iptv.php?id=52
-寰宇新闻台,http://awei.beimua.com/iptv.php?id=53
-寰宇新闻台,http://tv.redrainl.site:9500/live.m3u8?c=22
-寰宇新闻台,http://sc2022.stream-link.org/list.php?id=t007
-寰宇台湾新闻,http://sc2022.stream-link.org/list.php?id=t008
-台视新闻台,http://sc2022.stream-link.org/list.php?id=t012
-中视新闻台,http://sc2022.stream-link.org/list.php?id=t005
-民视新闻台,http://sc2022.stream-link.org/list.php?id=t006
-华视新闻台,http://sc2022.stream-link.org/list.php?id=t004
-TVBS,http://sc2022.stream-link.org/list.php?id=t014
-TVBS,http://awei.beimua.com/iptv.php?id=56
-TVBS新闻台,http://sc2022.stream-link.org/list.php?id=t013
-TVBS新闻台,http://awei.beimua.com/iptv.php?id=54
-中天新闻台,http://sc2022.stream-link.org/list.php?id=t003
-东森新闻台,http://sc2022.stream-link.org/list.php?id=t001
+東森新聞,http://sc2022.stream-link.org/tv2306.php?id=t01
+中天新聞,http://sc2022.stream-link.org/tv2306.php?id=t03
+華視新聞,http://sc2022.stream-link.org/tv2306.php?id=t04
+中視新聞,http://sc2022.stream-link.org/tv2306.php?id=t05
+民視新聞,http://sc2022.stream-link.org/tv2306.php?id=t06
+寰宇國際新聞,http://sc2022.stream-link.org/tv2306.php?id=t07
+寰宇台灣新聞,http://sc2022.stream-link.org/tv2306.php?id=t08
+三立財經新聞,http://sc2022.stream-link.org/tv2306.php?id=t09
+三立新聞,http://sc2022.stream-link.org/tv2306.php?id=t10
+三立新聞+,http://sc2022.stream-link.org/tv2306.php?id=t11
+三立新聞+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+三立台灣,http://sc2022.stream-link.org/tv2306.php?id=t23
+三立都會,http://sc2022.stream-link.org/tv2306.php?id=t24
+台視新聞,http://sc2022.stream-link.org/tv2306.php?id=t12
+TVBS新聞,http://sc2022.stream-link.org/tv2306.php?id=t13
+TVBS財經,http://sc2022.stream-link.org/tv2306.php?id=t14
+中天亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t15
+TVBS亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t16
+民視HD,http://sc2022.stream-link.org/tv2306.php?id=t17
+民視第一台,http://sc2022.stream-link.org/tv2306.php?id=t18
+民視台灣台,http://sc2022.stream-link.org/tv2306.php?id=t19
+民視綜藝台,http://sc2022.stream-link.org/tv2306.php?id=t20
+民視影劇台,http://sc2022.stream-link.org/tv2306.php?id=t21
+民視旅遊台,http://sc2022.stream-link.org/tv2306.php?id=t22
 东森财经,rtmp://219.80.97.77/sat/tv571
 东森财经,rtmp://119.81.124.89/sat/tv571
-TVBS新闻台,rtmp://119.81.124.89/sat/tv551
-TVBS新闻台,rtmp://219.80.97.77/sat/tv551
+TVBS新闻,rtmp://119.81.124.89/sat/tv551
+TVBS新闻,rtmp://219.80.97.77/sat/tv551
 TVBS欢乐,rtmp://219.80.97.77/sat/tv421
 天映电影,http://120.84.96.87:808/hls/85/index.m3u8
 天映电影,http://120.84.96.89:808/hls/85/index.m3u8
@@ -329,14 +325,10 @@ TVBS欢乐,rtmp://219.80.97.77/sat/tv421
 纬来育乐,rtmp://219.80.97.77/sat/tv701
 纬来日本,rtmp://119.81.124.89/sat/tv771
 纬来日本,rtmp://219.80.97.77/sat/tv771
-纬来体育台,http://awei.beimua.com/iptv.php?id=73
-纬来日本,http://awei.beimua.com/iptv.php?id=74
-纬来育乐,http://awei.beimua.com/iptv.php?id=75
-ELEVEN 1,http://awei.beimua.com/iptv.php?id=76
 ELEVEN 1,rtmp://219.80.97.77/sat/tv731
 ELEVEN 2,rtmp://219.80.97.77/sat/tv741
-爱尔达体育1台,http://awei.beimua.com/iptv.php?id=79
-爱尔达体育2台,http://awei.beimua.com/iptv.php?id=80
+
+
 
 国际,#genre#
 日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -345,11 +337,25 @@ NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 NBC News,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
-FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ABC News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+ABC News Australia,http://sc2022.stream-link.org/tv2306.php?id=e01
+ABC News,http://sc2022.stream-link.org/tv2306.php?id=e02
+ANN News,http://sc2022.stream-link.org/tv2306.php?id=e03
+Asianet News,http://sc2022.stream-link.org/tv2306.php?id=e04
+BBC News,http://sc2022.stream-link.org/tv2306.php?id=e05
+CNA News,http://sc2022.stream-link.org/tv2306.php?id=e06
+CNN Live,http://sc2022.stream-link.org/tv2306.php?id=e07
+DW News,http://sc2022.stream-link.org/tv2306.php?id=e08
+EURO News,http://sc2022.stream-link.org/tv2306.php?id=e09
+Fox Live,http://sc2022.stream-link.org/tv2306.php?id=e10
+France 24 English,http://sc2022.stream-link.org/tv2306.php?id=e11
+GB News,http://sc2022.stream-link.org/tv2306.php?id=e12
+Haber Turk,http://sc2022.stream-link.org/tv2306.php?id=e13
+NBC News,http://sc2022.stream-link.org/tv2306.php?id=e14
+NHK World Japan,http://sc2022.stream-link.org/tv2306.php?id=e15
+SKY News,http://sc2022.stream-link.org/tv2306.php?id=e16
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-TOP NEWS,http://tv.redrainl.site:9500/live.m3u8?c=14
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
