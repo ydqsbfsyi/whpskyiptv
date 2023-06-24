@@ -270,16 +270,6 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 NOW新闻,http://sc2022.stream-link.org/tv2306.php?id=c03
 港台电视31,http://sc2022.stream-link.org/tv2306.php?id=h08
 港台电视32,http://sc2022.stream-link.org/tv2306.php?id=h09
-台视,rtmp://219.80.97.77/sat/tv071
-中视,rtmp://219.80.97.77/sat/tv091
-民视,rtmp://219.80.97.77/sat/tv051
-华视,rtmp://219.80.97.77/sat/tv111
-华视,rtmp://119.81.124.89/sat/tv111
-中视,http://awei.beimua.com/iptv.php?id=60
-台视,http://awei.beimua.com/iptv.php?id=61
-民视,http://awei.beimua.com/iptv.php?id=62
-华视,http://awei.beimua.com/iptv.php?id=63
-华视CTS HD,rtmp://119.81.124.89/sat/tv111
 東森新聞,http://sc2022.stream-link.org/tv2306.php?id=t01
 中天新聞,http://sc2022.stream-link.org/tv2306.php?id=t03
 華視新聞,http://sc2022.stream-link.org/tv2306.php?id=t04
@@ -304,11 +294,6 @@ TVBS亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t16
 民視綜藝台,http://sc2022.stream-link.org/tv2306.php?id=t20
 民視影劇台,http://sc2022.stream-link.org/tv2306.php?id=t21
 民視旅遊台,http://sc2022.stream-link.org/tv2306.php?id=t22
-东森财经,rtmp://219.80.97.77/sat/tv571
-东森财经,rtmp://119.81.124.89/sat/tv571
-TVBS新闻,rtmp://119.81.124.89/sat/tv551
-TVBS新闻,rtmp://219.80.97.77/sat/tv551
-TVBS欢乐,rtmp://219.80.97.77/sat/tv421
 天映电影,http://120.84.96.87:808/hls/85/index.m3u8
 天映电影,http://120.84.96.89:808/hls/85/index.m3u8
 东森电影,http://120.84.96.87:808/hls/32/index.m3u8
@@ -321,12 +306,6 @@ TVBS欢乐,rtmp://219.80.97.77/sat/tv421
 龙祥时代,http://120.84.96.89:808/hls/35/index.m3u8
 好莱坞电影,http://120.84.96.87:808/hls/24/index.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-纬来育乐,rtmp://119.81.124.89/sat/tv701
-纬来育乐,rtmp://219.80.97.77/sat/tv701
-纬来日本,rtmp://119.81.124.89/sat/tv771
-纬来日本,rtmp://219.80.97.77/sat/tv771
-ELEVEN 1,rtmp://219.80.97.77/sat/tv731
-ELEVEN 2,rtmp://219.80.97.77/sat/tv741
 
 
 
