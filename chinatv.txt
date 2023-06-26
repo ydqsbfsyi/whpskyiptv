@@ -38,8 +38,9 @@
 五星体育,http://222.65.21.143:4022/udp/239.45.3.210:5140
 五星体育,http://www.happyspace.party:4022/udp/239.45.3.210:5140
 劲爆体育,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-劲爆体育,http://119.91.192.228/TVOD/88888888/gudou.php?id=jinbaotiyuHD_7000
+劲爆体育,http://159.75.85.63:5681/sxg.php?id=lqhxjcHDH265_4000
 劲爆体育,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/sxg.php?id=lqhxjcHDH265_4000
+劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
 第一财经,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://gslbserv.itv.cmvideo.cn:80/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001017/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
