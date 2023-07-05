@@ -15,12 +15,14 @@
 新闻综合,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 新闻综合,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=xwzhhd8m/8000000
 新闻综合,http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
+新闻综合,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=xwzhhd8m/8000000
 上海都市,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 上海都市,http://gslbserv.itv.cmvideo.cn:80/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 上海都市,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001015/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8?
 上海都市,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=dshd8m/8000000
 上海都市,http://58.34.204.67:9901/tsfile/live/1017_1.m3u8
+上海都市,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=dshd8m/8000000
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://gslbserv.itv.cmvideo.cn:80/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
@@ -29,11 +31,14 @@
 五星体育,http://39.134.136.160:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
+五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+五星体育,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=wxtyhd8m/8000000
 劲爆体育,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 劲爆体育,http://159.75.85.63:5681/sxg.php?id=lqhxjcHDH265_4000
 劲爆体育,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/sxg.php?id=lqhxjcHDH265_4000
 劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
+劲爆体育,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=jbtyhd8m/8000000
 第一财经,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://gslbserv.itv.cmvideo.cn:80/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001017/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
@@ -43,6 +48,7 @@
 第一财经,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=dycjhd8m/8000000
 第一财经,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
 第一财经,http://58.34.204.67:9901/tsfile/live/1018_1.m3u8
+第一财经,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=dycjhd8m/8000000
 上海ICS外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8?
 上海ICS外语,http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 上海ICS外语,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
@@ -55,6 +61,7 @@
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
 东方影视,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
+东方影视,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 东方影视,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001016/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8?
 都市剧场,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
@@ -64,20 +71,22 @@
 乐游,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 乐游,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
 乐游,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001200/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
+乐游,http://58.34.204.67:9901/tsfile/live/1010_1.m3u8
 生活时尚,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001199/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-新视觉,http://183.129.242.178:3333/tsfile/live/1021_1.m3u8
+新视觉,http://58.34.204.67:9901/tsfile/live/1011_1.m3u8
 新视觉,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/sxg.php?id=ycxsjH265_4000
 新视觉,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=xsjhd8m/8000000
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-魅力足球,http://119.91.192.228/TVOD/88888888/gudou.php?id=meiliyinyueHD_7000
-咪咕音乐,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
+魅力足球,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=mlyyhd8m/8000000
+魅力足球,http://58.34.204.67:9901/tsfile/live/1004_1.m3u8
 东方财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8?
 东方财经,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001318/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 金色学堂,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001194/1.m3u8
 法治天地,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001195/1.m3u8
 法治天地,http://gslbserv.itv.cmvideo.cn:80/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
+法治天地,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=fztd8m/8000000
 七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8?
 七彩戏剧,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001308/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 哈哈炫动,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001232/1.m3u8
@@ -217,11 +226,14 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 重庆卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001129/1.m3u8
 
 港澳台,#genre#
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://iptv.weai.love/live/88888888/fhzx.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰资讯,http://171.110.62.53:8181/tsfile/live/1069_1.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://171.110.62.53:8181/tsfile/live/1070_1.m3u8
+凤凰香港,http://171.110.62.53:8181/tsfile/live/1071_1.m3u8
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 翡翠台,http://119.91.192.228/TVOD/88888888/gudou.php?id=1350_4500
 明珠台,http://119.91.192.228/TVOD/88888888/gudou.php?id=1351_4500
@@ -259,18 +271,12 @@ TVBS亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t16
 民視綜藝台,http://sc2022.stream-link.org/tv2306.php?id=t20
 民視影劇台,http://sc2022.stream-link.org/tv2306.php?id=t21
 民視旅遊台,http://sc2022.stream-link.org/tv2306.php?id=t22
-天映电影,http://120.84.96.87:808/hls/85/index.m3u8
-天映电影,http://120.84.96.89:808/hls/85/index.m3u8
-东森电影,http://120.84.96.87:808/hls/32/index.m3u8
-东森电影,http://120.84.96.89:808/hls/32/index.m3u8
-东森电影,http://120.84.96.82:808/hls/32/index.m3u8
-东森洋片,http://120.84.96.87:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.89:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.82:808/hls/33/index.m3u8
-龙祥时代,http://120.84.96.87:808/hls/35/index.m3u8
-龙祥时代,http://120.84.96.89:808/hls/35/index.m3u8
-好莱坞电影,http://120.84.96.87:808/hls/24/index.m3u8
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+东森电影,http://171.108.239.112:8020/tsfile/live/1010_1.m3u8
+东森电影,http://171.110.62.89:8181/tsfile/live/1075_1.m3u8
+东森洋片,http://171.108.239.112:8020/tsfile/live/1016_1.m3u8
+东森洋片,http://171.110.62.89:8181/tsfile/live/1133_1.m3u8
+龙祥时代,http://171.108.239.112:8020/tsfile/live/1011_1.m3u8
+私人影院,http://171.108.239.112:8020/tsfile/live/1014_1.m3u8
 
 
 
