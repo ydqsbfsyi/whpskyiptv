@@ -8,25 +8,25 @@
 东方卫视,http://live.cooltv.top/tv/aishang.php?id=dfwshd
 东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
 新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8?
+新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 新闻综合,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001014/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 新闻综合,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 新闻综合,http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
 新闻综合,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=xwzhhd8m/8000000
-新闻综合,http://116.232.113.69:4022/udp/239.45.3.209:5140
 上海都市,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001015/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8?
 上海都市,http://58.34.204.67:9901/tsfile/live/1017_1.m3u8
 上海都市,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=dshd8m/8000000
-上海都市,http://116.232.113.69:4022/udp/239.45.3.236:5140
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
+五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://39.134.136.160:6610/000000001000/5000000010000017540/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1417620230603135958814476&channel-id=bestzb&Contentid=5000000010000017540
 五星体育,http://39.134.136.160:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=wxtyhd8m/8000000
-五星体育,http://116.232.113.69:4022/udp/239.45.3.106:5140
 劲爆体育,http://159.75.85.63:5681/sxg.php?id=lqhxjcHDH265_4000
+劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
 劲爆体育,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=jbtyhd8m/8000000
 第一财经,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001017/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
@@ -36,12 +36,10 @@
 第一财经,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
 第一财经,http://58.34.204.67:9901/tsfile/live/1018_1.m3u8
 第一财经,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=dycjhd8m/8000000
-第一财经,http://116.232.113.69:4022/udp/239.45.3.211:5140
 上海ICS外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8?
 上海ICS外语,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
 上海ICS外语,,http://gslbserv.itv.cmvideo.cn:80/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 上海ICS外语,http://58.34.204.67:9901/tsfile/live/1019_1.m3u8
-上海ICS外语,http://116.232.113.69:4022/udp/239.45.1.127:5140
 上海教育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001053/index.m3u8?
 上海教育,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001268/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 上海教育,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
@@ -49,7 +47,6 @@
 东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
 东方影视,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 东方影视,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
-东方影视,http://116.232.113.69:4022/udp/239.45.3.237:5140
 东方影视,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001016/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 欢笑剧场,http://116.232.113.69:4022/udp/239.45.3.196:5140
 都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8?
@@ -57,12 +54,10 @@
 都市剧场,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
 纪实人文,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001019/1.m3u8
 纪实人文,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-纪实人文,http://116.232.113.69:4022/udp/239.45.3.212:5140
 乐游,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 乐游,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
 乐游,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001200/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 乐游,http://58.34.204.67:9901/tsfile/live/1010_1.m3u8
-乐游,http://116.232.113.69:4022/udp/239.45.3.135:5140
 生活时尚,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001199/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 生活时尚,http://116.232.113.69:4022/udp/239.45.3.132:5140
 新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
@@ -78,7 +73,6 @@
 金色学堂,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001194/1.m3u8
 法治天地,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001195/1.m3u8
 法治天地,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=fztd8m/8000000
-法治天地,http://116.232.113.69:4022/udp/239.45.1.46:5140
 七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8?
 七彩戏剧,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001308/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 哈哈炫动,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001232/1.m3u8
@@ -118,6 +112,9 @@ CCTV16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/22
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 绚影4K专区,http://222.212.90.192:18000/udp/239.93.42.33:5140
 Bloomberg TV+,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+臻彩4K欧洲,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+4k记录欧洲,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 
 
 央视卫视,#genre#
@@ -240,6 +237,26 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 NOW新闻,http://sc2022.stream-link.org/tv2306.php?id=c03
 港台电视31,http://sc2022.stream-link.org/tv2306.php?id=h08
 港台电视32,http://sc2022.stream-link.org/tv2306.php?id=h09
+中天新闻,http://bad-ass.site:35455/youtube/oIgbl7t0S_w
+中天新闻2台,http://bad-ass.site:35455/youtube/WPfPjbOLNfE
+寰宇新聞台,http://bad-ass.site:35455/youtube/B7Zp3d6xXWw
+寰宇新聞台灣台,http://bad-ass.site:35455/youtube/UcTIv4ZaE5Y
+东森新闻,http://bad-ass.site:35455/youtube/S5WOGu2HSes
+东森LIVE,http://bad-ass.site:35455/youtube/R2iMq5LKXco
+东森财经新闻,http://bad-ass.site:35455/youtube/WHEPzbFA3hw
+三立新闻,http://bad-ass.site:35455/youtube/oZdzzvxTfUY
+三立 iNEWS 新聞,http://bad-ass.site:35455/youtube/CKjSm5ZeehE
+三立海外直播,http://bad-ass.site:35455/youtube/FoBfXvlOR6I
+TVBS新闻,http://bad-ass.site:35455/youtube/2mCSYvcfhtc
+TVBS NEWS LIVE,http://bad-ass.site:35455/youtube/m_dhMSvUCIc
+TVBS 56頻道,http://bad-ass.site:35455/youtube/YvdcZ_jpLXE
+民视新闻,http://bad-ass.site:35455/youtube/ylYJSBUgaMA
+華視新聞,http://bad-ass.site:35455/youtube/wM0g8EoUZ_E
+公視新聞,http://bad-ass.site:35455/youtube/quwqlazU-c8
+TaiwanPlus,http://bad-ass.site:35455/youtube/dZp87qnWelE
+鏡新聞,http://bad-ass.site:35455/youtube/5n0y6b0Q25o
+台視新聞台,http://bad-ass.site:35455/youtube/xL0ch83RAK8
+中視新聞,http://bad-ass.site:35455/youtube/TCnaIE_SAtM
 東森新聞,http://sc2022.stream-link.org/tv2306.php?id=t01
 中天新聞,http://sc2022.stream-link.org/tv2306.php?id=t03
 華視新聞,http://sc2022.stream-link.org/tv2306.php?id=t04
@@ -264,12 +281,6 @@ TVBS亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t16
 民視綜藝台,http://sc2022.stream-link.org/tv2306.php?id=t20
 民視影劇台,http://sc2022.stream-link.org/tv2306.php?id=t21
 民視旅遊台,http://sc2022.stream-link.org/tv2306.php?id=t22
-东森电影,http://171.108.239.112:8020/tsfile/live/1010_1.m3u8
-东森电影,http://171.110.62.89:8181/tsfile/live/1075_1.m3u8
-东森洋片,http://171.108.239.112:8020/tsfile/live/1016_1.m3u8
-东森洋片,http://171.110.62.89:8181/tsfile/live/1133_1.m3u8
-龙祥时代,http://171.108.239.112:8020/tsfile/live/1011_1.m3u8
-私人影院,http://171.108.239.112:8020/tsfile/live/1014_1.m3u8
 
 
 
@@ -300,6 +311,17 @@ NHK World Japan,http://sc2022.stream-link.org/tv2306.php?id=e15
 SKY News,http://sc2022.stream-link.org/tv2306.php?id=e16
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+DW,http://bad-ass.site:35455/youtube/pqabxBKzZ6M
+FRANCE 24,http://bad-ass.site:35455/youtube/h3MuIUNCCzI
+Sky News,http://bad-ass.site:35455/youtube/9Auq9mYxFEE
+ABC News,http://bad-ass.site:35455/youtube/w_Ma8oQLmSM
+Euronews,http://bad-ass.site:35455/youtube/pykpO5kQJ98
+National Geographic,http://bad-ass.site:35455/youtube/306xLRnW3Cc
+Nat Geo WILD,http://bad-ass.site:35455/youtube/6zGV59Ldp3s
+ANIMALS OF AFRICA 4K,http://bad-ass.site:35455/youtube/XHI_U7suyxg
+GREAT HUNTER - 4K,http://bad-ass.site:35455/youtube/vQP8AwAFzI8
+Most Beautiful Places 12K,http://bad-ass.site:35455/youtube/Rse-E5tARaY
+4K African Animal,http://bad-ass.site:35455/youtube/rkPCR6Ujtak
 
 
 斗鱼,#genre#
