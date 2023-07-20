@@ -229,58 +229,11 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 明珠台,http://119.91.192.228/TVOD/88888888/gudou.php?id=1351_4500
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 星河频道,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
-无线新闻,http://sc2022.stream-link.org/tv2306.php?id=h04
-无线新闻,http://sc2022.stream-link.org/tv2306.php?id=h06
+无线新闻,http://bad-ass.site/hklive.php?id=83
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
-无线财经,http://sc2022.stream-link.org/list.php?id=h005
+无线财经,http://bad-ass.site/hklive.php?id=85
 有线直播,http://61.10.2.145/live_freedirect/hd110_h.live/chunklist.m3u8
-NOW新闻,http://sc2022.stream-link.org/tv2306.php?id=c03
-港台电视31,http://sc2022.stream-link.org/tv2306.php?id=h08
-港台电视32,http://sc2022.stream-link.org/tv2306.php?id=h09
-中天新闻,http://bad-ass.site:35455/youtube/oIgbl7t0S_w
-中天新闻2台,http://bad-ass.site:35455/youtube/WPfPjbOLNfE
-寰宇新聞台,http://bad-ass.site:35455/youtube/B7Zp3d6xXWw
-寰宇新聞台灣台,http://bad-ass.site:35455/youtube/UcTIv4ZaE5Y
-东森新闻,http://bad-ass.site:35455/youtube/S5WOGu2HSes
-东森LIVE,http://bad-ass.site:35455/youtube/R2iMq5LKXco
-东森财经新闻,http://bad-ass.site:35455/youtube/WHEPzbFA3hw
-三立新闻,http://bad-ass.site:35455/youtube/oZdzzvxTfUY
-三立 iNEWS 新聞,http://bad-ass.site:35455/youtube/CKjSm5ZeehE
-三立海外直播,http://bad-ass.site:35455/youtube/FoBfXvlOR6I
-TVBS新闻,http://bad-ass.site:35455/youtube/2mCSYvcfhtc
-TVBS NEWS LIVE,http://bad-ass.site:35455/youtube/m_dhMSvUCIc
-TVBS 56頻道,http://bad-ass.site:35455/youtube/YvdcZ_jpLXE
-民视新闻,http://bad-ass.site:35455/youtube/ylYJSBUgaMA
-華視新聞,http://bad-ass.site:35455/youtube/wM0g8EoUZ_E
-公視新聞,http://bad-ass.site:35455/youtube/quwqlazU-c8
-TaiwanPlus,http://bad-ass.site:35455/youtube/dZp87qnWelE
-鏡新聞,http://bad-ass.site:35455/youtube/5n0y6b0Q25o
-台視新聞台,http://bad-ass.site:35455/youtube/xL0ch83RAK8
-中視新聞,http://bad-ass.site:35455/youtube/TCnaIE_SAtM
-東森新聞,http://sc2022.stream-link.org/tv2306.php?id=t01
-中天新聞,http://sc2022.stream-link.org/tv2306.php?id=t03
-華視新聞,http://sc2022.stream-link.org/tv2306.php?id=t04
-中視新聞,http://sc2022.stream-link.org/tv2306.php?id=t05
-民視新聞,http://sc2022.stream-link.org/tv2306.php?id=t06
-寰宇國際新聞,http://sc2022.stream-link.org/tv2306.php?id=t07
-寰宇台灣新聞,http://sc2022.stream-link.org/tv2306.php?id=t08
-三立財經新聞,http://sc2022.stream-link.org/tv2306.php?id=t09
-三立新聞,http://sc2022.stream-link.org/tv2306.php?id=t10
-三立新聞+,http://sc2022.stream-link.org/tv2306.php?id=t11
-三立新聞+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-三立台灣,http://sc2022.stream-link.org/tv2306.php?id=t23
-三立都會,http://sc2022.stream-link.org/tv2306.php?id=t24
-台視新聞,http://sc2022.stream-link.org/tv2306.php?id=t12
-TVBS新聞,http://sc2022.stream-link.org/tv2306.php?id=t13
-TVBS財經,http://sc2022.stream-link.org/tv2306.php?id=t14
-中天亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t15
-TVBS亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t16
-民視HD,http://sc2022.stream-link.org/tv2306.php?id=t17
-民視第一台,http://sc2022.stream-link.org/tv2306.php?id=t18
-民視台灣台,http://sc2022.stream-link.org/tv2306.php?id=t19
-民視綜藝台,http://sc2022.stream-link.org/tv2306.php?id=t20
-民視影劇台,http://sc2022.stream-link.org/tv2306.php?id=t21
-民視旅遊台,http://sc2022.stream-link.org/tv2306.php?id=t22
+
 
 
 
@@ -293,35 +246,9 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525
 NBC News,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ABC News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-ABC News Australia,http://sc2022.stream-link.org/tv2306.php?id=e01
-ABC News,http://sc2022.stream-link.org/tv2306.php?id=e02
-ANN News,http://sc2022.stream-link.org/tv2306.php?id=e03
-Asianet News,http://sc2022.stream-link.org/tv2306.php?id=e04
-BBC News,http://sc2022.stream-link.org/tv2306.php?id=e05
-CNA News,http://sc2022.stream-link.org/tv2306.php?id=e06
-CNN Live,http://sc2022.stream-link.org/tv2306.php?id=e07
-DW News,http://sc2022.stream-link.org/tv2306.php?id=e08
-EURO News,http://sc2022.stream-link.org/tv2306.php?id=e09
-Fox Live,http://sc2022.stream-link.org/tv2306.php?id=e10
-France 24 English,http://sc2022.stream-link.org/tv2306.php?id=e11
-GB News,http://sc2022.stream-link.org/tv2306.php?id=e12
-Haber Turk,http://sc2022.stream-link.org/tv2306.php?id=e13
-NBC News,http://sc2022.stream-link.org/tv2306.php?id=e14
-NHK World Japan,http://sc2022.stream-link.org/tv2306.php?id=e15
-SKY News,http://sc2022.stream-link.org/tv2306.php?id=e16
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-DW,http://bad-ass.site:35455/youtube/pqabxBKzZ6M
-FRANCE 24,http://bad-ass.site:35455/youtube/h3MuIUNCCzI
-Sky News,http://bad-ass.site:35455/youtube/9Auq9mYxFEE
-ABC News,http://bad-ass.site:35455/youtube/w_Ma8oQLmSM
-Euronews,http://bad-ass.site:35455/youtube/pykpO5kQJ98
-National Geographic,http://bad-ass.site:35455/youtube/306xLRnW3Cc
-Nat Geo WILD,http://bad-ass.site:35455/youtube/6zGV59Ldp3s
-ANIMALS OF AFRICA 4K,http://bad-ass.site:35455/youtube/XHI_U7suyxg
-GREAT HUNTER - 4K,http://bad-ass.site:35455/youtube/vQP8AwAFzI8
-Most Beautiful Places 12K,http://bad-ass.site:35455/youtube/Rse-E5tARaY
-4K African Animal,http://bad-ass.site:35455/youtube/rkPCR6Ujtak
+
 
 
 斗鱼,#genre#
