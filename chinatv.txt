@@ -229,11 +229,22 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 明珠台,http://119.91.192.228/TVOD/88888888/gudou.php?id=1351_4500
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 星河频道,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
+翡翠台,http://bad-ass.site/hklive.php?id=81
+J2台,http://bad-ass.site/hklive.php?id=82
+明珠台,http://bad-ass.site/hklive.php?id=84
 无线新闻,http://bad-ass.site/hklive.php?id=83
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 无线财经,http://bad-ass.site/hklive.php?id=85
 有线直播,http://61.10.2.145/live_freedirect/hd110_h.live/chunklist.m3u8
-
+HOY TV,http://bad-ass.site/hklive.php?id=77
+HOY TV 資訊台,http://bad-ass.site/hklive.php?id=78
+香港國際財經台,http://bad-ass.site/hklive.php?id=76
+ViuTV,http://bad-ass.site/hklive.php?id=99
+ViuTVSix,http://bad-ass.site/hklive.php?id=96
+Now 新聞台,http://bad-ass.site/hklive.php?id=332
+港台電視31,http://bad-ass.site/hklive.php?id=31
+港台電視32,http://bad-ass.site/hklive.php?id=32
+港台電視33,http://bad-ass.site/hklive.php?id=33
 
 
 
@@ -279,6 +290,70 @@ DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.
 斗鱼电视剧HD2,http://epg.112114.xyz/douyu/7489563
 斗鱼电视剧HD3,http://epg.112114.xyz/douyu/6706214
 斗鱼电视剧HD4,http://epg.112114.xyz/douyu/6566658
+
+埋堆堆,#genre#
+埋堆堆1,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
+埋堆堆2,http://43.128.40.42:198/虎牙直播/huya.php?id=23735126
+埋堆堆3,http://43.128.40.42:198/虎牙直播/huya.php?id=23865152
+埋堆堆4,http://43.128.40.42:198/虎牙直播/huya.php?id=23903196
+埋堆堆5,http://43.128.40.42:198/虎牙直播/huya.php?id=23740156
+埋堆堆6,http://43.128.40.42:198/虎牙直播/huya.php?id=23728660
+埋堆堆7,http://43.128.40.42:198/虎牙直播/huya.php?id=23735153
+埋堆堆8,http://43.128.40.42:198/虎牙直播/huya.php?id=23865058
+埋堆堆9,http://43.128.40.42:198/虎牙直播/huya.php?id=23734183
+埋堆堆10,http://43.128.40.42:198/虎牙直播/huya.php?id=23749068
+埋堆堆11,http://43.128.40.42:198/虎牙直播/huya.php?id=23865036
+埋堆堆12,http://43.128.40.42:198/虎牙直播/huya.php?id=23740162
+埋堆堆13,http://43.128.40.42:198/虎牙直播/huya.php?id=23829474
+埋堆堆14,http://43.128.40.42:198/虎牙直播/huya.php?id=23863833
+埋堆堆15,http://43.128.40.42:198/虎牙直播/huya.php?id=23903106
+埋堆堆16,http://43.128.40.42:198/虎牙直播/huya.php?id=23865025
+埋堆堆17,http://43.128.40.42:198/虎牙直播/huya.php?id=23728689
+埋堆堆18,http://43.128.40.42:198/虎牙直播/huya.php?id=23824171
+埋堆堆19,http://43.128.40.42:198/虎牙直播/huya.php?id=23860057
+埋堆堆20,http://43.128.40.42:198/虎牙直播/huya.php?id=23865072
+埋堆堆21,http://43.128.40.42:198/虎牙直播/huya.php?id=23734176
+埋堆堆22,http://43.128.40.42:198/虎牙直播/huya.php?id=23728651
+埋堆堆23,http://43.128.40.42:198/虎牙直播/huya.php?id=23734246
+埋堆堆24,http://43.128.40.42:198/虎牙直播/huya.php?id=23865179
+埋堆堆25,http://43.128.40.42:198/虎牙直播/huya.php?id=23734196
+埋堆堆26,http://43.128.40.42:198/虎牙直播/huya.php?id=23734211
+埋堆堆27,http://43.128.40.42:198/虎牙直播/huya.php?id=23865086
+埋堆堆28,http://43.128.40.42:198/虎牙直播/huya.php?id=23863796
+埋堆堆29,http://43.128.40.42:198/虎牙直播/huya.php?id=23863822
+埋堆堆30,http://43.128.40.42:198/虎牙直播/huya.php?id=23749083
+埋堆堆31,http://43.128.40.42:198/虎牙直播/huya.php?id=23734243
+埋堆堆32,http://43.128.40.42:198/虎牙直播/huya.php?id=23864480
+埋堆堆33,http://43.128.40.42:198/虎牙直播/huya.php?id=23746486
+埋堆堆34,http://43.128.40.42:198/虎牙直播/huya.php?id=23860049
+埋堆堆35,http://43.128.40.42:198/虎牙直播/huya.php?id=23749074
+埋堆堆36,http://43.128.40.42:198/虎牙直播/huya.php?id=23863882
+埋堆堆37,http://43.128.40.42:198/虎牙直播/huya.php?id=23863778
+埋堆堆38,http://43.128.40.42:198/虎牙直播/huya.php?id=23824164
+埋堆堆39,http://43.128.40.42:198/虎牙直播/huya.php?id=23829537
+埋堆堆40,http://43.128.40.42:198/虎牙直播/huya.php?id=23863809
+埋堆堆41,http://43.128.40.42:198/虎牙直播/huya.php?id=23865096
+埋堆堆42,http://43.128.40.42:198/虎牙直播/huya.php?id=23863804
+埋堆堆43,http://43.128.40.42:198/虎牙直播/huya.php?id=23728630
+埋堆堆44,http://43.128.40.42:198/虎牙直播/huya.php?id=23863895
+埋堆堆45,http://43.128.40.42:198/虎牙直播/huya.php?id=23863787
+埋堆堆46,http://43.128.40.42:198/虎牙直播/huya.php?id=23728637
+埋堆堆47,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
+埋堆堆48,http://43.128.40.42:198/虎牙直播/huya.php?id=23903085
+埋堆堆49,http://43.128.40.42:198/虎牙直播/huya.php?id=23903183
+埋堆堆50,http://43.128.40.42:198/虎牙直播/huya.php?id=23728647
+埋堆堆51,http://43.128.40.42:198/虎牙直播/huya.php?id=23746691
+埋堆堆52,http://43.128.40.42:198/虎牙直播/huya.php?id=23829447
+埋堆堆53,http://43.128.40.42:198/虎牙直播/huya.php?id=23728693
+埋堆堆54,http://43.128.40.42:198/虎牙直播/huya.php?id=23903130
+埋堆堆55,http://43.128.40.42:198/虎牙直播/huya.php?id=23734223
+埋堆堆56,http://43.128.40.42:198/虎牙直播/huya.php?id=23734169
+埋堆堆57,http://43.128.40.42:198/虎牙直播/huya.php?id=23865124
+埋堆堆58,http://43.128.40.42:198/虎牙直播/huya.php?id=23865186
+埋堆堆59,http://43.128.40.42:198/虎牙直播/huya.php?id=23902225
+埋堆堆60,http://43.128.40.42:198/虎牙直播/huya.php?id=23903164
+埋堆堆61,http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
+埋堆堆62,http://43.128.40.42:198/虎牙直播/huya.php?id=23863818
 
 
 其他,#genre#
