@@ -236,6 +236,7 @@ J2台,http://bad-ass.site/hklive.php?id=82
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 无线财经,http://bad-ass.site/hklive.php?id=85
 有线直播,http://61.10.2.145/live_freedirect/hd110_h.live/chunklist.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
 HOY TV,http://bad-ass.site/hklive.php?id=77
 HOY TV 資訊台,http://bad-ass.site/hklive.php?id=78
 香港國際財經台,http://bad-ass.site/hklive.php?id=76
@@ -245,7 +246,20 @@ Now 新聞台,http://bad-ass.site/hklive.php?id=332
 港台電視31,http://bad-ass.site/hklive.php?id=31
 港台電視32,http://bad-ass.site/hklive.php?id=32
 港台電視33,http://bad-ass.site/hklive.php?id=33
-
+龙祥时代,rtmp://pull-f5-spe.ixigua.com/live/xykmkloehkbkkkpvboyjetkewskhthkyukfkwetykkkhflxsk
+好莱坞电影,rtmp://pull-f5-spe.ixigua.com/live/xykkmpkkweuykskkckvskfklkvkfhfkykuekfkhkwklkcmbhlwky
+美亚电影,rtmp://pull-f5-spe.ixigua.com/live/xykvcbfyhbxcvswhjkhjlmcbkyukfhkkfkskhnfkhkfkbvmyky
+东森电影,rtmp://pull-f5-spe.ixigua.com/live/xykkowjxnkltjkhecvxckkekkekyhkjyjuokuomjfkhkkkjksky
+东森洋片,rtmp://pull-f5-spe.ixigua.com/live/xykkmkptjkkxfkwetkvbkstkkksutyhjkhflkkfhfhykwksyp
+天映频道,rtmp://pull-f5-spe.ixigua.com/live/xykkekcxlvofbkbvnkksfkvbhfhcvxcvkskbcvkfjvksfcbkbnktypk
+天映经典,rtmp://pull-f5-spe.ixigua.com/live/xykvcnyjskfksetkkfcvbcjtskkfvxcvsknmbnlkkhkknmyhskkftyjk
+星卫电影,rtmp://pull-f5-spe.ixigua.com/live/xykkpxnmkfhkuowekckxhvklfkffkjwpoehcopvjkokkfxwky
+龙华戏剧,rtmp://pull-f5-spe.ixigua.com/live/xyksfbxcvksfkjhnfcvbsxkjnksvmvbskkkfjhyukmkbvnkslhxj
+龙华经典,rtmp://pull-f5-spe.ixigua.com/live/xyksfbxcvksfkjhnfcvbsxkjnksvmbnfkukfjhyukmkbvnkslhjk
+纬来电影,rtmp://pull-f5-spe.ixigua.com/live/xykefkkxchkhkpfkxcvjwpejyptepjkxftvnxvskklkhvkfhwlky
+HBO,rtmp://pull-f5-spe.ixigua.com/live/xykmkklkpwkjctjfhjvkjkjuklvcbeywekweefshkfhhkskkcxhbo
+CINEMAX,rtmp://pull-f5-spe.ixigua.com/live/xykkekcxlvofbkbvbkkkbvyvblcfybkxjbckcfjvsfcbkbnktcknemkx
+AXN,rtmp://pull-f5-spe.ixigua.com/live/xykkekcxlvofbkbvbkkkfkvkhslcfybkssxskbckcfjvsfcbkbnktykxn
 
 
 国际,#genre#
