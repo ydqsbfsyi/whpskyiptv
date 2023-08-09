@@ -11,18 +11,18 @@ CCTV-6,https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
 
 CCTV-5+ 体育赛事,https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
 
-CCTV-9纪录,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
+CCTV9纪录,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
 CCTV-9纪录,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
 CCTV-10 科教,https://live.goodiptv.club/api/sxg.php?id=CCTV-10H265_4000
 CCTV-11 戏曲,https://live.goodiptv.club/api/sxg.php?id=CCTV-11H265_4000
 
-CCTV-5+ 体育赛事,https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
+CCTV5+ 体育赛事,https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
 CCTV-13 新闻,https://live.goodiptv.club/api/sxg.php?id=CCTV-xw_4000
 
-CCTV-9纪录,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
+CCTV-9,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
 
-CCTV-9纪录,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
-CCTV-16 奥林匹克,https://live.goodiptv.club/api/sxg.php?id=CCTV-16_4000
+CCTV-9_纪录,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
+CCTV16 奥林匹克,https://live.goodiptv.club/api/sxg.php?id=CCTV-16_4000
 
 CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228289/index.m3u8
 寰宇新闻台,mitv://135.148.104.228:19806/cfebef54166f47ff9658a5ddf9524886
