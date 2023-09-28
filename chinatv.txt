@@ -27,7 +27,11 @@ CCTV16 奥林匹克,https://live.goodiptv.club/api/sxg.php?id=CCTV-16_4000
 CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228289/index.m3u8
 寰宇新闻台,mitv://135.148.104.228:19806/cfebef54166f47ff9658a5ddf9524886
 
-testCCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+besttvCCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+ghyxCCTV4,https://live.goodiptv.club/api/ghyx.php?id=CCTV4HD_6000
+aishangCCTV4,https://live.goodiptv.club/aishang/cctv4hd
+cqyxCCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
+yqgdCCTV4,https://live.goodiptv.club/api/yqgd.php?id=cctv4
 
 上海,#genre#
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
