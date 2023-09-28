@@ -5,7 +5,7 @@ CCTV-2,https://live.goodiptv.club/api/sxg.php?id=CCTV-2H265_4000
 
 3野食小哥,https://www.goodiptv.club/douyu/1443964
 
-CCTV-4,https://live.goodiptv.club/api/sxg.php?id=CCTV-4H265_4000
+CCTV-4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
 CCTV-5,https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
 CCTV-6,https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
 
@@ -32,6 +32,7 @@ ghyxCCTV4,https://live.goodiptv.club/api/ghyx.php?id=CCTV4HD_6000
 aishangCCTV4,https://live.goodiptv.club/aishang/cctv4hd
 cqyxCCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
 yqgdCCTV4,https://live.goodiptv.club/api/yqgd.php?id=cctv4
+sxgCCTV4,https://live.goodiptv.club/api/sxg.php?id=CCTV-4H265_4000
 
 上海,#genre#
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
