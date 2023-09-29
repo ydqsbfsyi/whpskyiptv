@@ -34,6 +34,19 @@ aishangCCTV4,https://live.goodiptv.club/aishang/cctv4hd
 cqyxCCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
 yqgdCCTV4,https://live.goodiptv.club/api/yqgd.php?id=cctv4
 sxgCCTV4,https://live.goodiptv.club/api/sxg.php?id=CCTV-4H265_4000
+aptv-4-v4,http://live.aptvapp.com/PLTV/bestv.php?id=cctv4hd8m/8000000
+aptv-4-v6,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228156/index.m3u8
+aptv-蜀小果IPV6,http://live.aptvapp.com/sxg.php?id=CCTV-4H265_4000
+yang-4,https://tv.iill.top/bestv/cctv4hd8m/8000000
+whpsky-4-v6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+whpsky-4-v6,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228156/index.m3u8
+zbefine-4HD,http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
+zbefine-4HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+yuechan-4-v6,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+fanmingming-4-v6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
+zhanghongguang-4-v6,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+
+
 
 上海,#genre#
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
