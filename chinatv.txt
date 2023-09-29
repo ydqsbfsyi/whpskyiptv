@@ -6,6 +6,7 @@ CCTV-2,https://live.goodiptv.club/api/sxg.php?id=CCTV-2H265_4000
 3野食小哥,https://www.goodiptv.club/douyu/1443964
 
 CCTV-4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
+CCTV-4,https://live.goodiptv.club/api/sxg.php?id=CCTV-4H265_4000
 CCTV-5,https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
 CCTV-6,https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
 
