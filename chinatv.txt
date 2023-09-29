@@ -45,6 +45,22 @@ zbefine-4HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 yuechan-4-v6,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 fanmingming-4-v6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
 zhanghongguang-4-v6,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+zhanghongguang-4-shanghai-v6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
+zhanghongguang-4-jiangsumb,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228156/index.m3u8
+zhanghongguang-4-jiangsumb,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221227683/index.m3u8
+zhanghongguang-4-jiangsumb,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221227658/index.m3u8
+zhanghongguang-4-jiangsumb,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221227658/index.m3u8
+zhanghongguang-4-jiangsumb,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221227683/index.m3u8
+zhanghongguang-4-jiangsumb,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228156/index.m3u8
+zhanghongguang-4-gansu,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226539/1.m3u8
+zhanghongguang-4-xanyangmb,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+zhanghongguang-4-xanyangmb,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001015/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+zhanghongguang-4-xanyangmb,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+zhanghongguang-4-xanyangmb,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001015/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+zhanghongguang-4-xanyangmb,http://211.137.115.109:80/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
+zhanghongguang-4-xanyangmb,http://211.137.115.109:80/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
+zhanghongguang-4-xanyangmb,http://211.137.115.109:80/gitv_live/CCTV-4/CCTV-4.m3u8
+zhanghongguang-4-xanyangmb,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 
 
 
