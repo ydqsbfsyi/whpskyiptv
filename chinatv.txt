@@ -17,16 +17,24 @@ CCTV-4,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-15556
 CCTV-4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
 CCTV-4,https://live.goodiptv.club/api/sxg.php?id=CCTV-4H265_4000
 
-CCTV-5,https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
-CCTV-6,https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
+CCTV5,https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
+CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
+
+CCTV6,https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
+CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228484/index.m3u8
 
 CCTV-5+ 体育赛事,https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
 
 CCTV9纪录,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
+
 CCTV-9,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
 CCTV-9,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/1/224/3221228303/index.m3u8
 
-CCTV-10 科教,https://live.goodiptv.club/api/sxg.php?id=CCTV-10H265_4000
+CCTV-10,https://live.goodiptv.club/api/sxg.php?id=CCTV-10H265_4000
 CCTV-10,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/1/224/3221228286/index.m3u8
 
 CCTV-11 戏曲,https://live.goodiptv.club/api/sxg.php?id=CCTV-11H265_4000
