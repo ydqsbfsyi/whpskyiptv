@@ -1,6 +1,10 @@
 顶,#genre#
 CCTV-1,https://live.goodiptv.club/api/sxg.php?id=CCTV-1H265_4000
+CCTV-1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-1,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
 CCTV-2,https://live.goodiptv.club/api/sxg.php?id=CCTV-2H265_4000
+CCTV-2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 
 
 3野食小哥,https://www.goodiptv.club/douyu/1443964
@@ -19,8 +23,12 @@ CCTV-6,https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
 CCTV-5+ 体育赛事,https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
 
 CCTV9纪录,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
-CCTV-9纪录,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
+CCTV-9,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
+CCTV-9,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/1/224/3221228303/index.m3u8
+
 CCTV-10 科教,https://live.goodiptv.club/api/sxg.php?id=CCTV-10H265_4000
+CCTV-10,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/1/224/3221228286/index.m3u8
+
 CCTV-11 戏曲,https://live.goodiptv.club/api/sxg.php?id=CCTV-11H265_4000
 
 CCTV5+ 体育赛事,https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
