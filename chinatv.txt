@@ -92,7 +92,7 @@ zhanghongguang-4-xanyangmb,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 
 
 
-bj，#genre#
+北京移动，#genre#
 CCTV-1综合-高清,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
 CCTV-2财经-高清,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
 CCTV-3综艺-高清,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
